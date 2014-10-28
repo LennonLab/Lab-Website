@@ -9,8 +9,9 @@
 <div id="right-side">
 <div>
 	<h4 style="text-align:left;"
-    	<pre> 
-        Microbial Biodiversity: From Evolution To Ecosystems 
+    	
+	<pre> 
+        Microbial Biodiversity: Evolution To Ecosystems 
         </pre>
         </h4>
 </div>        

@@ -31,7 +31,7 @@ img {
 <a id="Lennon"></a>
 <h5>Jay T. Lennon </h5>
 <p><b>Principal Investigator</b><br />
-<a href="">view CV</a></p>
+<a href="http://www.indiana.edu/~microbes/images/people/CV_2014_Lennon.pdf">view CV</a></p>
 <p>
 <b>Research interests:</b><br />
 Biodiversity, traits, dormancy, microbiology, resource variability, evolution</p>
@@ -196,7 +196,7 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 <p><b>Evan Kane</b> Postdoctoral Researcher, faculty at Michighan Tech</p>
 <!--- entry --->
 <p><b>Kali Bird</b> Graduate Student, founder of Hike New York</p>
-<h5>Visiting Scholars </h5>
+<h5>Visiting Scholars and Teachers</h5>
 <!--- entry --->
 <p><b>Sarah Bray</b> Associate Professor, Transylvania University</p>
 <!--- entry --->
