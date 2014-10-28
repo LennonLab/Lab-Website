@@ -43,17 +43,17 @@ Biodiversity, traits, dormancy, microbiology, resource variability, evolution</p
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/ArianeHead.jpg" />
+<img src="http://www.indiana.edu/~microbes/images/people/KenHead.jpg" />
 </div>
 
 <div id="right-side-research">
-<a id="Peralta"></a>
+<a id="Locey"></a>
 <h5>Ken Locey </h5>
-<p><b>Postdoctoral Researcher</b></p>
+<p><b>Postdoctoral Researcher</b><br />
+<a href="http://kenlocey.weecology.org/">Personal website</a></p>
 <p>
 <b>Research interests:</b><br />
-Soil microbial ecology, environmental gradients, nutrient cycling, plant-soil-microbialinteractions in agroecosystems
-</p>
+Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy and seed banks, ecological theory and modeling </p>
 </div>
 
 
@@ -89,7 +89,8 @@ Aquatic molecular microbiology, ecology and evolution of cyanophages, harmful al
 <div id="right-side-research">
 <a id="Muscarella"></a>
 <h5>Mario Muscarella </h5>
-<p><b>Ph.D. Student</b></p>
+<p><b>Ph.D. Student</b><br />
+<a href="http://mmuscarella.github.io/">Personal website</a></p>
 <p>
 <b>Research interests:</b><br />
 Aquatic microbiology, molecular and ecological strategies of resource utilization.
@@ -125,12 +126,12 @@ Terrestrial microbial ecology, plant-microbe interactions, and biogeography
 </div>
 
 <div id="right-side-research">
-<a id="Bird"></a>
+<a id="Shoemaker"></a>
 <h5>Will Shoemaker </h5>
 <p><b>Ph.D. Student</b></p>
 <p>
 <b>Research interests:</b><br />
-Generalist and specialist utiliztation of diverse phosphorus sources by freshwater bacteria.
+Microbial life-history traits, ecological-evolutionary interactions, and bioinformatics.
 </p>
 </div>
 
@@ -144,7 +145,7 @@ Generalist and specialist utiliztation of diverse phosphorus sources by freshwat
 </div>
 
 <div id="right-side-research">
-<a id="Bird"></a>
+<a id="Wisnoski"></a>
 <h5>Nathan Wisnoski </h5>
 <p><b>Ph.D. Student</b></p>
 <p>
@@ -176,6 +177,24 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 
 <div style="clear: both;"><br /><br /></div>
 
+<!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/CumminsHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Cummins"></a>
+<h5>Sarah Cummins </h5>
+<p><b>Undergraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Dormancy, skin microbiome, species interactions.
+</p>
+</div>
+
+
+
+<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="rightside-research">
