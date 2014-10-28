@@ -29,7 +29,27 @@ Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (In Review) Resuscitation of t
 
 <!--- pub entry --->
 <p>
+Jones SE, <u>Lennon JT</u> (In Review) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems.
+</p>
+
+<!--- pub entry --->
+<p>
 Vert JC, Harker AR,Breakwell DP, <u>Lennon JT</u>, Aanderud ZA (In Review) Hypersaline environments constrains bacterial dormancy in lakes.
+</p>
+
+<!--- pub entry --->
+<p>
+Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (In review) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed.
+</p>
+
+<!--- pub entry --->
+<p>
+Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (In Review) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges.
+</p>
+
+<!--- pub entry --->
+<p>
+Kinsman-Costello LE, Hamilton SK, O’Brien J, <u>Lennon JT</u> (In Review) Phosphorus release from the drying and reflooding of diverse wetland sediments.
 </p>
 
 <!--- pub entry --->
