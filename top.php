@@ -57,7 +57,7 @@ Microbial Ecology</title>
             </div>
             
             <div id="first_top_left_corner">
-            <img src="http://www.indiana.edu/~microbes/images/TLcorner.gif" style="border:none;"  alt="" width="99%"/>
+            <img src="http://www.indiana.edu/~microbes/images/TLcorner.png" style="border:none;"  alt="" width="100%"/>
             </div>
             
             <div id="header_nav">
@@ -84,7 +84,7 @@ Microbial Ecology</title>
            <div style="clear: both;"></div>
            
            <div id="tl_corner">
-            <img src="http://www.indiana.edu/~microbes/images/TLcorner.gif" style="border:none;"  alt="" width="99%"/>
+            <img src="http://www.indiana.edu/~microbes/images/TLcorner.png" style="border:none;"  alt="" width="100%"/>
             </div>
            
 			<div class="content">
