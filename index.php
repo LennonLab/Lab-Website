@@ -8,7 +8,7 @@
 
 <div id="right-side">
 <div>
-	<h4 style="text-align:left;"
+	<h4 style="text-align:left;">
     	
 	<pre> 
         Microbial Biodiversity: Evolution To Ecosystems 
