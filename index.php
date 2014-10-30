@@ -8,11 +8,7 @@
 
 <div id="right-side">
 <div>
-	<h4>    	
-	<span style="text-align:left;">
-        Microbial Biodiversity: Evolution To Ecosystems 
-        </span>
-        </h4>
+	<h4 style="text-align:left;">Microbial Biodiversity: Evolution To Ecosystems</h4>
 </div>        
 <p>
 Microorganisms are the most abundant and diverse life forms on Earth. They attain high population densities, have fast reproductive rates, and evolve rapidly to changes in their environment. Moreover, microbes carry out important functions, including nutrient cycling, trace gas flux, and carbon sequestration, which are important for the stability of natural and managed ecosystems. 
