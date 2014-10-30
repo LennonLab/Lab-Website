@@ -25,10 +25,10 @@
 </div>
 
 <div id="right-side-research">
-<h5>Microbial Metageneomics </h5>
-<p><b>MMG 490/890</b></p>
+<h5>Quantitative Biodiversity </h5>
+<p><b>BIOL Z620</b></p>
 <p>
-Two-week summer course for advanced undergrads, graduate students, postdocs, and faculty at KBS co-taught with Tom Schmidt. Consists of lectures, field work, wet chemistry, and computer modules to help students generate and analyse molecular community data. A detailed description of the course can be found here. Application and scholarship information can be found here.  
+In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. Students calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. Students use modern statistical computing and graphics environments (i.e., <a href=" http://www.r-project.org/"> R</a>), as well as version control tools (i.e., <a href=" https://github.com/"> GitHub</a>). More information can be found on the <a href="http://goo.gl/y4oK7c/"> course website</a>. 
 </p>
 </div>
 
@@ -38,56 +38,36 @@ Two-week summer course for advanced undergrads, graduate students, postdocs, and
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/teaching/Chemostats.jpg" />
+<img src="http://www.indiana.edu/~microbes/images/teaching/microbiomes.jpg" />
 </div>
 
 <div id="right-side-research">
-<h5>Quantitative Microbial Ecology and Evolution ("QMEE")  </h5>
-<p><b>MMG 892/PLB 800/ZOL 895 </b></p>
+<h5>Microbiomes </h5>
+<p><b>BIOL Z620 </b></p>
 <p>
-Graduate seminar course co-taught in the fall semester with Chris Klausmeier, Elena Litchman, and Jen Lau. Students choose papers and lead discussion on topics such as biogeography, phylogenetic conservatism, quorum sensing, metabolic theory, and mutualisms. Here are the reading lists for 2009 and 2010.  
+In this graduate-level class, we focus on the microbiomes of different hosts (humans, model systems, and non-model systems). We highlight the genetic and immunological processes involved in the microbiome that influence the behavior, physiology, ecology, and fitness of their hosts. Products from the course include a comprehensive, <a href="http://www.mendeley.com/groups/4034021/z620-microbiomes/">open-access bibliography</a> and the generation of a conceptual model for approaching microbiome research. 
 </p>
 </div>
-
 
 
 <div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/teaching/Iurii.jpg" />
+<img src="http://www.indiana.edu/~microbes/images/teaching/colormicro.jpg" />
 </div>
 
 <div id="right-side-research">
 <h5>Microbial Ecology  </h5>
-<p><b>MMG 425 </b></p>
+<p><b>BIOL L472 </b></p>
 <p>
-Upper-level campus (East Lansing) course emphasizing fundamental concepts of ecology & evolutionary biology and how they pertain to to microbial systems. In teams, students conduct biodiversity projects resulting in contributions to MicrobeWiki, a free wiki resource on microbes and microbiology. Microbial Ecology is co-taught with Ned Walker in the Spring semesters. 
+In this upper-level course, we cover fundamental concepts of ecology & evolutionary biology and how they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary liteturate, students engage in biodiversity projects that result in oral presentations and a contribution to <a href="https://microbewiki.kenyon.edu/index.php/MicrobeWiki">MicrobeWiki</a>, a free wiki resource on microbes and microbiology. Course offered in sping semesters.
 </p>
 </div>
 
 
 
 <div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/teaching/SteveSeds.jpg" />
-</div>
-
-<div id="right-side-research">
-<h5>Biogeoechemistry  </h5>
-<p><b>MMG 426</b></p>
-<p>
-This upper-level undergraduate and graduate course has been offered in summers at KBS. The two week course has been co-taught with Steve Hamilton and Phil Roberston. It focuses on the the interactions between organisms and the fluxes of energy and cycles of elements in the biosphere. Students particpate in lectures, field sampling, and laboratory excercises. A more complete decription of the course can be found here.  
-</p>
-</div>
-
-
-
-<div style="clear: both;"><br /><br /></div>
-
-
 
 
 </div>

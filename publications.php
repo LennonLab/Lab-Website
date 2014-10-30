@@ -49,7 +49,7 @@ Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Len
 
 <!--- pub entry --->
 <p>
-Kinsman-Costello LE, Hamilton SK, O’Brien J, <u>Lennon JT</u> (In Review) Phosphorus release from the drying and reflooding of diverse wetland sediments.
+Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosphorus release from the drying and reflooding of diverse wetland sediments.
 </p>
 
 <!--- pub entry --->
