@@ -34,7 +34,7 @@ img {
 <a href="http://www.indiana.edu/~microbes/images/people/CV_2014_Lennon.pdf">view CV</a></p>
 <p>
 <b>Research interests:</b><br />
-Biodiversity, traits, dormancy, microbiology, resource variability, evolution</p>
+Biodiversity, traits, dormancy, microbiology, resource variability, ecoloyg and evolution.</p>
 </div>
 
 
@@ -53,7 +53,7 @@ Biodiversity, traits, dormancy, microbiology, resource variability, evolution</p
 <a href="http://kenlocey.weecology.org/">Personal website</a></p>
 <p>
 <b>Research interests:</b><br />
-Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy and seed banks, ecological theory and modeling </p>
+Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy and seed banks, ecological theory and modeling. </p>
 </div>
 
 
@@ -68,9 +68,8 @@ Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy a
 
 <div id="right-side-research">
 <a id="Larsen"></a>
-<h5>Megan Larsen </h5>
-<p><b>Ph.D. Student </b><br />
-<a href="http://mypage.iu.edu/~meglarse">Personal website</a></p>
+<h5>Megan Larsen</h5>
+<p><b>Ph.D. Student</b></p>
 <p>
 <b>Research interests:</b><br />
 Aquatic molecular microbiology, ecology and evolution of cyanophages, harmful algal blooms.
@@ -112,7 +111,7 @@ Aquatic microbiology, molecular and ecological strategies of resource utilizatio
 <p><b>Ph.D. Student</b></p>
 <p>
 <b>Research interests:</b><br />
-Terrestrial microbial ecology, plant-microbe interactions, and biogeography
+Terrestrial microbial ecology, plant-microbe interactions, and biogeography.
 </p>
 </div>
 
@@ -122,7 +121,7 @@ Terrestrial microbial ecology, plant-microbe interactions, and biogeography
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/KaliHead.jpg" />
+<img src="http://www.indiana.edu/~microbes/images/people/ShoemakerHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -141,7 +140,7 @@ Microbial life-history traits, ecological-evolutionary interactions, and bioinfo
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/KaliHead.jpg" />
+<img src="http://www.indiana.edu/~microbes/images/people/WisnoskiHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -150,7 +149,7 @@ Microbial life-history traits, ecological-evolutionary interactions, and bioinfo
 <p><b>Ph.D. Student</b></p>
 <p>
 <b>Research interests:</b><br />
-Generalist and specialist utiliztation of diverse phosphorus sources by freshwater bacteria.
+Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
 </p>
 </div>
 
@@ -188,7 +187,7 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 <p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
-Dormancy, skin microbiome, species interactions.
+Metabolic activity of the skin microbiome.
 </p>
 </div>
 
