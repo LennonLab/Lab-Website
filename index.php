@@ -8,11 +8,10 @@
 
 <div id="right-side">
 <div>
-	<h4 style="text-align:left;">
-    	
-	<pre> 
+	<h4>    	
+	<span style="text-align:left;">
         Microbial Biodiversity: Evolution To Ecosystems 
-        </pre>
+        </span>
         </h4>
 </div>        
 <p>
