@@ -44,6 +44,7 @@ I currently have funding for a postdoc in my lab. In addition, I have interdisci
 <p>
 Jay T. Lennon<br />
 Department of Biology<br />
+261 Jordan Hall<br />
 Indiana University<br />
 1001 East 3rd Street<br />
 Bloomington, IN 47405 USA<br />
