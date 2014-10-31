@@ -196,6 +196,25 @@ Metabolic activity of the skin microbiome.
 <div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/ZacHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Wakefield"></a>
+<h5>Zac Wakefield </h5>
+<p><b>Undergraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial evolution, infectious disease, and bioinformatics.
+</p>
+</div>
+
+
+
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
 <div id="rightside-research">
 <h4>Former Lab Members </h4>
 </div>
