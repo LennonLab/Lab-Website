@@ -25,14 +25,14 @@ Follow the Lennon Lab on <a href="https://twitter.com/jaytlennon">Twitter</a>
 <p>
 Jay T. Lennon<br />
 Department of Biology<br />
-Indiana University<br />
-1001 East 3rd Street<br />
-Bloomington, IN 47405 USA<br />
-Office Phone: (812) 856-0962<br />
-Lab Phone: (812) 856-7235<br />
-Fax: (812) 855-6082<br />
-Email: <a href="mailto:lennonj@indiana.edu">lennonj@indiana.edu</a>
-</p>
+  261 Jordan Hall<br />
+  Indiana University<br />
+  1001 East 3rd Street<br />
+  Bloomington, IN 47405 USA<br />
+  Office Phone: (812) 856-0962<br />
+  Lab Phone: (812) 856-7235<br />
+  Fax: (812) 855-6082<br />
+  Email: <a href="mailto:lennonj@indiana.edu">lennonj@indiana.edu</a></p>
 
 </div>
 
