@@ -64,7 +64,7 @@ Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, F
 
 <!--- pub entry --->
 <p>
-Peralta AL, Stuart D, Kent AD, <u>Lennon JT</u> (In Press) A social-ecological framework for "micromanaging" microbial services. Frontiers in Ecology and the Environment.
+Peralta AL, Stuart D, Kent AD, <u>Lennon JT</u> (2014) A social-ecological framework for "micromanaging" microbial services. Frontiers in Ecology and the Environment. Frontiers in Ecology and the Environment. 12: 524-531 (<a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Suppl.pdf">supplementary material</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Cover.pdf">Cover</a>)
 </p>
 
 <!--- pub entry --->
