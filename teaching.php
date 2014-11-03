@@ -28,7 +28,7 @@
 <h5>Quantitative Biodiversity </h5>
 <p><b>BIOL Z620</b></p>
 <p>
-In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. Students calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. Students use modern statistical computing and graphics environments (i.e., <a href=" http://www.r-project.org/"> R</a>), as well as version control tools (i.e., <a href=" https://github.com/"> GitHub</a>). More information can be found on the <a href="http://goo.gl/y4oK7c/"> course website</a>. 
+In this graduate-level course we focus on theory, patterns, metrics, and tools used to study biodiversity. Students calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. Students use modern statistical computing and graphics environments (i.e., <a href=" http://www.r-project.org/"> R</a>), as well as version control tools (i.e., <a href="https://github.iu.edu/2015-QuantitativeBiodiversity/QuantitativeBiodiversity"> GitHub</a>). See <a href="http://documentup.com/QuantitativeBiodiversity/QuantitativeBiodiversity"> course website</a> and the <a href="http://www.mendeley.com/groups/5054771/z620-quantitative-biodiversity/">open-access bibliography</a> for more information.
 </p>
 </div>
 
