@@ -246,6 +246,8 @@ Microbial evolution, infectious disease, and bioinformatics.
 <!--- entry --->
 <p><b>Sarah Widney</b> Technician</p>
 <!--- entry --->
+<p><b>Brent Nowinski</b> Technician</p>
+<!--- entry --->
 <p><b>Megan Lowenberg</b> Technician</p>
 <!--- entry --->
 <p><b>Rob Morrison</b> Technician</p>
