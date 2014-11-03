@@ -220,19 +220,19 @@ Microbial evolution, infectious disease, and bioinformatics.
 </div>
 <h5>Postdocs and Graduate Students </h5>
 <!--- entry --->
-<p><b>Ariane Peralta</b> Postdoctoral Researcher, faculty at East Carolina University</p>
+<p><b>Ariane Peralta</b> Postdoctoral Researcher, Faculty at East Carolina University</p>
 <!--- entry --->
-<p><b>Sarah Placella</b> Postdoctoral Researcher, postdoc at INRA</p>
+<p><b>Sarah Placella</b> Postdoctoral Researcher, Postdoc at INRA</p>
 <!--- entry --->
-<p><b>Stuart Jones</b> Postdoctoral Researcher, faculty at University of Notre Dame</p>
+<p><b>Stuart Jones</b> Postdoctoral Researcher, Faculty at University of Notre Dame</p>
 <!--- entry --->
 <p><b>Ed Hall</b> Postdoctoral Researcher, Research Scientist at Colorado State University</p>
 <!--- entry --->
 <p><b>Zach Aanderud</b> Postdoctoral Researcher, faculty at Brigham Young University</p>
 <!--- entry --->
-<p><b>Evan Kane</b> Postdoctoral Researcher, faculty at Michighan Tech</p>
+<p><b>Evan Kane</b> Postdoctoral Researcher, Faculty at Michighan Tech</p>
 <!--- entry --->
-<p><b>Kali Bird</b> Graduate Student, founder of Hike New York</p>
+<p><b>Kali Bird</b> Graduate Student, Founder of Hike New York</p>
 <h5>Visiting Scholars and Teachers</h5>
 <!--- entry --->
 <p><b>Sarah Bray</b> Associate Professor, Transylvania University</p>
