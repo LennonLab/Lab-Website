@@ -97,26 +97,6 @@ Aquatic microbiology, molecular and ecological strategies of resource utilizatio
 </div>
 
 
-
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/KaylaHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Miller"></a>
-<h5>Kayla Miller</h5>
-<p><b>Ph.D. Student</b></p>
-<p>
-<b>Research interests:</b><br />
-Terrestrial microbial ecology, plant-microbe interactions, and biogeography.
-</p>
-</div>
-
-
-
 <div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
