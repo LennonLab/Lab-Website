@@ -21,7 +21,7 @@
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/teaching/Gel.jpg" />
+<img src="images/teaching/QB_weblogo.jpg" />
 </div>
 
 <div id="right-side-research">
