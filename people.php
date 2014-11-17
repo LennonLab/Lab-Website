@@ -126,13 +126,12 @@ Microbial life-history traits, ecological-evolutionary interactions, and bioinfo
 <div id="right-side-research">
 <a id="Wisnoski"></a>
 <h5>Nathan Wisnoski </h5>
-<p><b>Ph.D. Student</b></p>
-<p>
+<p><b>Ph.D. Student</b><br />
+<a href="http://nwisnoski.github.io/">Personal website</a></p>
 <b>Research interests:</b><br />
 Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
 </p>
 </div>
-
 
 
 <div style="clear: both;"><br /><br /></div>
