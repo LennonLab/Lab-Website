@@ -147,7 +147,7 @@ Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
 <div id="right-side-research">
 <a id="Webster"></a>
 <h5>Kevin Webster </h5>
-<p><b>Ph.D. Student (primary advisor: <a href="http://geology.indiana.edu/schimmelmann/">Ardnt Schimmelmann</a>)</b></p>
+<p><b>Ph.D. Student (primary advisor: <a href="http://geology.indiana.edu/schimmelmann/">Arndt Schimmelmann</a>)</b></p>
 <p>
 <b>Research interests:</b><br />
 Methane dynamics, speleology, biogeochemistry, geomicrobiology, astrobiology, the origin of life.
