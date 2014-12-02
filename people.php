@@ -34,7 +34,7 @@ img {
 <a href="http://www.indiana.edu/~microbes/images/people/CV_2014_Lennon.pdf">view CV</a></p>
 <p>
 <b>Research interests:</b><br />
-Biodiversity, traits, dormancy, microbiology, resource variability, ecoloyg and evolution.</p>
+Biodiversity, traits, dormancy, microbiology, resource variability, ecology and evolution.</p>
 </div>
 
 
@@ -126,10 +126,31 @@ Microbial life-history traits, ecological-evolutionary interactions, and bioinfo
 <div id="right-side-research">
 <a id="Wisnoski"></a>
 <h5>Nathan Wisnoski </h5>
-<p><b>Ph.D. Student</b></p>
+<p><b>Ph.D. Student</b><br />
+<a href="http://nwisnoski.github.io/">Personal website</a></p>
 <p>
 <b>Research interests:</b><br />
 Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
+</p>
+</div>
+
+
+
+<div style="clear: both;"><br /><br /></div>
+
+
+<!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/WebsterHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Webster"></a>
+<h5>Kevin Webster </h5>
+<p><b>Ph.D. Student (primary advisor: <a href="http://geology.indiana.edu/schimmelmann/">Ardnt Schimmelmann</a>)</b></p>
+<p>
+<b>Research interests:</b><br />
+Methane dynamics, speleology, biogeochemistry, geomicrobiology, astrobiology, the origin of life.
 </p>
 </div>
 
