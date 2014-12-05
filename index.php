@@ -1,5 +1,5 @@
 <?php require 'top.php' ?>
-
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 
 
 <div id="left-side">
