@@ -24,12 +24,7 @@ p {
 
 <!--- pub entry --->
 <p>
-Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (In Review) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity
-</p>
-
-<!--- pub entry --->
-<p>
-Jones SE, <u>Lennon JT</u> (In Review) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems.
+Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (In Review) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity .
 </p>
 
 <!--- pub entry --->
@@ -39,22 +34,22 @@ Vert JC, Harker AR,Breakwell DP, <u>Lennon JT</u>, Aanderud ZA (In Review) Hyper
 
 <!--- pub entry --->
 <p>
-Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (In review) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed.
-</p>
-
-<!--- pub entry --->
-<p>
-Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (In Review) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges.
-</p>
-
-<!--- pub entry --->
-<p>
 Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosphorus release from the drying and reflooding of diverse wetland sediments.
 </p>
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Bird KC, Larsen ML, Placella SA, <u>Lennon JT</u> (In Press) Phosphorus resource heterogeneity in microbial food webs. Aquatic Microbial Ecology.
+Jones SE, <u>Lennon JT</u> (In Press) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology.
+</p>
+
+<!--- pub entry --->
+<p>
+Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (In Press) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal.
+</p>
+
+<!--- pub entry --->
+<p>
+Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (In Press) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems.
 </p>
 
 <!--- pub entry --->
@@ -64,12 +59,17 @@ Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, F
 
 <!--- pub entry --->
 <p>
+Muscarella ME, Bird KC, Larsen ML, Placella SA, <u>Lennon JT</u> (2014) Phosphorus resource heterogeneity in microbial food webs. Aquatic Microbial Ecology 73: 259-272 (<a href="http://www.indiana.edu/~microbes/publications/Muscarella_etal_2014.pdf">pdf</a>).
+</p>
+
+<!--- pub entry --->
+<p>
 Peralta AL, Stuart D, Kent AD, <u>Lennon JT</u> (2014) A social-ecological framework for "micromanaging" microbial services. Frontiers in Ecology and the Environment. Frontiers in Ecology and the Environment. 12: 524-531 (<a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Suppl.pdf">supplementary material</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Cover.pdf">cover</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-Krause S, Le Roux X, Niklaus PA, Van Bodegom P, <u>Lennon JT</u>, Bertilsson S, Grossart HP, Philippot L, Bodelier P (2014) Trait-based approaches for understanding microbial biodiversity and ecosystem functioning. Frontiers in Microbiology 5: 251 (<a href="http://www.indiana.edu/~microbes/publications/Krause_etal_2014.pdf">pdf</a>)
+Krause S, Le Roux X, Niklaus PA, Van Bodegom P, <u>Lennon JT</u>, Bertilsson S, Grossart HP, Philippot L, Bodelier P (2014) Trait-based approaches for understanding microbial biodiversity and ecosystem functioning. Frontiers in Microbiology. 5: 251 (<a href="http://www.indiana.edu/~microbes/publications/Krause_etal_2014.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
