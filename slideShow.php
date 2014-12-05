@@ -4,22 +4,22 @@
     <div id="Slideshow">
       <div id="slice1">
         <p><img src="images/one.jpg""http://www.indiana.edu/~microbes/images/one.jpg" /></p>
-        <p><b>Microbial diversity:</b> bacteria cultured from soils are used to measure microbial niche space, functional traits, and their phylogenetic distributions. This information is used to identify generalist and specialists, which provides insight into mechanisms of coexistence.
+        <p><b>Microbial diversity:</b> we study the functional traits of microbes to identify generalist and specialists, which provides insight into mechanisms of coexistence.
         </p>
       </div>
       <div id="slice2">
         <p><img src="http://www.indiana.edu/~microbes/images/two.jpg" /></p>
-        <p><b>Field biology:</b> because microorganisms are found in all ecosystems, our research often involves field work in managed and natural habitats such as University Lake at Indiana University’s Research and Teaching Preserve.
+        <p><b>Field biology:</b> we study microbes in natural and managed ecosystems, including habitats such as University Lake at Indiana University's Research and Teaching <a href="http://www.indiana.edu/~preserve/">Preserve</a>. 
         </p>
       </div>
       <div id="slice3">
         <p><img src="http://www.indiana.edu/~microbes/images/three.jpg" /></p>
-        <p><b>Developing and testing theory:</b> our lab develops and tests theory related to microbial diversity. We are particularly interested in life history theory features such as dormancy, which can influence the persistence of genotypes, the maintenance of diversity, and the functioning of communities.
+        <p><b>Developing and testing theory:</b> we study dormancy, which  influences the persistence of genotypes, the maintenance of diversity, and the functioning of communities.
         </p>
       </div>
       <div id="slice4">
         <p><img src="http://www.indiana.edu/~microbes/images/four.jpg" /></p>
-        <p><b>Microbial evolution:</b> owing to their rapid growth rates an large population size, microorganisms often undergo “rapid” evolutionary change owing to starvation or phage  phage predation. We study how these evolutionary changes feedback on ecological processes such as species interactions and ecosystem functioning.
+        <p><b>Microbial evolution:</b> we study the “rapid” evolution of microbes and how this feeds back on ecological processes including species interactions and ecosystem functioning.
         </p>
       </div>
     </div>
