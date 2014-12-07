@@ -42,16 +42,7 @@ I currently have funding for a postdoc in my lab. In addition, I have interdisci
         </h4>
 </div>
 <p>
-Jay T. Lennon<br />
-Department of Biology<br />
-261 Jordan Hall<br />
-Indiana University<br />
-1001 East 3rd Street<br />
-Bloomington, IN 47405 USA<br />
-Office Phone: (812) 856-0962<br />
-Lab Phone: (812) 856-7235<br />
-Fax: (812) 855-6082<br />
-Email: <a href="mailto:lennonj@indiana.edu">lennonj@indiana.edu</a>
+<a href="http://www.indiana.edu/~microbes/people.php/cfm#Lennon"> Jay T. Lennon</a>, <a href="http://www.bio.indiana.edu/">  Department of Biology</a>, <a href="http://www.iub.edu/">Indiana University</a>, 261 Jordan Hall, <a href="https://www.google.com/maps/place/Indiana+University/@39.169135,-86.514905,17z/data=!3m1!4b1!4m2!3m1!1s0x886c66c26789ad33:0x3499a08bb315d436">1001 East 3rd Street</a>, <a href="http://bloomington.in.gov/">Bloomington, IN</a> 47405 USA, 812-856-0962 (office), 812-856-7235 (lab), 855-6082 (fax), Email: <a href="mailto:lennonj@indiana.edu">lennonj@indiana.edu</a>
 </p>
 
 </div>
