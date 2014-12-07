@@ -19,7 +19,7 @@
         </h4>
 </div>
 <p>
-I am looking for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Students interested in my lab may apply either to the <a href= "http://www.bio.indiana.edu/graduate/eeb/"> Evolution, Ecology, & Behavior Program</a>  or the <a href="http://www.bio.indiana.edu/graduate/micro/"> Microbiology Program</a>, both of which are in the <a href="http://www.bio.indiana.edu/">  Department of Biology</a>. The application deadline is December 1. Students are funded through a combination of research grants, teaching assistantships, and university fellowships. Interested graduate students should send a email letter of inquiry containing an overview of your research interests, your CV, grades, and GRE scores (if available). 
+I am looking for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Prospectives may apply either to the <a href= "http://www.bio.indiana.edu/graduate/eeb/"> Evolution, Ecology, & Behavior Program</a>  or the <a href="http://www.bio.indiana.edu/graduate/micro/"> Microbiology Program</a>, both of which are in the <a href="http://www.bio.indiana.edu/">  Department of Biology</a>. The application deadline is December 1. Students are funded through research grants, teaching assistantships, and university fellowships. Prospectives should send an overview of their research interests,  CV, grades, and GRE scores (if available). 
 </p>
 
 

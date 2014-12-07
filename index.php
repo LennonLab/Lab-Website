@@ -17,8 +17,7 @@ Microorganisms are the most abundant and diverse life forms on Earth. They attai
 <p>We study the ecology and evolution of microbial communities. We are interested in the biotic and abiotic factors that generate and maintain microbial biodiversity. In turn, we seek to understand the implications of microbial diversity for ecosystem functioning. Our research uses various tools including molecular biology, simulation modeling, laboratory experiments, field surveys, and whole ecosystem manipulations in a wide range of haibtats. </p>
 
 <p>
-Visit the <a href="http://www.indiana.edu/~lennon/index.php?title=Main_Page">Lab Wiki</a> for news and additional information
-Follow the Lennon Lab on <a href="https://twitter.com/jaytlennon">Twitter</a>
+For additional infomration and news, visit the <a href="http://www.indiana.edu/~lennon/index.php?title=Main_Page">Lab Wiki</a> and follow us on <a href="https://twitter.com/jaytlennon">Twitter</a>.
 </p>
 
 <h4 style="text-align:left;">Contact:</h4>
