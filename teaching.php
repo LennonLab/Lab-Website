@@ -61,7 +61,7 @@ In this graduate-level class, we focus on the microbiomes of different hosts (hu
 <h5>Microbial Ecology  </h5>
 <p><b>BIOL L472 </b></p>
 <p>
-In this upper-level course, we cover fundamental concepts of ecology & evolutionary biology and how they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary liteturate, students engage in biodiversity projects that result in oral presentations and a contribution to <a href="https://microbewiki.kenyon.edu/index.php/MicrobeWiki">MicrobeWiki</a>, a free wiki resource on microbes and microbiology. Course offered in sping semesters.
+In this upper-level course, we cover fundamental concepts of ecology & evolutionary biology as they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary literature, students engage in biodiversity projects that result in oral presentations and a contribution to <a href="https://microbewiki.kenyon.edu/index.php/MicrobeWiki">MicrobeWiki</a>, a open resource on microbes and microbiology. Course offered in sping semesters.
 </p>
 </div>
 
