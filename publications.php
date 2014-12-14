@@ -39,7 +39,7 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosph
 
 <!--- pub entry --->
 <p>
-Jones SE, <u>Lennon JT</u> (In Press) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology.
+Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology (<a href="http://www.goo.gl/6h0CRG">preprint</a>). 
 </p>
 
 <!--- pub entry --->
