@@ -18,7 +18,7 @@ Microorganisms are the most abundant and diverse life forms on Earth. They have 
 
 <p>
 For additional information and news, visit the <a href="http://www.indiana.edu/~lennon/index.php?title=Main_Page">Lab Wiki</a> and follow us on <a href="https://twitter.com/jaytlennon">Twitter</a>. Data and code for some of our projects can be found on <a href="https://github.com/LennonLab">GitHub</a>
-</p>
+</p>.
 
 <h4 style="text-align:left;">Contact:</h4>
 <p>
