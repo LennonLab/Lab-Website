@@ -44,7 +44,7 @@ Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: ef
 
 <!--- pub entry --->
 <p>
-Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (In Press) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal.
+Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (In Press) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal. doi:10.1038/ismej.2014.252
 </p>
 
 <!--- pub entry --->
