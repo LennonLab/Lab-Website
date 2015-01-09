@@ -30,11 +30,6 @@ Treseder KK, <u>Lennon JT</u> (In Review) Fungal traits that drive ecosystem dyn
 
 <!--- pub entry --->
 <p>
-Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (In Review) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity.
-</p>
-
-<!--- pub entry --->
-<p>
 Vert JC, Harker AR,Breakwell DP, <u>Lennon JT</u>, Aanderud ZA (In Review) Hypersaline environments constrains bacterial dormancy in lakes.
 </p>
 
@@ -55,6 +50,12 @@ Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, F
 
 <!--- pub entry --->
 <p>
+Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. doi: 10.3389/fmicb.2015.00024 
+</p>
+
+
+<!--- pub entry --->
+<p>
 Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology (<a href="http://www.goo.gl/6h0CRG">preprint</a>). 
 </p>
 
@@ -70,7 +71,7 @@ Muscarella ME, Bird KC, Larsen ML, Placella SA, <u>Lennon JT</u> (2014) Phosphor
 
 <!--- pub entry --->
 <p>
-Peralta AL, Stuart D, Kent AD, <u>Lennon JT</u> (2014) A social-ecological framework for "micromanaging" microbial services. Frontiers in Ecology and the Environment. Frontiers in Ecology and the Environment. 12: 524-531 (<a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Suppl.pdf">supplementary material</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Cover.pdf">cover</a>)
+Peralta AL, Stuart D, Kent AD, <u>Lennon JT</u> (2014) A social-ecological framework for "micromanaging" microbial services. Frontiers in Ecology and the Environment. 12: 524-531 (<a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Suppl.pdf">supplementary material</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Cover.pdf">cover</a>)
 </p>
 
 <!--- pub entry --->
