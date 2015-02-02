@@ -31,7 +31,7 @@ img {
 <a id="Lennon"></a>
 <h5>Jay T. Lennon </h5>
 <p><b>Principal Investigator</b><br />
-<a href="http://www.indiana.edu/~microbes/images/people/CV_2014_Lennon.pdf">view CV</a></p>
+<a href="http://www.indiana.edu/~microbes/images/people/CV_Lennon.pdf">view CV</a></p>
 <p>
 <b>Research interests:</b><br />
 Biodiversity, traits, dormancy, microbiology, resource variability, ecology and evolution.</p>
