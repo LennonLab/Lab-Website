@@ -45,12 +45,12 @@ Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Len
 
 <!--- pub entry --->
 <p>
-Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (In Press) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal.
+Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal. doi:10.1038/ismej.2014.220 (<a href="http://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. doi: 10.3389/fmicb.2015.00024 
+Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. doi: 10.3389/fmicb.2015.00024 (<a href="http://www.indiana.edu/~microbes/publications/Aanderud_etal_2015.pdf">pdf</a>)
 </p>
 
 
@@ -61,7 +61,7 @@ Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: ef
 
 <!--- pub entry --->
 <p>
-Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (2015) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal. doi:10.1038/ismej.2014.252
+Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (2015) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal. doi:10.1038/ismej.2014.252 (<a href="http://www.indiana.edu/~microbes/publications/Rocca_etal_2015.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
