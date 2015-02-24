@@ -30,6 +30,11 @@ Treseder KK, <u>Lennon JT</u> (In Review) Fungal traits that drive ecosystem dyn
 
 <!--- pub entry --->
 <p>
+Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (In Review) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems.
+</p>
+
+<!--- pub entry --->
+<p>
 Vert JC, Harker AR,Breakwell DP, <u>Lennon JT</u>, Aanderud ZA (In Review) Hypersaline environments constrains bacterial dormancy in lakes.
 </p>
 
