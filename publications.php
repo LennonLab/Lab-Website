@@ -45,8 +45,8 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosph
 
 <!--- pub entry --->
 <p>
-Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (In Press) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems.
-</p>
+Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (2015) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems.
+DOI: 10.1007/s10021-015-9848-y (<a href="http://www.indiana.edu/~microbes/publications/Solomon_etal_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
