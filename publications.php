@@ -17,13 +17,7 @@ p {
 
 <br />
 
-<!--- pub entry --->
-<p>
-<u>Lennon JT</u>, Denef VJ (In Review) Evolutionary ecology of microorganisms: from the tamed to the wild. 
-</p>
-
-
-<!--- pub entry --->
+<!--- pub entry ---><!--- pub entry --->
 <p>
 Treseder KK, <u>Lennon JT</u> (In Review) Fungal traits that drive ecosystem dynamics.
 </p>
@@ -44,18 +38,19 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosph
 </p>
 
 <!--- pub entry --->
-<p>
-Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (2015) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems.
-DOI: 10.1007/s10021-015-9848-y (<a href="http://www.indiana.edu/~microbes/publications/Solomon_etal_2015.pdf">pdf</a>) </p>
+<p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild. PeerJ Preprint. DOI: 10.7287/peerj.preprints.1025v1
+(<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
+<p>Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (2015) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems
+  18: <span id="page-range">376-389</span> (<a href="http://www.indiana.edu/~microbes/publications/Solomon_etal_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
-Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal. doi:10.1038/ismej.2014.220 (<a href="http://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>)
+Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal doi:10.1038/ismej.2014.220 (<a href="http://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. doi: 10.3389/fmicb.2015.00024 (<a href="http://www.indiana.edu/~microbes/publications/Aanderud_etal_2015.pdf">pdf</a>)
+Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. Froniters in Microbiology doi: 10.3389/fmicb.2015.00024 (<a href="http://www.indiana.edu/~microbes/publications/Aanderud_etal_2015.pdf">pdf</a>)
 </p>
 
 
@@ -66,7 +61,7 @@ Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: ef
 
 <!--- pub entry --->
 <p>
-Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (2015) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal. doi:10.1038/ismej.2014.252 (<a href="http://www.indiana.edu/~microbes/publications/Rocca_etal_2015.pdf">pdf</a>)
+Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (2015) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal doi:10.1038/ismej.2014.252 (<a href="http://www.indiana.edu/~microbes/publications/Rocca_etal_2015.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
@@ -76,22 +71,22 @@ Muscarella ME, Bird KC, Larsen ML, Placella SA, <u>Lennon JT</u> (2014) Phosphor
 
 <!--- pub entry --->
 <p>
-Peralta AL, Stuart D, Kent AD, <u>Lennon JT</u> (2014) A social-ecological framework for "micromanaging" microbial services. Frontiers in Ecology and the Environment. 12: 524-531 (<a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Suppl.pdf">supplementary material</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Cover.pdf">cover</a>)
+Peralta AL, Stuart D, Kent AD, <u>Lennon JT</u> (2014) A social-ecological framework for "micromanaging" microbial services. Frontiers in Ecology and the Environment 12: 524-531 (<a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Suppl.pdf">supplementary material</a>, <a href="http://www.indiana.edu/~microbes/publications/Peralta_etal_2014_Cover.pdf">cover</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-Krause S, Le Roux X, Niklaus PA, Van Bodegom P, <u>Lennon JT</u>, Bertilsson S, Grossart HP, Philippot L, Bodelier P (2014) Trait-based approaches for understanding microbial biodiversity and ecosystem functioning. Frontiers in Microbiology. 5: 251 (<a href="http://www.indiana.edu/~microbes/publications/Krause_etal_2014.pdf">pdf</a>)
+Krause S, Le Roux X, Niklaus PA, Van Bodegom P, <u>Lennon JT</u>, Bertilsson S, Grossart HP, Philippot L, Bodelier P (2014) Trait-based approaches for understanding microbial biodiversity and ecosystem functioning. Frontiers in Microbiology 5: 251 (<a href="http://www.indiana.edu/~microbes/publications/Krause_etal_2014.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-terHorst CP, <u>Lennon JT</u>, Lau JA (2014) The relative importance of rapid evolution for plant-soil feedbacks depend on ecological context. Proceeding of the Royal Society B. 281: 20140028 (<a href="http://www.indiana.edu/~microbes/publications/terHorst_etal_2014.pdf">pdf</a>)
+terHorst CP, <u>Lennon JT</u>, Lau JA (2014) The relative importance of rapid evolution for plant-soil feedbacks depend on ecological context. Proceeding of the Royal Society B 281: 20140028 (<a href="http://www.indiana.edu/~microbes/publications/terHorst_etal_2014.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-Dzialowski AR, Rzepecki M, Kostrzewska-Szlakowska I, <u>Lennon JT</u>, Kalinowska K, Palash A (2014) Are the abioitc and biotic characteristics of aquatic mesocosms representative of in situ conditions? Journal of Limnology. 73: 603-612
+Dzialowski AR, Rzepecki M, Kostrzewska-Szlakowska I, <u>Lennon JT</u>, Kalinowska K, Palash A (2014) Are the abioitc and biotic characteristics of aquatic mesocosms representative of in situ conditions? Journal of Limnology 73: 603-612
 (<a href="http://www.indiana.edu/~microbes/publications/Dzialowski_etal_2014.pdf">pdf</a>)</p>
 
 <!--- pub entry --->
