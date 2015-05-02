@@ -69,7 +69,8 @@ Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy a
 <div id="right-side-research">
 <a id="Larsen"></a>
 <h5>Megan Larsen</h5>
-<p><b>Ph.D. Student</b></p>
+<p><b>Ph.D. Student</b><br />
+<a href="https://meganllarsen.wordpress.com/">Personal website</a></p>
 <p>
 <b>Research interests:</b><br />
 Aquatic molecular microbiology, ecology and evolution of cyanophages, harmful algal blooms.
