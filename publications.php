@@ -17,11 +17,6 @@ p {
 
 <br />
 
-<!--- pub entry ---><!--- pub entry --->
-<p>
-Treseder KK, <u>Lennon JT</u> (In Review) Fungal traits that drive ecosystem dynamics.
-</p>
-
 <!--- pub entry --->
 <p>
 Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (In Review) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems.
@@ -38,8 +33,13 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosph
 </p>
 
 <!--- pub entry --->
+<p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="http://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>)</p>
+
+<!--- pub entry --->
 <p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild. PeerJ Preprint. DOI: 10.7287/peerj.preprints.1025v1
-(<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
+  (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
+
+<!--- pub entry --->
 <p>Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (2015) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems
   18: <span id="page-range">376-389</span> (<a href="http://www.indiana.edu/~microbes/publications/Solomon_etal_2015.pdf">pdf</a>) </p>
 
