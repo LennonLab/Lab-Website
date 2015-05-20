@@ -33,6 +33,9 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosph
 </p>
 
 <!--- pub entry --->
+<p>Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (In Press) Genome sequence of the soil bacterium <em>Janthinobacterium</em> sp. KBS0711. Genome Announcements</p>
+
+<!--- pub entry --->
 <p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="http://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>)</p>
 
 <!--- pub entry --->
