@@ -48,14 +48,13 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosph
 
 <!--- pub entry --->
 <p>
-Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal doi:10.1038/ismej.2014.220 (<a href="http://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>)
+Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal 9: 1352–1364 (<a href="http://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
 Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. Froniters in Microbiology doi: 10.3389/fmicb.2015.00024 (<a href="http://www.indiana.edu/~microbes/publications/Aanderud_etal_2015.pdf">pdf</a>)
 </p>
-
 
 <!--- pub entry --->
 <p>
