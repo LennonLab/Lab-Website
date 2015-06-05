@@ -33,6 +33,16 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosph
 </p>
 
 <!--- pub entry --->
+<p>
+Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D, Osborne BB, Ruiz-Gonzalez C, Schimel JP, Waldrop MP, Wallenstein MD (In Review) Linking microbial community structure and microbial processes: an empirical and conceptual overview.
+</p>
+
+<!--- pub entry --->
+<p>
+Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Review) The role of methane in the formation of caves by sulfuric acid. 
+</p>
+
+<!--- pub entry --->
 <p>Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (In Press) Genome sequence of the soil bacterium <em>Janthinobacterium</em> sp. KBS0711. Genome Announcements</p>
 
 <!--- pub entry --->
