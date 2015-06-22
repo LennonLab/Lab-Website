@@ -60,6 +60,21 @@ Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy a
 
 <div style="clear: both;"><br /><br /></div>
 
+<!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/MeganBHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Behringer"></a>
+<h5>Megan Behringer </h5>
+<p><b>Postdoctoral Researcher (co-mentored with <a href="http://www.bio.indiana.edu/faculty/directory/profile.php?person=milynch">Michael Lynch</a>)
+<p>
+<b>Research interests:</b><br />
+Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
 
 <!--- entry --->
 <div id="left-side">
