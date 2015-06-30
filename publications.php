@@ -19,6 +19,11 @@ p {
 
 <!--- pub entry --->
 <p>
+Martiny JBH, Hall SE, <u>Lennon JT</u>, Martiny AC (In Review) Microbiomes in light of traits: a phylogenetic perspective.
+</p>
+
+<!--- pub entry --->
+<p>
 Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (In Review) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems.
 </p>
 
@@ -265,7 +270,7 @@ Cottingham KL, <u>Lennon JT</u>, Brown BL (2005) Regression versus ANOVA. Fronti
 
 <!--- pub entry --->
 <p>
-Cottingham KL, <u>Lennon JT</u>, Brown BL (2005) Designing more informative ecological experiments. Frontiers in Ecology and the Environment 3: 145-152 (<a href="http://www.indiana.edu/~microbes/publications/Cottingham_etal_2005.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Cottingham_etal_2005_Suppl.pdf">supplementary material</a>)
+Cottingham KL, <u>Lennon JT</u>, Brown BL (2005) Knowing when to draw the line: designing more informative ecological experiments. Frontiers in Ecology and the Environment 3: 145-152 (<a href="http://www.indiana.edu/~microbes/publications/Cottingham_etal_2005.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Cottingham_etal_2005_Suppl.pdf">supplementary material</a>)
 </p>
 
 <!--- pub entry --->
