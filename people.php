@@ -284,9 +284,10 @@ Metabolic activity of the skin microbiome.
 <p><b>Ben Phillips</b>, Michigan State University</p>
 <h5>High School Students </h5>
 <!--- entry --->
+<p><b>Dakayla Calhoun</b>, Shortridge International Baccalaureate High School, Indianapolis, IN</p>
 <p><b>Dante Razzo</b>, Bloomington North High School, Bloomington, IN</p>
 <p><b>Nick Nelson</b>, Bishop Noll Institute, Hammond, IN</p>
-<p><b>Dakayla Calhoun</b>, Gambold Prep High School, Indianapolis, IN</p>
+
 </div>
 
 <div style="clear: both;"><br /><br /></div>
