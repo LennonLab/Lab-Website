@@ -68,7 +68,7 @@ Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy a
 <div id="right-side-research">
 <a id="Behringer"></a>
 <h5>Megan Behringer </h5>
-<p><b>Postdoctoral Researcher (co-mentored with <a href="http://www.bio.indiana.edu/faculty/directory/profile.php?person=milynch">Michael Lynch</a>)
+<p><b>Postdoctoral Researcher (co-mentored with <a href="http://www.bio.indiana.edu/faculty/directory/profile.php?person=milynch">Michael Lynch</a>)</b><br />
 <p>
 <b>Research interests:</b><br />
 Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
@@ -218,70 +218,76 @@ Metabolic activity of the skin microbiome.
 </div>
 <h5>Postdocs and Graduate Students </h5>
 <!--- entry --->
-<p><b>Ariane Peralta</b> Postdoctoral Researcher, Faculty at East Carolina University</p>
+<p><b>Ariane Peralta</b>, Postdoctoral Researcher, Faculty at East Carolina University</p>
 <!--- entry --->
-<p><b>Sarah Placella</b> Postdoctoral Researcher, Postdoc at INRA</p>
+<p><b>Sarah Placella</b>, Postdoctoral Researcher, Postdoc at INRA</p>
 <!--- entry --->
-<p><b>Stuart Jones</b> Postdoctoral Researcher, Faculty at University of Notre Dame</p>
+<p><b>Stuart Jones</b>, Postdoctoral Researcher, Faculty at University of Notre Dame</p>
 <!--- entry --->
-<p><b>Ed Hall</b> Postdoctoral Researcher, Research Scientist at Colorado State University</p>
+<p><b>Ed Hall</b>, Postdoctoral Researcher, Research Scientist at Colorado State University</p>
 <!--- entry --->
-<p><b>Zach Aanderud</b> Postdoctoral Researcher, faculty at Brigham Young University</p>
+<p><b>Zach Aanderud</b>, Postdoctoral Researcher, faculty at Brigham Young University</p>
 <!--- entry --->
-<p><b>Evan Kane</b> Postdoctoral Researcher, Faculty at Michighan Tech</p>
+<p><b>Evan Kane</b>, Postdoctoral Researcher, Faculty at Michighan Tech</p>
 <!--- entry --->
-<p><b>Kali Bird</b> Graduate Student, Founder of Hike New York</p>
+<p><b>Kali Bird</b>, Graduate Student, Founder of Hike New York</p>
 <h5>Visiting Scholars and Teachers</h5>
 <!--- entry --->
-<p><b>Sarah Bray</b> Associate Professor, Transylvania University</p>
+<p><b>Sarah Bray</b>, Associate Professor, Transylvania University</p>
 <!--- entry --->
-<p><b>Marty Green</b> Teacher, Plainwell Middle School</p>
+<p><b>Marty Green</b>, Teacher, Plainwell Middle School</p>
 <!--- entry --->
-<p><b>Sandy Erwin</b> Teacher, Harper Creek High School</p>
-<h5>Research Technicians and Assistant </h5>
+<p><b>Sandy Erwin</b>, Teacher, Harper Creek High School</p>
+<h5>Research Technicians and Assistants </h5>
 <!--- entry --->
-<p><b>Sophie Kranke</b> Technician</p>
+<p><b>Sophie Kranke</b>, Technician</p>
 <!--- entry --->
-<p><b>Sarah Widney</b> Technician</p>
+<p><b>Sarah Widney</b>, Technician</p>
 <!--- entry --->
-<p><b>Brent Nowinski</b> Technician</p>
+<p><b>Brent Nowinski</b>, Technician</p>
 <!--- entry --->
-<p><b>Megan Lowenberg</b> Technician</p>
+<p><b>Megan Lowenberg</b>, Technician</p>
 <!--- entry --->
-<p><b>Rob Morrison</b> Technician</p>
+<p><b>Rob Morrison</b>, Technician</p>
 <!--- entry --->
-<p><b>Cathy McMinn</b> Technician</p>
+<p><b>Cathy McMinn</b>, Technician</p>
 <!--- entry --->
-<p><b>Justin Rensch</b> Assistant</p>
+<p><b>Justin Rensch</b>, Assistant</p>
 <!--- entry --->
-<p><b>Bryan Wallace</b> Assistant</p>
+<p><b>Bryan Wallace</b>, Assistant</p>
 
 <h5>Undergraduate Researchers </h5>
 
 <!---entry--->
-<p><b>Zachary Wakefield</b> Indiana University</p>
+<p><b>Rachel Ferrill</b>, Transylvania University</p>
+<!---entry--->
+<p><b>Jared Brewer</b>, Transylvania University</p>
+<!---entry--->
+<p><b>Zachary Wakefield</b>, Indiana University</p>
 <!--- entry --->
-<p><b>Shanika Daniels</b> Indiana University</p>
+<p><b>Shanika Daniels</b>, Indiana University</p>
 <!--- entry --->
-<p><b>Xia Meng Howey</b> Indiana University</p>
+<p><b>Xia Meng Howey</b>, Indiana University</p>
 <!--- entry --->
-<p><b>Andrew Koultourides</b> Indiana University</p>
+<p><b>Andrew Koultourides</b>, Indiana University</p>
 <!--- entry --->
-<p><b>Claire Freeman</b> Colorado State University</p>
+<p><b>Claire Freeman</b>, Colorado State University</p>
 <!--- entry --->
-<p><b>Ebony Rodgers</b> Bennett College</p>
+<p><b>Ebony Rodgers</b>, Bennett College</p>
 <!--- entry --->
-<p><b>Sarah Thornburgh</b> Drake University</p>
+<p><b>Sarah Thornburgh</b>, Drake University</p>
 <!--- entry --->
-<p><b>Taiquitha Robins</b> Jackson State University</p>
+<p><b>Taiquitha Robins</b>, Jackson State University</p>
 <!--- entry --->
-<p><b>Robbie Snyder</b> The Ohio State University</p>
+<p><b>Robbie Snyder</b>, The Ohio State University</p>
 <!--- entry --->
-<p><b>Ben Phillips</b> Michigan State University</p>
+<p><b>Ben Phillips</b>, Michigan State University</p>
 <h5>High School Students </h5>
 <!--- entry --->
-<p><b>Dante Razzo</b> Bloomington North High school, Bloomington, IN</p>
-<p><b>Nick Nelson</b> Bishop Noll Institute, Hammond, IN</p>
+<p><b>Dakayla Calhoun</b>, Shortridge International Baccalaureate High School, Indianapolis, IN</p>
+<p><b>Dante Razzo</b>, Bloomington North High School, Bloomington, IN</p>
+<p><b>Nick Nelson</b>, Bishop Noll Institute, Hammond, IN</p>
+
 </div>
 
 <div style="clear: both;"><br /><br /></div>
