@@ -14,88 +14,73 @@
 
 	<div style="clear: both;"><br /></div>
 
-    <!--- entry --->
-    <div id="left-side">
-    <img src="http://www.indiana.edu/~microbes/images/research/Ponds.jpg" />
-    </div>
     
-    <div id="right-side-research">
-    <h5>Terrestrial carbon subisides in aquatic ecosystems </h5>
-    <p>
-    Terrestrial ecosystems export large quantities of dissolved organic carbon (DOC) to nearby aquatic ecosystems. This DOC is a microbial resource that can determine whether aquatic systems function as sources or sinks of atmospheric CO2. We are conducting whole system DOC additions at the KBS Experimental Pond Facility to determine how these spatial subsides influence ecosystem stability. This work is part of a collaboration with Stuart Jones. 
-    </p>
-    </div>
-    
-    
-    
-    <div style="clear: both;"><br /><br /></div>
-
-
-
     <!--- entry --->
     <div id="left-side">
     <img src="http://www.indiana.edu/~microbes/images/research/spore.jpg" />
     </div>
     
     <div id="right-side-research">
-    <h5>Microbial dormancy </h5>
+    <h5>Microbial seed banks </h5>
     <p>
-    Dormancy is a bet-hedging strategy where organisms enter a reversible state of low metabolic activity. In clinical and environmental settings, microbes are capable of using dormancy as a way to contend with unfavorable conditions. We have been using simulation modeling and molecular tools to better understand how dormancy and environmental cues strucutre microbial communities. This work is part of a collaboration with Stuart Jones. 
+    In nature, most individuals live in unpredictable environments and experience conditions that are suboptimal for growth and reproduction. When faced with biotic or abiotic stress, many organisms hedge their bets by entering a reversible state of reduced metabolic activity, or dormancy. Transitions into dormancy create a “seed bank” that represents a reservoir of taxonomic, genetic, and functional biodiversity. We use simulation modeling and  molecular tools to better understand how dormancy and environmental cues structure microbial communities in natural, engineered, and host-associated ecosystems.
     </p>
     </div>
     
     
     <div style="clear: both;"><br /><br /></div>
-
-
-    <!--- entry --->
+    
+    
+        <!--- entry --->
     <div id="left-side">
     <img src="http://www.indiana.edu/~microbes/images/research/plaques.jpg" />
     </div>
     
     <div id="right-side-research">
-    <h5>Ecology and evolution of viruses </h5>
+    <h5>Eco-evolutionary dynamics </h5>
     <p>
-    Viruses are the most abundant biological entities on Earth. They are obligately parasitic, and therefore can have strong negative effects on their host populations, which can utlimately influnece evolutionary and ecoystem-level dynamics. In collaboration with Steve Wilhelm, we are exploring eco-evolutionary interactions between freshwater and marine cyanobacteria (Synechococcus) and their phage. This work is part of Megan Larsen's Ph.D. thesis. 
+    Microbes are critical components of ecosystem structure and function. However, ecosystem processes can be rapidly altered by the underlying evolutionary forces that structure microbial populations. The effects of such dynamics can be detected across biological scales, from molecules (e.g. nucleotide substitution rates) to ecosystem processes (e.g. predator-prey dynamics and resource utilization). In our laboratory, we use a combination of experimental manipulation and an "-omics" driven systems approach to study the eco-evolutionary feedbacks of starvation, stoichiometry, and seed banks on microbial populations and communities.
     </p>
     </div>
     
     
     
     <div style="clear: both;"><br /><br /></div>
+    
+    <!--- entry --->
+    <div id="left-side">
+    <img src="http://www.indiana.edu/~microbes/images/research/KBS_soils_3.jpg" />
+    </div>
+    
+    <div id="right-side-research">
+    <h5>Microbial community ecology and biodiversity </h5>
+    <p>
+The last  decade has revolutionized the way we study microbial diversity. However,  the mechanisms and processes by which microbial communities are  structured remain poorly resolved. We investigate microbial  community responses (e.g., community composition, biodiversity patterns, function, stability) along environmental gradients (e.g., resources, moisture, and  connectivity), to understand the importance of constraints, such as  ecosystem residence time, in structuring natural, managed, and  host-related microbial communities using lab- and field-based  experiments alongside ecological  theory, individual-based modeling, and macroecological analyses of  global-scale data sets. 
+    </p>
+    </div>
+    
+    
+    
+    <div style="clear: both;"><br /><br /></div>
+
+
+
 
 
     <!--- entry --->
     <div id="left-side">
-    <img src="http://www.indiana.edu/~microbes/images/research/Brassica.jpg" />
+    <img src="images/research/lake.jpg" />
     </div>
     
     <div id="right-side-research">
-    <h5>Plant-soil feedbacks</h5>
+    <h5>Ecosystem processes</h5>
     <p>
-    Belowground microorganisms can have important implications for the distribution, divesity, and productivity of aboveground plant communities. In collaboration with Jen Lau, we have been using rapid cylcling Brassica populations to explore how soil microbes influence the ecological and evolutionary responses of plants to abioitc stressors (i.e., drought). 
+ Microorganisms regulate the flow of energy and materials in natural and managed ecosystems. For example, microbes alter the concentration and composition of resources (e.g., carbon) in ways that influence food webs and the physical environment (e.g., lakes, soils, caves). In our laboratory, we address questions related to ecosystem processes at scales from individual-level variation in physiology to ecosystem fluxes at the landscape. To address these issues, our work integrates molecular and biogeochemical techniques ranging from laboratory investigation and comparative surveys to whole-ecosystem manipulations.  
     </p>
     </div>
     
     
     <div style="clear: both;"><br /><br /></div>
-
-
-    <!--- entry --->
-    <div id="left-side">
-    <img src="http://www.indiana.edu/~microbes/images/research/KaliPhos.jpg" />
-    </div>
-    
-    <div id="right-side-research">
-    <h5>Generalist and specialist resource utillization </h5>
-    <p>
-    An age-old question is ecology is how so many species can coexist on seemingly so few resources. In microbial systems, one explanation is that bacteria can partition resources via different metabolic pathways. In collaboration with Steve Hamilton,we are exploring the niche breadth and phylogenetic breadth of aquatic bacteria on different sources of phophorus. This work is part of Kali Bird's Ph.D. thesis. 
-    </p>
-    </div>
-    
-    
-    <div style="clear: both;"><br /><br /></div>
-
 
     <!--- entry --->
     <div id="left-side">
@@ -103,9 +88,9 @@
     </div>
     
     <div id="right-side-research">
-    <h5>Microbial traits along environmental gradients </h5>
+    <h5>Microbial traits </h5>
     <p>
-    A major goal of microbial ecology is to understand how community structure influences ecosystem functioning. We are attempting to address this goal by identifying functional traits of soil bacteria along important environmental gradients (e.g., moisture). This work is part of a collaboration with Zach Aanderud, Don Schoolmaster, and Chris Klausmeier. 
+Traits refer to the physiological, morphological, and behavioral characteristics of individuals. Over the past decade, plant and animal ecologists have made major advances in understanding patterns of biodiversity by exploring functional traits. Although traits have historically been difficult to study for microbes, our lab has been using a combination of culture-dependent and culture-independent (e.g., sequencing and flow cytometry) approaches to understand how contemporary and deeply conserved traits evolve, shift along environmental gradients, structure communities, and influence ecosystem processes.  
     </p>
     </div>
 
