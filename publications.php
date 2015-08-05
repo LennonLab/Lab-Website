@@ -23,18 +23,13 @@ Martiny JBH, Hall SE, <u>Lennon JT</u>, Martiny AC (In Review) Microbiomes in li
 </p>
 
 <!--- pub entry --->
+<p> 
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Review) Reframing the use of microbial information in ecosystem science.
+</p>
+
+<!--- pub entry --->
 <p>
 Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (In Review) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems.
-</p>
-
-<!--- pub entry --->
-<p>
-Vert JC, Harker AR,Breakwell DP, <u>Lennon JT</u>, Aanderud ZA (In Review) Hypersaline environments constrains bacterial dormancy in lakes.
-</p>
-
-<!--- pub entry --->
-<p>
-Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosphorus release from the drying and reflooding of diverse wetland sediments.
 </p>
 
 <!--- pub entry --->
@@ -48,7 +43,7 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 </p>
 
 <!--- pub entry --->
-<p>Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (In Press) Genome sequence of the soil bacterium <em>Janthinobacterium</em> sp. KBS0711. Genome Announcements 3: e00689-15 (<a href="http://www.indiana.edu/~microbes/publications/Shoemaker_etal_2015.pdf">pdf</a>) </p>
+<p>Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2015) Genome sequence of the soil bacterium <em>Janthinobacterium</em> sp. KBS0711. Genome Announcements 3: e00689-15 (<a href="http://www.indiana.edu/~microbes/publications/Shoemaker_etal_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="http://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>)</p>

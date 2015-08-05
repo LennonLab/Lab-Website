@@ -23,7 +23,7 @@
     <div id="right-side-research">
     <h5>Microbial seed banks </h5>
     <p>
-    In nature, most individuals live in unpredictable environments and experience conditions that are suboptimal for growth and reproduction. When faced with biotic or abiotic stress, many organisms hedge their bets by entering a reversible state of reduced metabolic activity, or dormancy. Transitions into dormancy create a “seed bank” that represents a reservoir of taxonomic, genetic, and functional biodiversity. We use simulation modeling and  molecular tools to better understand how dormancy and environmental cues structure microbial communities in natural, engineered, and host-associated ecosystems.
+    In nature, most individuals live in unpredictable environments and experience conditions that are suboptimal for growth and reproduction. When faced with biotic or abiotic stress, many organisms hedge their bets by entering a reversible state of reduced metabolic activity, or dormancy. Transitions into dormancy create a "seed bank" that represents a reservoir of taxonomic, genetic, and functional biodiversity. We use simulation modeling and  molecular tools to better understand how dormancy and environmental cues structure microbial communities in natural, engineered, and host-associated ecosystems.
     </p>
     </div>
     
