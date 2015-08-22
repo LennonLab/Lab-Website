@@ -19,17 +19,17 @@ p {
 
 <!--- pub entry --->
 <p>
-Martiny JBH, Hall SE, <u>Lennon JT</u>, Martiny AC (In Review) Microbiomes in light of traits: a phylogenetic perspective.
+Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (In Review) Microbiomes in light of traits: a phylogenetic perspective.
+</p>
+
+<!--- pub entry --->
+<p>
+Wisnoski NI, <u>Lennon JT</u> (In Review) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology
 </p>
 
 <!--- pub entry --->
 <p> 
 Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Review) Reframing the use of microbial information in ecosystem science.
-</p>
-
-<!--- pub entry --->
-<p>
-Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (In Review) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems.
 </p>
 
 <!--- pub entry --->
@@ -40,6 +40,11 @@ Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D
 <!--- pub entry --->
 <p>
 Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Review) The role of methane in the formation of caves by sulfuric acid. 
+</p>
+
+<!--- pub entry --->
+<p>
+Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (In Press) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems. Inland Waters
 </p>
 
 <!--- pub entry --->
