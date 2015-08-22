@@ -72,7 +72,7 @@ Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the ra
 
 <!--- pub entry --->
 <p>
-Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology (<a href="http://www.goo.gl/6h0CRG">preprint</a>). 
+Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology 96: 1550-1560 (<a href="http://www.indiana.edu/~microbes/publications/Jones_Lennon_2015.pdf">pdf</a>, <a href="http://www.esapubs.org/archive/ecol/E096/138/">supplementary material</a>). 
 </p>
 
 <!--- pub entry --->
