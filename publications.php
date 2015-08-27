@@ -24,6 +24,11 @@ Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (In Review) Microbiomes in l
 
 <!--- pub entry --->
 <p>
+Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (In Review) Re-examining the relationship between virus and microbial cell abundances in the global oceans. bioRxiv Preprint. DOI: http://dx.doi.org/10.1101/025544 
+</p>
+
+<!--- pub entry --->
+<p>
 Wisnoski NI, <u>Lennon JT</u> (In Review) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology
 </p>
 
