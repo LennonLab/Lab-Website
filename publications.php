@@ -24,6 +24,11 @@ Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (In Review) Microbiomes in l
 
 <!--- pub entry --->
 <p>
+Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (In Review) Re-examining the relationship between virus and microbial cell abundances in the global oceans. bioRxiv Preprint. DOI: http://dx.doi.org/10.1101/025544 
+</p>
+
+<!--- pub entry --->
+<p>
 Wisnoski NI, <u>Lennon JT</u> (In Review) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology
 </p>
 
@@ -34,7 +39,7 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 
 <!--- pub entry --->
 <p>
-Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D, Osborne BB, Ruiz-Gonzalez C, Schimel JP, Waldrop MP, Wallenstein MD (In Review) Linking microbial community structure and microbial processes: an empirical and conceptual overview.
+Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D, Osborne BB, Ruiz-Gonzalez C, Schimel JP, Waldrop MP, Wallenstein MD (In Press) Linking microbial community structure and microbial processes: an empirical and conceptual overview. FEMS Microbiology Ecology.
 </p>
 
 <!--- pub entry --->
@@ -54,7 +59,7 @@ Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotn
 <p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="http://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>)</p>
 
 <!--- pub entry --->
-<p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild. PeerJ Preprint. DOI: 10.7287/peerj.preprints.1025v1
+<p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC. [Epub ahead of print] doi:10.1128/9781555818821.ch4.1.2. PeerJ Preprint. DOI: 10.7287/peerj.preprints.1025v1
   (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
