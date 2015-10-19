@@ -35,11 +35,6 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 
 <!--- pub entry --->
 <p>
-Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D, Osborne BB, Ruiz-Gonzalez C, Schimel JP, Waldrop MP, Wallenstein MD (2015) Linking microbial community structure and microbial processes: an empirical and conceptual overview. FEMS Microbiology Ecology. DOI: http://dx.doi.org/10.1093/femsec/fiv113 
-</p>
-
-<!--- pub entry --->
-<p>
 Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Review) The role of methane in the formation of caves by sulfuric acid. 
 </p>
 
@@ -51,6 +46,11 @@ Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (In Press) Microbiomes in li
 <!--- pub entry --->
 <p>
 Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (In Press) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems. Inland Waters
+</p>
+
+<!--- pub entry --->
+<p>
+Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D, Osborne BB, Ruiz-Gonzalez C, Schimel JP, Waldrop MP, Wallenstein MD (2015) Linking microbial community structure and microbial processes: an empirical and conceptual overview. FEMS Microbiology Ecology. DOI: http://dx.doi.org/10.1093/femsec/fiv113 (<a href="http://www.indiana.edu/~microbes/publications/Bier_etal_2015.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
