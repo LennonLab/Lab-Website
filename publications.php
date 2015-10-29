@@ -20,7 +20,7 @@ p {
 
 <!--- pub entry --->
 <p>
-Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (In Review) Re-examining the relationship between virus and microbial cell abundances in the global oceans. bioRxiv Preprint. DOI: http://dx.doi.org/10.1101/025544 
+Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (In Review) Re-examining the relationship between virus and microbial cell abundances in the global oceans. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/025544">doi:http://dx.doi.org/10.1101/025544</a>
 </p>
 
 <!--- pub entry --->
@@ -40,6 +40,16 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
+Locey KJ, <u>Lennon JT</u> (2015) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://dx.doi.org/10.7287/peerj.preprints.1451v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1451v1</a>
+</p>
+
+<!--- pub entry --->
+<p>
+Shoemaker WR, Locey KJ, Lennon JT (2015) Do modern theories of biodiversity fail to predict commonness and rarity among microbes? PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1450v1</a>
+</p>
+
+<!--- pub entry --->
+<p>
 Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (In Press) Microbiomes in light of traits: a phylogenetic perspective. Science
 </p>
 
@@ -50,17 +60,17 @@ Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotn
 
 <!--- pub entry --->
 <p>
-Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D, Osborne BB, Ruiz-Gonzalez C, Schimel JP, Waldrop MP, Wallenstein MD (2015) Linking microbial community structure and microbial processes: an empirical and conceptual overview. FEMS Microbiology Ecology. DOI: http://dx.doi.org/10.1093/femsec/fiv113 (<a href="http://www.indiana.edu/~microbes/publications/Bier_etal_2015.pdf">pdf</a>)
+Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D, Osborne BB, Ruiz-Gonzalez C, Schimel JP, Waldrop MP, Wallenstein MD (2015) Linking microbial community structure and microbial processes: an empirical and conceptual overview. FEMS Microbiology Ecology (<a href="http://www.indiana.edu/~microbes/publications/Bier_etal_2015.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2015) Genome sequence of the soil bacterium <em>Janthinobacterium</em> sp. KBS0711. Genome Announcements 3: e00689-15 (<a href="http://www.indiana.edu/~microbes/publications/Shoemaker_etal_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
-<p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="http://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>)</p>
+<p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="http://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
-<p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC. [Epub ahead of print] doi:10.1128/9781555818821.ch4.1.2. PeerJ Preprint. DOI: 10.7287/peerj.preprints.1025v1
+<p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC. [Epub ahead of print] doi:10.1128/9781555818821.ch4.1.2. PeerJ Preprint. <a href="https://dx.doi.org/10.7287/peerj.preprints.1025v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1025v1</a>
   (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
@@ -68,28 +78,23 @@ Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D
 
 <!--- pub entry --->
 <p>
-Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal 9: 1352-1364 (<a href="http://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>)
-</p>
+Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal 9: 1352-1364 (<a href="http://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
-Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. Frontiers in Microbiology 6:24. doi: 10.3389/fmicb.2015.00024 (<a href="http://www.indiana.edu/~microbes/publications/Aanderud_etal_2015.pdf">pdf</a>)
-</p>
+Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. Frontiers in Microbiology 6:24 (<a href="http://www.indiana.edu/~microbes/publications/Aanderud_etal_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
-Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology 96: 1550-1560 (<a href="http://www.indiana.edu/~microbes/publications/Jones_Lennon_2015.pdf">pdf</a>, <a href="http://www.esapubs.org/archive/ecol/E096/138/">supplementary material</a>). 
-</p>
+Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology 96: 1550-1560 (<a href="http://www.indiana.edu/~microbes/publications/Jones_Lennon_2015.pdf">pdf</a>, <a href="http://www.esapubs.org/archive/ecol/E096/138/">supplementary material</a>) </p>
 
 <!--- pub entry --->
 <p>
-Rocca JD, Hall EK, <u>Lennon JT</u>,, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (2015) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal doi:10.1038/ismej.2014.252 (<a href="http://www.indiana.edu/~microbes/publications/Rocca_etal_2015.pdf">pdf</a>)
-</p>
+Rocca JD, Hall EK, <u>Lennon JT</u>, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (2015) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal 9: 1693-1699 (<a href="http://www.indiana.edu/~microbes/publications/Rocca_etal_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Bird KC, Larsen ML, Placella SA, <u>Lennon JT</u> (2014) Phosphorus resource heterogeneity in microbial food webs. Aquatic Microbial Ecology 73: 259-272 (<a href="http://www.indiana.edu/~microbes/publications/Muscarella_etal_2014.pdf">pdf</a>).
-</p>
+Muscarella ME, Bird KC, Larsen ML, Placella SA, <u>Lennon JT</u> (2014) Phosphorus resource heterogeneity in microbial food webs. Aquatic Microbial Ecology 73: 259-272 (<a href="http://www.indiana.edu/~microbes/publications/Muscarella_etal_2014.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
