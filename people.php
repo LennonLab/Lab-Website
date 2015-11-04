@@ -210,6 +210,7 @@ Microbial evolution and species interactions.
 
 
 <div style="clear: both;"><br /><br /></div>
+
 <!--- entry --->
 <div id="left-side">
 <img src="http://www.indiana.edu/~microbes/images/people/CarrisonHead.jpg" />
@@ -222,6 +223,24 @@ Microbial evolution and species interactions.
 <p>
 <b>Research interests:</b><br />
 Microbial evolution and dormancy.
+</p>
+</div>
+
+
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/PrykeHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Pryke"></a>
+<h5>Luke Pryke </h5>
+<p><b>Undergraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial ecology, predator-prey dynamics, dormancy.
 </p>
 </div>
 
