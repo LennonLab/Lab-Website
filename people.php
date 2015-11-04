@@ -195,22 +195,38 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/CumminsHead.jpg" />
+<img src="http://www.indiana.edu/~microbes/images/people/WieschhausHead.jpg" />
 </div>
 
 <div id="right-side-research">
-<a id="Cummins"></a>
-<h5>Sarah Cummins </h5>
+<a id="Wieschhaus"></a>
+<h5>Keaton Wieschhaus </h5>
 <p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
-Metabolic activity of the skin microbiome.
+Microbial evolution and species interactions.
 </p>
 </div>
 
 
 <div style="clear: both;"><br /><br /></div>
+<!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/CarrisonHead.jpg" />
+</div>
 
+<div id="right-side-research">
+<a id="Carrison"></a>
+<h5>Mollie Carrison </h5>
+<p><b>Undergraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial evolution and dormancy.
+</p>
+</div>
+
+
+<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="rightside-research">
@@ -259,6 +275,8 @@ Metabolic activity of the skin microbiome.
 <h5>Undergraduate Researchers </h5>
 
 <!---entry--->
+<p><b>Sarah Cummins</b>, Indiana University</p>
+<!---entry---><!---entry--->
 <p><b>Rachel Ferrill</b>, Transylvania University</p>
 <!---entry--->
 <p><b>Jared Brewer</b>, Transylvania University</p>
