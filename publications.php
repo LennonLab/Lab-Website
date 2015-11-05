@@ -40,6 +40,11 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
+Peralta AL, Sun Y, <u>Lennon JT</u> (In Review) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> 
+</p>
+
+<!--- pub entry --->
+<p>
 Locey KJ, <u>Lennon JT</u> (2015) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://dx.doi.org/10.7287/peerj.preprints.1451v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1451v1</a>
 </p>
 
