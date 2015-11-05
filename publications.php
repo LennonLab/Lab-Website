@@ -55,7 +55,7 @@ Shoemaker WR, Locey KJ, Lennon JT (2015) Do modern theories of biodiversity fail
 
 <!--- pub entry --->
 <p>
-Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (In Press) Microbiomes in light of traits: a phylogenetic perspective. Science
+Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (2015) Microbiomes in light of traits: a phylogenetic perspective. Science 350 (<a href="http://www.indiana.edu/~microbes/publications/Martiny_etal_2015.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
