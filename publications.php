@@ -40,6 +40,11 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
+Muscarella ME, Jones SE, <u>Lennon JT</u> (In Review) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a> 
+</p>
+
+<!--- pub entry --->
+<p>
 Peralta AL, Sun Y, <u>Lennon JT</u> (In Review) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> 
 </p>
 
