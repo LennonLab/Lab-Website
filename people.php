@@ -157,6 +157,25 @@ Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
 
 <!--- entry --->
 <div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/KuoHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Wisnoski"></a>
+<h5>Venus Kuo </h5>
+<p><b>Ph.D. Student</b><br />
+<p>
+<b>Research interests:</b><br />
+Plant-microbe interactions, dormancy and seed banks, plant and microbial ecology, soil feedback, microbial biodiversity. 
+</p>
+</div>
+
+
+<div style="clear: both;"><br /><br /></div>
+
+
+<!--- entry --->
+<div id="left-side">
 <img src="http://www.indiana.edu/~microbes/images/people/WebsterHead.jpg" />
 </div>
 
