@@ -266,6 +266,26 @@ Microbial ecology, predator-prey dynamics, dormancy.
 
 <div style="clear: both;"><br /><br /></div>
 
+
+<!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/BlaettnerHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Blaettner"></a>
+<h5>Bianca Blaettner </h5>
+<p><b>Undergraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial genetics.
+</p>
+</div>
+
+
+<div style="clear: both;"><br /><br /></div>
+
+
 <!--- entry --->
 <div id="rightside-research">
 <h4>Former Lab Members </h4>
