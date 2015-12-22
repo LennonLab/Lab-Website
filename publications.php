@@ -17,15 +17,12 @@ p {
 
 <br />
 
+<p><b>In Review or In Revision:</b></p>
 
 <!--- pub entry --->
 <p>
-Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (In Review) Re-examining the relationship between virus and microbial cell abundances in the global oceans. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/025544">doi:http://dx.doi.org/10.1101/025544</a>
-</p>
-
-<!--- pub entry --->
-<p>
-Wisnoski NI, <u>Lennon JT</u> (In Review) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology
+Lennon JT, D Nguyễn Thùy, Phạm Ðức N, Drobniak A, Tạ Hòa P, Phạm Minh T, Streil T, Webster KD, Schimmelmann A (In Review) Microbial contributions to subterranean methane sinks. Nature Communications. bioRxiv Preprint:
+<a href="http://biorxiv.org/content/early/2015/12/20/034801">doi: http://dx.doi.org/10.1101/034801  </a> 
 </p>
 
 <!--- pub entry --->
@@ -56,6 +53,28 @@ Locey KJ, <u>Lennon JT</u> (2015) Scaling laws predict global microbial diversit
 <!--- pub entry --->
 <p>
 Shoemaker WR, Locey KJ, Lennon JT (2015) Do modern theories of biodiversity fail to predict commonness and rarity among microbes? PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1450v1</a>
+</p>
+
+<!--- pub entry --->
+<p>
+Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosphorus release from the drying and reflooding of diverse wetland sediments.
+</p>
+
+<!--- pub entry --->
+<p>
+Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (In Review) Hypersaline lake environments constrain bacterial dormancy.
+</p>
+
+<p><b>Published or In Press:</b></p>
+
+<!--- pub entry --->
+<p>
+Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (In Press) Re-examining the relationship between virus and microbial cell abundances in the global oceans. Nature Microbiology. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/025544">doi:http://dx.doi.org/10.1101/025544</a>
+</p>
+
+<!--- pub entry --->
+<p>
+Wisnoski NI, <u>Lennon JT</u> (In Press) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology
 </p>
 
 <!--- pub entry --->

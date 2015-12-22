@@ -14,7 +14,7 @@
 Microorganisms are the most abundant and diverse life forms on Earth. They have fast reproductive rates and evolve rapidly to changes in their environment. Microbes also carry out processes that are critical for the stability of natural and managed ecosystems. 
 </p>
 
-<p>We study the ecology and evolution of microbial communities. We are interested in the factors that generate and maintain microbial biodiversity. In turn, we seek to understand the implications of microbial diversity for ecosystem functioning. Our research uses various tools including molecular biology, simulation modeling, laboratory experiments, field surveys, and whole ecosystem manipulations in a wide range of haibtats. </p>
+<p>We study the ecology and evolution of microbial communities. We are interested in the factors that generate and maintain microbial biodiversity. In turn, we seek to understand the implications of microbial diversity for ecosystem functioning. Our research uses various tools including molecular biology, simulation modeling, laboratory experiments, field surveys, and whole ecosystem manipulations in a wide range of habitats. </p>
 
 <p>
 For additional information and news, visit the <a href="http://www.indiana.edu/~lennon/index.php?title=Main_Page">Lab Wiki</a> and follow us on <a href="https://twitter.com/jaytlennon">Twitter</a>. Data and code for some of our projects can be found on <a href="https://github.com/LennonLab">GitHub</a>.
