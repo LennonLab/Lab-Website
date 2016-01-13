@@ -21,7 +21,14 @@ p {
 
 <!--- pub entry --->
 <p>
-Lennon JT, D Nguyễn Thùy, Phạm Ðức N, Drobniak A, Tạ Hòa P, Phạm Minh T, Streil T, Webster KD, Schimmelmann A (In Review) Microbial contributions to subterranean methane sinks. Nature Communications. bioRxiv Preprint:
+<u>Lennon JT</u>, Lehmkuhl (In Review) A trait-based approach to biofilms in soil. PeerJ Preprint:
+<a href="https://peerj.com/preprints/1637/">
+doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a> 
+</p>
+
+<!--- pub entry --->
+<p>
+<u>Lennon JT</u>, D Nguyễn Thùy, Phạm Ðức N, Drobniak A, Tạ Hòa P, Phạm Minh T, Streil T, Webster KD, Schimmelmann A (In Review) Microbial contributions to subterranean methane sinks. bioRxiv Preprint:
 <a href="http://biorxiv.org/content/early/2015/12/20/034801">doi: http://dx.doi.org/10.1101/034801  </a> 
 </p>
 
