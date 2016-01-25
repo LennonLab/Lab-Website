@@ -307,6 +307,8 @@ Microbial genetics.
 <p><b>Kali Bird</b>, Graduate Student, Founder of Hike New York</p>
 <h5>Visiting Scholars and Teachers</h5>
 <!--- entry --->
+<p><b>Melany Fisk</b>, Professor, Miami University</p>
+<!--- entry --->
 <p><b>Sarah Bray</b>, Associate Professor, Transylvania University</p>
 <!--- entry --->
 <p><b>Marty Green</b>, Teacher, Plainwell Middle School</p>
@@ -317,6 +319,8 @@ Microbial genetics.
 <p><b>Sophie Kranke</b>, Technician</p>
 <!--- entry --->
 <p><b>Sarah Widney</b>, Technician</p>
+<!--- entry --->
+<p><b>Sarah Kuenzel</b>, Technician</p>
 <!--- entry --->
 <p><b>Brent Nowinski</b>, Technician</p>
 <!--- entry --->

@@ -44,27 +44,27 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Jones SE, <u>Lennon JT</u> (In Review) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a> 
+Muscarella ME, Jones SE, <u>Lennon JT</u> (In Revision) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a> 
 </p>
 
 <!--- pub entry --->
 <p>
-Peralta AL, Sun Y, <u>Lennon JT</u> (In Review) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> 
+Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> 
 </p>
 
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (2015) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://dx.doi.org/10.7287/peerj.preprints.1451v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1451v1</a>
+Locey KJ, <u>Lennon JT</u> (In Revision) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://dx.doi.org/10.7287/peerj.preprints.1451v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1451v1</a>
 </p>
 
 <!--- pub entry --->
 <p>
-Shoemaker WR, Locey KJ, Lennon JT (2015) Do modern theories of biodiversity fail to predict commonness and rarity among microbes? PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1450v1</a>
+Shoemaker WR, Locey KJ, Lennon JT (In Revision) Do modern theories of biodiversity fail to predict commonness and rarity among microbes? PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1450v1</a>
 </p>
 
 <!--- pub entry --->
 <p>
-Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Review) Phosphorus release from the drying and reflooding of diverse wetland sediments.
+Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Revision) Phosphorus release from the drying and reflooding of diverse wetland sediments.
 </p>
 
 <!--- pub entry --->
@@ -76,23 +76,21 @@ Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (I
 
 <!--- pub entry --->
 <p>
-Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (In Press) Re-examining the relationship between virus and microbial cell abundances in the global oceans. Nature Microbiology. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/025544">doi:http://dx.doi.org/10.1101/025544</a>
-</p>
-
-<!--- pub entry --->
-<p>
 Wisnoski NI, <u>Lennon JT</u> (In Press) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology
 </p>
 
 <!--- pub entry --->
 <p>
-Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (2015) Microbiomes in light of traits: a phylogenetic perspective. Science 350 (<a href="http://www.indiana.edu/~microbes/publications/Martiny_etal_2015.pdf">pdf</a>)
-</p>
+Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (2016) Re-examining the relationship between virus and microbial cell abundances in the global oceans. Nature Microbiology 1: article 15024
+(<a href="http://www.indiana.edu/~microbes/publications/Wiggington_etal_2016.pdf">pdf</a>, <a href="http://weitzgroup.github.io/Virus_Microbe_Abundance/">interactive dashboard</a>) </p>
 
 <!--- pub entry --->
 <p>
-Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (In Press) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems. Inland Waters
-</p>
+Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (2016) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems. Inland Waters 6: 1-10 (<a href="http://www.indiana.edu/~microbes/publications/Hall_etal_2016.pdf">pdf</a>) </p>
+
+<!--- pub entry --->
+<p>
+Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (2015) Microbiomes in light of traits: a phylogenetic perspective. Science 350: aac9323 (<a href="http://www.indiana.edu/~microbes/publications/Martiny_etal_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
@@ -122,7 +120,7 @@ Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the ra
 
 <!--- pub entry --->
 <p>
-Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology 96: 1550-1560 (<a href="http://www.indiana.edu/~microbes/publications/Jones_Lennon_2015.pdf">pdf</a>, <a href="http://www.esapubs.org/archive/ecol/E096/138/">supplementary material</a>) </p>
+Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology 96: 1550-1560 (<a href="http://www.indiana.edu/~microbes/publications/Jones_Lennon_2015.pdf">pdf</a>, <a href="http://www.esapubs.org/archive/ecol/E096/138/">supplementary material</a>, <a href = "http://www.indiana.edu/~microbes/publications/Jones_Lennon_2016_ESABulletin.pdf">ESA Bulletin Photo Gallery</a>) </p>
 
 <!--- pub entry --->
 <p>
