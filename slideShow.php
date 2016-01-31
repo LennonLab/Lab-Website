@@ -19,7 +19,7 @@
       </div>
       <div id="slice4">
         <p><img src="http://www.indiana.edu/~microbes/images/four.jpg" /></p>
-        <p><b>Microbial evolution:</b> “rapid” evolution  creates feedbacks on species interactions and ecosystem functioning.
+        <p><b>Microbial evolution:</b> 'rapid' evolution  creates feedbacks on species interactions and ecosystem functioning.
         </p>
       </div>
     </div>
