@@ -11,7 +11,7 @@
 	<h4 style="text-align:left;">Microbial Biodiversity: Evolution To Ecosystems</h4>
 </div>        
 <p>
-Microorganisms are the most abundant and diverse life forms on Earth. They have fast reproductive rates and evolve rapidly to changes in their environment. Microbes also carry out processes that are critical for the stability of natural and managed ecosystems. 
+Microorganisms are the most abundant and diverse life forms on Earth. They have fast reproductive rates and evolve rapidly to changes in their environment. Microbes also carry out processes that are critical for the stability of engineered, environmental, and host-associated ecosystems. 
 </p>
 
 <p>We study the ecology and evolution of microbial communities. We are interested in the factors that generate and maintain microbial biodiversity. In turn, we seek to understand the implications of microbial diversity for ecosystem functioning. Our research uses various tools including molecular biology, simulation modeling, laboratory experiments, field surveys, and whole ecosystem manipulations in a wide range of habitats. </p>
