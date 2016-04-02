@@ -21,9 +21,14 @@ p {
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Lehmkuhl (In Review) A trait-based approach to biofilms in soil. PeerJ Preprint:
+<u>Lennon JT</u>, Lehmkuhl (In Revision) A trait-based approach to biofilms in soil. PeerJ Preprint:
 <a href="https://peerj.com/preprints/1637/">
 doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a> 
+</p>
+
+<!--- pub entry --->
+<p>
+LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Review) Factors governing mutualism revealed using microbial coculture. 
 </p>
 
 <!--- pub entry --->
@@ -34,7 +39,7 @@ doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a>
 
 <!--- pub entry --->
 <p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Review) Reframing the use of microbial information in ecosystem science.
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Reframing the use of microbial information in ecosystem science.
 </p>
 
 <!--- pub entry --->
@@ -44,7 +49,7 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Jones SE, <u>Lennon JT</u> (In Revision) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a> 
+Muscarella ME, Jones SE, <u>Lennon JT</u> (In Press) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a> 
 </p>
 
 <!--- pub entry --->
@@ -54,7 +59,7 @@ Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances diseas
 
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (In Revision) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://dx.doi.org/10.7287/peerj.preprints.1451v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1451v1</a>
+Locey KJ, <u>Lennon JT</u> (In Press) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://dx.doi.org/10.7287/peerj.preprints.1451v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1451v1</a>
 </p>
 
 <!--- pub entry --->
@@ -69,15 +74,14 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Revision) Phos
 
 <!--- pub entry --->
 <p>
-Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (In Review) Hypersaline lake environments constrain bacterial dormancy.
+Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (In Review) Hypersaline lakes harbor more active bacterial communities. PeerJ Preprints 4:e1922v1 <a href="https://peerj.com/preprints/1922/">https://peerj.com/preprints/1922/</a>
 </p>
 
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
 <p>
-Wisnoski NI, <u>Lennon JT</u> (In Press) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology
-</p>
+Wisnoski NI, <u>Lennon JT</u> (2016) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology 91: 98-99 (<a href="http://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2016.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
@@ -104,8 +108,10 @@ Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D
 <p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="http://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
-<p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC. [Epub ahead of print] doi:10.1128/9781555818821.ch4.1.2. PeerJ Preprint. <a href="https://dx.doi.org/10.7287/peerj.preprints.1025v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1025v1</a>
+<p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC. [Epub ahead of print] <a href="http://www.asmscience.org/content/book/10.1128/9781555818821.ch4.1.2">doi:10.1128/9781555818821.ch4.1.2.</a> PeerJ PrePrints 3:e1260 <a href="https://dx.doi.org/10.7287/peerj.preprints.1025v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1025v1</a>
   (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
+
+
 
 <!--- pub entry --->
 <p>Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (2015) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems 18: 376-389 (<a href="http://www.indiana.edu/~microbes/publications/Solomon_etal_2015.pdf">pdf</a>) </p>
