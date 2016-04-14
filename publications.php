@@ -21,13 +21,6 @@ p {
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Lehmkuhl (In Revision) A trait-based approach to biofilms in soil. PeerJ Preprint:
-<a href="https://peerj.com/preprints/1637/">
-doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a> 
-</p>
-
-<!--- pub entry --->
-<p>
 LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Review) Factors governing mutualism revealed using microbial coculture. 
 </p>
 
@@ -49,17 +42,7 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Jones SE, <u>Lennon JT</u> (In Press) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a> 
-</p>
-
-<!--- pub entry --->
-<p>
 Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> 
-</p>
-
-<!--- pub entry --->
-<p>
-Locey KJ, <u>Lennon JT</u> (In Press) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://dx.doi.org/10.7287/peerj.preprints.1451v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1451v1</a>
 </p>
 
 <!--- pub entry --->
@@ -78,6 +61,23 @@ Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (I
 </p>
 
 <p><b>Published or In Press:</b></p>
+
+<!--- pub entry --->
+<p>
+Locey KJ, <u>Lennon JT</u> (In Press) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://peerj.com/preprints/1451/">doi:https://dx.doi.org/10.7287/peerj.preprints.1451</a>
+</p>
+
+<!--- pub entry --->
+<p>
+<u>Lennon JT</u>, Lehmkuhl (In Press) A trait-based approach to biofilms in soil. PeerJ Preprint:
+<a href="https://peerj.com/preprints/1637/">
+doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a> Environmental Microbiology
+</p>
+
+<!--- pub entry --->
+<p>
+Muscarella ME, Jones SE, <u>Lennon JT</u> (In Press) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a Ecology
+</p>
 
 <!--- pub entry --->
 <p>

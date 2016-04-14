@@ -212,6 +212,25 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 
 <div style="clear: both;"><br /><br /></div>
 
+
+<!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/EvgeniyaHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Evgeniya"></a>
+<h5>Evgeniya Polezhaeva </h5>
+<p><b>Research Technicican</b></p>
+<p>
+<b>Research interests:</b><br />
+Experimental microbial evolution.
+</p>
+</div>
+
+<div style="clear: both;"><br /><br /></div>
+
+
 <!--- entry --->
 <div id="left-side">
 <img src="http://www.indiana.edu/~microbes/images/people/WieschhausHead.jpg" />
