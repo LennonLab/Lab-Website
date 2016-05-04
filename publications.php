@@ -21,7 +21,7 @@ p {
 
 <!--- pub entry --->
 <p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Review) Factors governing mutualism revealed using microbial coculture. 
+LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Review) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. 
 </p>
 
 <!--- pub entry --->
@@ -64,12 +64,13 @@ Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (I
 
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (In Press) Scaling laws predict global microbial diversity. PeerJ PrePrints 3:e1808 <a href="https://peerj.com/preprints/1451/">doi:https://dx.doi.org/10.7287/peerj.preprints.1451</a>
+Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America doi/10.1073/pnas.1521291113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.EE.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>)
 </p>
+
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Lehmkuhl (In Press) A trait-based approach to biofilms in soil. PeerJ Preprint:
+<u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil. doi: 10.1111/1462-2920.13331 PeerJ Preprint:
 <a href="https://peerj.com/preprints/1637/">
 doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a> Environmental Microbiology
 </p>
@@ -77,7 +78,7 @@ doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a> Environmental Microbiol
 <!--- pub entry --->
 <p>
 Muscarella ME, Jones SE, <u>Lennon JT</u> (In Press) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a Ecology
-</p>
+></p>
 
 <!--- pub entry --->
 <p>
@@ -184,7 +185,7 @@ Aanderud ZT, Jones SE, Schoolmaster DR, Fierer N, <u>Lennon JT</u> (2013) Sensit
 
 <!--- pub entry --->
 <p>
-Shade A, Peter H, Allison S, Baho D, Berga M, B&Uuml;rgmann H, Huber D, Langenheder S, <u>Lennon JT</u>, Martiny JBH, Matulich K, Schmidt TM, Handelsman J (2012) Fundamentals of microbial community resistance and resilience. Frontiers in Microbiology 3: 417 (<a href="http://www.indiana.edu/~microbes/publications/Shade_etal_2012.pdf">pdf</a>)
+Shade A, Peter H, Allison S, Baho D, Berga M, Burgmann H, Huber D, Langenheder S, <u>Lennon JT</u>, Martiny JBH, Matulich K, Schmidt TM, Handelsman J (2012) Fundamentals of microbial community resistance and resilience. Frontiers in Microbiology 3: 417 (<a href="http://www.indiana.edu/~microbes/publications/Shade_etal_2012.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
