@@ -37,7 +37,7 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 
 <!--- pub entry --->
 <p>
-Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Review) The role of methane in the formation of caves by sulfuric acid. 
+Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Review) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. 
 </p>
 
 <!--- pub entry --->
@@ -55,16 +55,12 @@ Shoemaker WR, Locey KJ, Lennon JT (In Revision) Do modern theories of biodiversi
 Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Revision) Phosphorus release from the drying and reflooding of diverse wetland sediments.
 </p>
 
-<!--- pub entry --->
-<p>
-Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (In Review) Hypersaline lakes harbor more active bacterial communities. PeerJ Preprints 4:e1922v1 <a href="https://peerj.com/preprints/1922/">https://peerj.com/preprints/1922/</a>
-</p>
 
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America doi/10.1073/pnas.1521291113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.EE.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>)
+Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America doi/10.1073/pnas.1521291113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>)
 </p>
 
 
@@ -72,13 +68,19 @@ Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversit
 <p>
 <u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil. doi: 10.1111/1462-2920.13331 PeerJ Preprint:
 <a href="https://peerj.com/preprints/1637/">
-doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a> Environmental Microbiology
+doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a>  Environmental Microbiology
 </p>
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Jones SE, <u>Lennon JT</u> (In Press) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a Ecology
-></p>
+Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint: <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a> Ecology
+</p>
+
+<!--- pub entry --->
+<p>
+Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. doi: 10.3389/fmicb.2016.00853 PeerJ Preprints 4:e1922v1 <a href="https://peerj.com/preprints/1922/">https://peerj.com/preprints/1922/</a> Frontiers in Microbiology 
+</p>
+
 
 <!--- pub entry --->
 <p>
