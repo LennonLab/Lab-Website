@@ -66,9 +66,7 @@ Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversit
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil. doi: 10.1111/1462-2920.13331 PeerJ Preprint:
-<a href="https://peerj.com/preprints/1637/">
-doi: https://doi.org/10.7287/peerj.preprints.1637v1 </a>  Environmental Microbiology
+<u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil.  Environmental Microbiology doi: 10.1111/1462-2920.13331 (<a href="http://www.indiana.edu/~microbes/publications/Lenon_Lehmkuhl_2016_EE.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
