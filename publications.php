@@ -26,7 +26,12 @@ LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Review) Micro
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, D Nguyễn Thùy, Phạm Ðức N, Drobniak A, Tạ Hòa P, Phạm Minh T, Streil T, Webster KD, Schimmelmann A (In Review) Microbial contributions to subterranean methane sinks. bioRxiv Preprint:
+Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (In Review) Multi-scale ecological filters shape crayfish microbiome assembly. 
+</p>
+
+<!--- pub entry --->
+<p>
+<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A  A (In Review) Microbial contributions to subterranean methane sinks. bioRxiv Preprint:
 <a href="http://biorxiv.org/content/early/2015/12/20/034801">doi: http://dx.doi.org/10.1101/034801  </a> 
 </p>
 
@@ -47,7 +52,7 @@ Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances diseas
 
 <!--- pub entry --->
 <p>
-Shoemaker WR, Locey KJ, Lennon JT (In Revision) Do modern theories of biodiversity fail to predict commonness and rarity among microbes? PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1450v1</a>
+Shoemaker WR, Locey KJ, Lennon JT (In Revision) A unifying ecological theory of microbial biodiversity. PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1450v1</a>
 </p>
 
 <!--- pub entry --->
@@ -60,7 +65,7 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Revision) Phos
 
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America doi/10.1073/pnas.1521291113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>)
+Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America doi/10.1073/pnas.1521291113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>, <a href="http://www.indiana.edu/~microbes/publications/Pedros-Alio_Manrubia_2016.pdf">PNAS Commentary</a>, <a href="http://f1000.com/prime/726327633">F1000 Recommendation</a>)
 </p>
 
 
@@ -76,8 +81,8 @@ Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy
 
 <!--- pub entry --->
 <p>
-Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. doi: 10.3389/fmicb.2016.00853 PeerJ Preprints 4:e1922v1 <a href="https://peerj.com/preprints/1922/">https://peerj.com/preprints/1922/</a> Frontiers in Microbiology 
-</p>
+Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. Frontiers in Microbiology 7:853. doi: 10.3389/fmicb.2016.00853 (<a href="http://www.indiana.edu/~microbes/publications/Aanderud_etal_2016.pdf">pdf</a>) </p>
+
 
 
 <!--- pub entry --->
