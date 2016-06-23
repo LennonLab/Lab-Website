@@ -193,6 +193,26 @@ Methane dynamics, speleology, biogeochemistry, geomicrobiology, astrobiology, th
 
 <div style="clear: both;"><br /><br /></div>
 
+
+<!--- entry --->
+<div id="left-side">
+<img src="http://www.indiana.edu/~microbes/images/people/Moger-ReischerHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Moger-Reischer"></a>
+<h5>Roy Moger-Reischer </h5>
+<p><b>Ph.D. Student</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbe functional trait evolution, biological soil crusts, phylogenomics, plant-microbe interactions.
+</p>
+</div>
+
+
+
+<div style="clear: both;"><br /><br /></div>
+
 <!--- entry --->
 <div id="left-side">
 <img src="http://www.indiana.edu/~microbes/images/people/BrentHead.jpg" />
