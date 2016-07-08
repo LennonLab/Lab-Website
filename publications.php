@@ -21,28 +21,28 @@ p {
 
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (In Review) Global-scale predictions from biodiversity theory: Going where no statistical estimator can go. 
+Locey KJ, <u>Lennon JT</u> (In Review) Powerful predictions of biodiversity from ecological models and scaling laws. 
 </p>
 
 <!--- pub entry --->
 <p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Review) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. 
+LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Revision) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. 
 </p>
 
 <!--- pub entry --->
 <p>
-Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (In Review) Multi-scale ecological filters shape crayfish microbiome assembly. 
+Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (In Review) Multi-scale ecological filters shape crayfish microbiome assembly. PeerJ PrePrints 4:e2266v1 <a href="https://peerj.com/preprints/2266/">doi:https://doi.org/10.7287/peerj.preprints.2266v1 </a>
 </p>
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A  A (In Review) Microbial contributions to subterranean methane sinks. bioRxiv Preprint:
-<a href="http://biorxiv.org/content/early/2015/12/20/034801">doi: http://dx.doi.org/10.1101/034801  </a> 
+<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (In Review) Microbial contributions to subterranean methane sinks. bioRxiv Preprint:
+<a href="http://biorxiv.org/content/early/2015/12/20/034801">doi: https://doi.org/10.7287/peerj.preprints.2266v1  </a> 
 </p>
 
 <!--- pub entry --->
 <p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Reframing the use of microbial information in ecosystem science.
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology.
 </p>
 
 <!--- pub entry --->
@@ -65,6 +65,10 @@ Shoemaker WR, Locey KJ, Lennon JT (In Revision) A unifying ecological theory of 
 Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Revision) Phosphorus release from the drying and reflooding of diverse wetland sediments.
 </p>
 
+<!--- pub entry --->
+<p>
+ Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (In Review) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst.
+</p>
 
 <p><b>Published or In Press:</b></p>
 
