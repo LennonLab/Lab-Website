@@ -376,6 +376,10 @@ Microbial genetics.
 <h5>Undergraduate Researchers </h5>
 
 <!---entry--->
+<p><b>Peyton Thomas </b>, Transylvania University</p>
+<!---entry--->
+<p><b>Jaylen Beatty </b>, Transylvania University</p>
+<!---entry--->
 <p><b>Sarah Cummins</b>, Indiana University</p>
 <!---entry---><!---entry--->
 <p><b>Rachel Ferrill</b>, Transylvania University</p>
@@ -403,6 +407,7 @@ Microbial genetics.
 <p><b>Ben Phillips</b>, Michigan State University</p>
 <h5>High School Students </h5>
 <!--- entry --->
+<p><b>Samuel Iwu</b>, Indiana Math and Science Academy North, Indianapolis, IN</p>
 <p><b>Dakayla Calhoun</b>, Shortridge International Baccalaureate High School, Indianapolis, IN</p>
 <p><b>Dante Razzo</b>, Bloomington North High School, Bloomington, IN</p>
 <p><b>Nick Nelson</b>, Bishop Noll Institute, Hammond, IN</p>
