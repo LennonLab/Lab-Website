@@ -21,6 +21,11 @@ p {
 
 <!--- pub entry --->
 <p>
+<u>Lennon JT</u>, Locey KJ (In Review) The underestimation of global microbial diversity. 
+</p>
+
+<!--- pub entry --->
+<p>
 Locey KJ, <u>Lennon JT</u> (In Review) Powerful predictions of biodiversity from ecological models and scaling laws. 
 </p>
 
@@ -92,11 +97,13 @@ Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy
 <p>
 Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. Frontiers in Microbiology 7:853. doi: 10.3389/fmicb.2016.00853 (<a href="http://www.indiana.edu/~microbes/publications/Aanderud_etal_2016.pdf">pdf</a>) </p>
 
-
-
 <!--- pub entry --->
 <p>
 Wisnoski NI, <u>Lennon JT</u> (2016) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology 91: 98-99 (<a href="http://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2016.pdf">pdf</a>) </p>
+
+<!--- pub entry --->
+<p><u>Lennon JT</u>, Denef VJ (2016) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC. [Epub ahead of print] <a href="http://www.asmscience.org/content/book/10.1128/9781555818821.ch4.1.2">doi:10.1128/9781555818821.ch4.1.2.</a> PeerJ PrePrints 3:e1260 <a href="https://dx.doi.org/10.7287/peerj.preprints.1025v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1025v1</a>
+  (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p>
@@ -121,12 +128,6 @@ Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D
 
 <!--- pub entry --->
 <p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="http://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>) </p>
-
-<!--- pub entry --->
-<p><u>Lennon JT</u>, Denef VJ (2015) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC. [Epub ahead of print] <a href="http://www.asmscience.org/content/book/10.1128/9781555818821.ch4.1.2">doi:10.1128/9781555818821.ch4.1.2.</a> PeerJ PrePrints 3:e1260 <a href="https://dx.doi.org/10.7287/peerj.preprints.1025v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1025v1</a>
-  (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
-
-
 
 <!--- pub entry --->
 <p>Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (2015) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems 18: 376-389 (<a href="http://www.indiana.edu/~microbes/publications/Solomon_etal_2015.pdf">pdf</a>) </p>
