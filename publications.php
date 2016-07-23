@@ -47,7 +47,7 @@ Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (In Review) Multi-scal
 
 <!--- pub entry --->
 <p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology.
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
 </p>
 
 <!--- pub entry --->
