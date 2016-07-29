@@ -31,6 +31,11 @@ Locey KJ, <u>Lennon JT</u> (In Review) Powerful predictions of biodiversity from
 
 <!--- pub entry --->
 <p>
+Locey KJ, Fisk MC, <u>Lennon JT</u> (In Review) Microscale insight into microbial seed banks. PeerJ PrePrints 4:e2321v1 <a href="https://peerj.com/preprints/2321/"> doi:https://doi.org/10.7287/peerj.preprints.2321v1</a>
+</p>
+
+<!--- pub entry --->
+<p>
 LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Revision) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. 
 </p>
 
