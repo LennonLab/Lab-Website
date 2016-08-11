@@ -24,10 +24,6 @@ p {
 <u>Lennon JT</u>, Locey KJ (In Review) The underestimation of global microbial diversity. 
 </p>
 
-<!--- pub entry --->
-<p>
-Locey KJ, <u>Lennon JT</u> (In Review) Powerful predictions of biodiversity from ecological models and scaling laws. 
-</p>
 
 <!--- pub entry --->
 <p>
@@ -83,6 +79,13 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Revision) Phos
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
+
+<p>
+Locey KJ, <u>Lennon JT</u> (2016) Reply to <a href="http://www.indiana.edu/~microbes/publications/Willis_2016.pdf"> Willis:</a> Powerful predictions of biodiversity from ecological models and scaling laws.Proceedings of the National Academy of Sciences of the United States of America. doi/10.1073/pnas.1609635113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016_Reply.pdf">pdf)</a>
+</p>
+
+<!--- pub entry --->
+
 <p>
 Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>, <a href="http://www.indiana.edu/~microbes/publications/Pedros-Alio_Manrubia_2016.pdf">PNAS Commentary</a>, <a href="http://f1000.com/prime/726327633">F1000 Recommendation</a>)
 </p>
@@ -169,7 +172,7 @@ Krause S, Le Roux X, Niklaus PA, Van Bodegom P, <u>Lennon JT</u>, Bertilsson S, 
 
 <!--- pub entry --->
 <p>
-terHorst CP, <u>Lennon JT</u>, Lau JA (2014) The relative importance of rapid evolution for plant-soil feedbacks depend on ecological context. Proceeding of the Royal Society B 281: 20140028 (<a href="http://www.indiana.edu/~microbes/publications/terHorst_etal_2014.pdf">pdf</a>)
+terHorst CP, <u>Lennon JT</u>, Lau JA (2014) The relative importance of rapid evolution for plant-soil feedbacks depend on ecological context. Proceeding of the Royal Society B 281: 20140028 (<a href="http://www.indiana.edu/~microbes/publications/terHorst_etal_2014.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/terHorst_etal_2014_correction.pdf">correction</a>)
 </p>
 
 <!--- pub entry --->
