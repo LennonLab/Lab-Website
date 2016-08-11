@@ -98,7 +98,7 @@ Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversit
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. bioRxiv Preprint: <a href="http://dx.doi.org/10.1101/031476">doi: http://dx.doi.org/10.1101/031476 </a> Ecology
+Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. Ecology 97: 2034-2043 (<a href="http://www.indiana.edu/~microbes/publications/Muscarella_etal_2016.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
