@@ -75,46 +75,6 @@ Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
 </div>
 <div style="clear: both;"><br /><br /></div>
 
-
-<!--- entry --->
-<div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/MeganHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Larsen"></a>
-<h5>Megan Larsen</h5>
-<p><b>Ph.D. Student</b><br />
-<a href="https://meganllarsen.wordpress.com/">Personal website</a></p>
-<p>
-<b>Research interests:</b><br />
-Aquatic molecular microbiology, ecology and evolution of cyanophages, harmful algal blooms.
-</p>
-</div>
-
-
-
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/MarioHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Muscarella"></a>
-<h5>Mario Muscarella </h5>
-<p><b>Ph.D. Student</b><br />
-<a href="http://mmuscarella.github.io/">Personal website</a></p>
-<p>
-<b>Research interests:</b><br />
-Aquatic microbiology, molecular and ecological strategies of resource utilization.
-</p>
-</div>
-
-
-<div style="clear: both;"><br /><br /></div>
-
 <!--- entry --->
 <div id="left-side">
 <img src="http://www.indiana.edu/~microbes/images/people/ShoemakerHead.jpg" />
@@ -253,24 +213,6 @@ Experimental microbial evolution.
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/WieschhausHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Wieschhaus"></a>
-<h5>Keaton Wieschhaus </h5>
-<p><b>Undergraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-Microbial evolution and species interactions.
-</p>
-</div>
-
-
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
 <img src="http://www.indiana.edu/~microbes/images/people/CarrisonHead.jpg" />
 </div>
 
@@ -289,16 +231,16 @@ Microbial evolution and dormancy.
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/PrykeHead.jpg" />
+<img src="http://www.indiana.edu/~microbes/images/people/MeadorHead.jpg" />
 </div>
 
 <div id="right-side-research">
-<a id="Pryke"></a>
-<h5>Luke Pryke </h5>
+<a id="Meador"></a>
+<h5>Catherin Meador </h5>
 <p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
-Microbial ecology, predator-prey dynamics, dormancy.
+microbiology, bacteria interactions, and genetics.
 </p>
 </div>
 
@@ -331,17 +273,23 @@ Microbial genetics.
 </div>
 <h5>Postdocs and Graduate Students </h5>
 <!--- entry --->
-<p><b>Ariane Peralta</b>, Postdoctoral Researcher, Faculty at East Carolina University</p>
+<p><b>Mario Muscarella</b>, Ph.D. student, Postdoc at University Illinois Champagin-Urbana</p>
+
 <!--- entry --->
-<p><b>Sarah Placella</b>, Postdoctoral Researcher, Postdoc at INRA</p>
+<p><b>Megan Larsen</b>, Ph.D. student, Postdoc at University Nebraska Lincoln</p>
+
 <!--- entry --->
-<p><b>Stuart Jones</b>, Postdoctoral Researcher, Faculty at University of Notre Dame</p>
+<p><b>Ariane Peralta</b>, Postdoctoral Researcher, Assistant Professor East Carolina University</p>
 <!--- entry --->
-<p><b>Ed Hall</b>, Postdoctoral Researcher, Research Scientist at Colorado State University</p>
+<p><b>Sarah Placella</b>, Postdoctoral Researcher, Consultant at Sevident</p>
 <!--- entry --->
-<p><b>Zach Aanderud</b>, Postdoctoral Researcher, faculty at Brigham Young University</p>
+<p><b>Stuart Jones</b>, Postdoctoral Researcher, Associate Professor University of Notre Dame</p>
 <!--- entry --->
-<p><b>Evan Kane</b>, Postdoctoral Researcher, Faculty at Michighan Tech</p>
+<p><b>Ed Hall</b>, Postdoctoral Researcher, Assistant Professor Colorado State University</p>
+<!--- entry --->
+<p><b>Zach Aanderud</b>, Postdoctoral Researcher, Associate Professor at Brigham Young University</p>
+<!--- entry --->
+<p><b>Evan Kane</b>, Postdoctoral Researcher, Assistant Professor Michighan Tech</p>
 <!--- entry --->
 <p><b>Kali Bird</b>, Graduate Student, Founder of Hike New York</p>
 <h5>Visiting Scholars and Teachers</h5>
@@ -376,9 +324,13 @@ Microbial genetics.
 <h5>Undergraduate Researchers </h5>
 
 <!---entry--->
-<p><b>Peyton Thomas </b>, Transylvania University</p>
+<p><b>Peyton Thomas</b>, Transylvania University</p>
 <!---entry--->
-<p><b>Jaylen Beatty </b>, Transylvania University</p>
+<p><b>Jaylen Beatty</b>, Transylvania University</p>
+<!---entry--->
+<p><b>Luke Pryke</b>, Indiana University</p>
+<!---entry--->
+<p><b>Keaton Wieschhaus</b>, Indiana University</p>
 <!---entry--->
 <p><b>Sarah Cummins</b>, Indiana University</p>
 <!---entry---><!---entry--->

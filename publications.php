@@ -21,9 +21,8 @@ p {
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Locey KJ (In Review) The underestimation of global microbial diversity. 
+<u>Lennon JT</u>, Locey KJ (In Review) Macroecology for microbiology. PeerJ PrePrints 4:e2478v1 <a href="https://peerj.com/preprints/2478/"> doi:https://doi.org/10.7287/peerj.preprints.2478v1</a>
 </p>
-
 
 <!--- pub entry --->
 <p>
@@ -32,18 +31,7 @@ Locey KJ, Fisk MC, <u>Lennon JT</u> (In Review) Microscale insight into microbia
 
 <!--- pub entry --->
 <p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Revision) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. 
-</p>
-
-<!--- pub entry --->
-<p>
 Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (In Review) Multi-scale ecological filters shape crayfish microbiome assembly. PeerJ PrePrints 4:e2266v1 <a href="https://peerj.com/preprints/2266/">doi:https://doi.org/10.7287/peerj.preprints.2266v1 </a>
-</p>
-
-<!--- pub entry --->
-<p>
-<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (In Review) Microbial contributions to subterranean methane sinks. bioRxiv Preprint:
-<a href="http://biorxiv.org/content/early/2015/12/20/034801">doi: https://doi.org/10.7287/peerj.preprints.2266v1  </a> 
 </p>
 
 <!--- pub entry --->
@@ -68,20 +56,29 @@ Shoemaker WR, Locey KJ, Lennon JT (In Revision) A unifying ecological theory of 
 
 <!--- pub entry --->
 <p>
-Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Revision) Phosphorus release from the drying and reflooding of diverse wetland sediments.
-</p>
-
-<!--- pub entry --->
-<p>
  Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (In Review) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst.
 </p>
 
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
+<p>
+LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Press) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ
+</p>
 
+<!--- pub entry --->
+<p>
+Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Press) Phosphorus release from the drying and reflooding of diverse wetland sediments. Biogeochemistry.
+</p>
+
+<!--- pub entry --->
 <p>
 Locey KJ, <u>Lennon JT</u> (2016) Reply to <a href="http://www.indiana.edu/~microbes/publications/Willis_2016.pdf"> Willis:</a> Powerful predictions of biodiversity from ecological models and scaling laws.Proceedings of the National Academy of Sciences of the United States of America. doi/10.1073/pnas.1609635113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016_Reply.pdf">pdf)</a>
+</p>
+
+<!--- pub entry --->
+<p>
+<u>Lennon JT</u>, Locey KJ (2016) The underestimation of global microbial diversity. mBio 7: e01298-16 (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Locey_2016_mBio.pdf">pdf</a>; a correspondence <a href="http://www.indiana.edu/~microbes/publications/Amann_Rosello-Mora_2016_commentary.pdf">to</a> and <a href="http://www.indiana.edu/~microbes/publications/Amann_Rosello-Mora_2016_response.pdf">from</a> Amann and Rosello-Mora)
 </p>
 
 <!--- pub entry --->
@@ -90,10 +87,14 @@ Locey KJ, <u>Lennon JT</u> (2016) Reply to <a href="http://www.indiana.edu/~micr
 Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>, <a href="http://www.indiana.edu/~microbes/publications/Pedros-Alio_Manrubia_2016.pdf">PNAS Commentary</a>, <a href="http://f1000.com/prime/726327633">F1000 Recommendation</a>)
 </p>
 
+<!--- pub entry --->
+<p>
+<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (2016) Microbial contributions to subterranean methane sinks. Geobiology DOI: 10.1111/gbi.12214 (<a href="http://www.indiana.edu/~microbes/publications/Lennon_etal_2016_VN_early.pdf">pdf</a>)
+</p>
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil.  Environmental Microbiology doi: 10.1111/1462-2920.13331 (<a href="http://www.indiana.edu/~microbes/publications/Lenon_Lehmkuhl_2016_EE.pdf">pdf</a>)
+<u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil.  Environmental Microbiology 18: 2732–2742 (<a href="http://www.indiana.edu/~microbes/publications/Lenon_Lehmkuhl_2016.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
