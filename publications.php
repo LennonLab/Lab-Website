@@ -51,7 +51,7 @@ Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances diseas
 
 <!--- pub entry --->
 <p>
-Shoemaker WR, Locey KJ, Lennon JT (In Revision) A unifying ecological theory of microbial biodiversity. PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1450v1</a>
+Shoemaker WR, Locey KJ, Lennon JT (In Revision) A unifying ecological theory of microbial biodiversity. PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450">doi:https://dx.doi.org/10.7287/peerj.preprints.1450</a>
 </p>
 
 <!--- pub entry --->
@@ -64,11 +64,6 @@ Shoemaker WR, Locey KJ, Lennon JT (In Revision) A unifying ecological theory of 
 <!--- pub entry --->
 <p>
 LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Press) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ
-</p>
-
-<!--- pub entry --->
-<p>
-Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (In Press) Phosphorus release from the drying and reflooding of diverse wetland sediments. Biogeochemistry.
 </p>
 
 <!--- pub entry --->
@@ -94,7 +89,7 @@ Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversit
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil.  Environmental Microbiology 18: 2732–2742 (<a href="http://www.indiana.edu/~microbes/publications/Lenon_Lehmkuhl_2016.pdf">pdf</a>)
+<u>Lennon JT</u>, Lehmkuhl (2016) A trait-based approach to biofilms in soil.  Environmental Microbiology 18: 2732–2742 (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Lehmkuhl_2016.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
@@ -111,7 +106,7 @@ Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2
 Wisnoski NI, <u>Lennon JT</u> (2016) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology 91: 98-99 (<a href="http://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2016.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
-<p><u>Lennon JT</u>, Denef VJ (2016) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC. [Epub ahead of print] <a href="http://www.asmscience.org/content/book/10.1128/9781555818821.ch4.1.2">doi:10.1128/9781555818821.ch4.1.2.</a> PeerJ PrePrints 3:e1260 <a href="https://dx.doi.org/10.7287/peerj.preprints.1025v1">doi:https://dx.doi.org/10.7287/peerj.preprints.1025v1</a>
+<p><u>Lennon JT</u>, Denef VJ (2016) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC
   (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
@@ -122,6 +117,11 @@ Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>
 <!--- pub entry --->
 <p>
 Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (2016) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems. Inland Waters 6: 1-10 (<a href="http://www.indiana.edu/~microbes/publications/Hall_etal_2016.pdf">pdf</a>) </p>
+
+<!--- pub entry --->
+<p>
+Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (2016) Phosphorus release from the drying and reflooding of diverse wetland sediments. DOI 10.1007/s10533-016-0250-4. Biogeochemistry (<a href="http://www.indiana.edu/~microbes/publications/Kinsman-Costello_etal_2016.pdf">pdf</a>)
+</p>
 
 <!--- pub entry --->
 <p>
