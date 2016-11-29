@@ -51,7 +51,7 @@ Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances diseas
 
 <!--- pub entry --->
 <p>
-Shoemaker WR, Locey KJ, Lennon JT (In Revision) A unifying ecological theory of microbial biodiversity. PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450">doi:https://dx.doi.org/10.7287/peerj.preprints.1450</a>
+Shoemaker WR, Locey KJ, Lennon JT (In Revision) A macroecological theory of microbial biodiversity. PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450">doi:https://dx.doi.org/10.7287/peerj.preprints.1450</a>
 </p>
 
 <!--- pub entry --->
@@ -63,7 +63,7 @@ Shoemaker WR, Locey KJ, Lennon JT (In Revision) A unifying ecological theory of 
 
 <!--- pub entry --->
 <p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Press) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ
+LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Press) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ. doi: 10.1038/ismej.2016.141 (<a href="http://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
