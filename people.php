@@ -236,7 +236,7 @@ Microbial evolution and dormancy.
 
 <div id="right-side-research">
 <a id="Meador"></a>
-<h5>Catherin Meador </h5>
+<h5>Catherine Meador </h5>
 <p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />

@@ -21,11 +21,6 @@ p {
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Locey KJ (In Review) Macroecology for microbiology. PeerJ PrePrints 4:e2478v1 <a href="https://peerj.com/preprints/2478/"> doi:https://doi.org/10.7287/peerj.preprints.2478v1</a>
-</p>
-
-<!--- pub entry --->
-<p>
 Locey KJ, Fisk MC, <u>Lennon JT</u> (In Review) Microscale insight into microbial seed banks. PeerJ PrePrints 4:e2321v1 <a href="https://peerj.com/preprints/2321/"> doi:https://doi.org/10.7287/peerj.preprints.2321v1</a>
 </p>
 
@@ -63,7 +58,12 @@ Shoemaker WR, Locey KJ, Lennon JT (In Revision) A macroecological theory of micr
 
 <!--- pub entry --->
 <p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (In Press) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ. doi: 10.1038/ismej.2016.141 (<a href="http://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
+Lennon JT, Locey KJ (In Press) Macroecology for microbiology. Environmental Microbiology. PeerJ PrePrints 4:e2478v1 doi:https://doi.org/10.7287/peerj.preprints.2478v1
+</p>
+
+<!--- pub entry --->
+<p>
+LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (2016) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ. doi: 10.1038/ismej.2016.141 (<a href="http://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
