@@ -20,16 +20,6 @@ p {
 <p><b>In Review or In Revision:</b></p>
 
 <!--- pub entry --->
-<p>
-Locey KJ, Fisk MC, <u>Lennon JT</u> (In Review) Microscale insight into microbial seed banks. PeerJ PrePrints 4:e2321v1 <a href="https://peerj.com/preprints/2321/"> doi:https://doi.org/10.7287/peerj.preprints.2321v1</a>
-</p>
-
-<!--- pub entry --->
-<p>
-Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (In Review) Multi-scale ecological filters shape crayfish microbiome assembly. PeerJ PrePrints 4:e2266v1 <a href="https://peerj.com/preprints/2266/">doi:https://doi.org/10.7287/peerj.preprints.2266v1 </a>
-</p>
-
-<!--- pub entry --->
 <p> 
 Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
 </p>
@@ -58,6 +48,11 @@ Shoemaker WR, Locey KJ, Lennon JT (In Revision) A macroecological theory of micr
 
 <!--- pub entry --->
 <p>
+Locey KJ, Fisk MC, <u>Lennon JT</u> (2016) Microscale insight into microbial seed banks. Frontiers in Microbiology doi: 10.3389/fmicb.2016.02040 <a href="http://journal.frontiersin.org/article/10.3389/fmicb.2016.02040/abstract"> link</a>
+</p>
+
+<!--- pub entry --->
+<p>
 Lennon JT, Locey KJ (In Press) Macroecology for microbiology. Environmental Microbiology. PeerJ PrePrints 4:e2478v1 doi:https://doi.org/10.7287/peerj.preprints.2478v1
 </p>
 
@@ -65,6 +60,13 @@ Lennon JT, Locey KJ (In Press) Macroecology for microbiology. Environmental Micr
 <p>
 LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (2016) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ. doi: 10.1038/ismej.2016.141 (<a href="http://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
 </p>
+
+
+<!--- pub entry --->
+<p>
+Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2016) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis doi 10.1007/s13199-016-0469-9 (<a href="http://www.indiana.edu/~microbes/publications/Skelton_etal_2016.pdf">pdf) </a>
+</p>
+
 
 <!--- pub entry --->
 <p>
