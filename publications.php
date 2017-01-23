@@ -26,11 +26,6 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 
 <!--- pub entry --->
 <p>
-Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Review) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. 
-</p>
-
-<!--- pub entry --->
-<p>
 Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> 
 </p>
 
@@ -48,8 +43,14 @@ Shoemaker WR, Locey KJ, Lennon JT (In Revision) A macroecological theory of micr
 
 <!--- pub entry --->
 <p>
-Locey KJ, Fisk MC, <u>Lennon JT</u> (2016) Microscale insight into microbial seed banks. Frontiers in Microbiology doi: 10.3389/fmicb.2016.02040 <a href="http://journal.frontiersin.org/article/10.3389/fmicb.2016.02040/abstract"> link</a>
+Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial seed banks. Frontiers in Microbiology 7:2040 (<a href="http://www.indiana.edu/~microbes/publications/Locey_etal_2017.pdf">pdf)</a>
 </p>
+
+<!--- pub entry --->
+<p>
+Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Press) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies
+</p>
+
 
 <!--- pub entry --->
 <p>
@@ -79,7 +80,6 @@ Locey KJ, <u>Lennon JT</u> (2016) Reply to <a href="http://www.indiana.edu/~micr
 </p>
 
 <!--- pub entry --->
-
 <p>
 Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>, <a href="http://www.indiana.edu/~microbes/publications/Pedros-Alio_Manrubia_2016.pdf">PNAS Commentary</a>, <a href="http://f1000.com/prime/726327633">F1000 Recommendation</a>)
 </p>
