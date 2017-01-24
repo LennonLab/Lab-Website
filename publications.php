@@ -21,6 +21,16 @@ p {
 
 <!--- pub entry --->
 <p> 
+Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. PeerJ Preprints 5:e2727v1 <a href="https://doi.org/10.7287/peerj.preprints.2727v1">doi: http://dx.doi.org/10.1101/065128 </a>
+</p>
+
+<!--- pub entry --->
+<p>
+Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (In Review) Patterns and drivers of fungal community depth stratification in Sphagnum peat. 
+</p> 
+
+<!--- pub entry --->
+<p> 
 Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
 </p>
 
@@ -31,7 +41,7 @@ Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances diseas
 
 <!--- pub entry --->
 <p>
-Shoemaker WR, Locey KJ, Lennon JT (In Revision) A macroecological theory of microbial biodiversity. PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450">doi:https://dx.doi.org/10.7287/peerj.preprints.1450</a>
+Shoemaker WR, Locey KJ, <u>Lennon JT</u> (In Revision) A macroecological theory of microbial biodiversity. PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450">doi:https://dx.doi.org/10.7287/peerj.preprints.1450</a>
 </p>
 
 <!--- pub entry --->
@@ -54,7 +64,7 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
-Lennon JT, Locey KJ (In Press) Macroecology for microbiology. Environmental Microbiology. PeerJ PrePrints 4:e2478v1 doi:https://doi.org/10.7287/peerj.preprints.2478v1
+<u>Lennon JT</u>, Locey KJ (In Press) Macroecology for microbiology. Environmental Microbiology. PeerJ PrePrints 4:e2478v1 doi:https://doi.org/10.7287/peerj.preprints.2478v1
 </p>
 
 <!--- pub entry --->
