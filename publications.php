@@ -17,7 +17,7 @@ p {
 
 <br />
 
-<p><b>In Review or In Revision:</b></p>
+<p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
 <p> 
@@ -41,17 +41,19 @@ Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances diseas
 
 <!--- pub entry --->
 <p>
-Shoemaker WR, Locey KJ, <u>Lennon JT</u> (In Revision) A macroecological theory of microbial biodiversity. PeerJ PrePrints 3:e1806 <a href="https://dx.doi.org/10.7287/peerj.preprints.1450">doi:https://dx.doi.org/10.7287/peerj.preprints.1450</a>
-</p>
-
-<!--- pub entry --->
-<p>
  Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (In Review) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst.
 </p>
 
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
+
+<p>
+Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of microbial biodiversity. Nature Ecology and Evolution 1:0107 (<a href="http://www.indiana.edu/~microbes/publications/Shoemaker_etal_2017.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Shoemaker_etal_2017_Supplement.pdf">supplementary information</a>)
+</p>
+
+<!--- pub entry --->
+
 <p>
 Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial seed banks. Frontiers in Microbiology 7:2040 (<a href="http://www.indiana.edu/~microbes/publications/Locey_etal_2017.pdf">pdf)</a>
 </p>
@@ -61,10 +63,9 @@ Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial see
 Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Press) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies
 </p>
 
-
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Locey KJ (In Press) Macroecology for microbiology. Environmental Microbiology. PeerJ PrePrints 4:e2478v1 doi:https://doi.org/10.7287/peerj.preprints.2478v1
+<u>Lennon JT</u>, Locey KJ (2017) Macroecology for microbiology. Environmental Microbiology. Environmental Microbiology Reports 9: 38-40 (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Locey_2017.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -72,16 +73,14 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (2016) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ. doi: 10.1038/ismej.2016.141 (<a href="http://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
 </p>
 
-
 <!--- pub entry --->
 <p>
 Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2016) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis doi 10.1007/s13199-016-0469-9 (<a href="http://www.indiana.edu/~microbes/publications/Skelton_etal_2016.pdf">pdf) </a>
 </p>
 
-
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (2016) Reply to <a href="http://www.indiana.edu/~microbes/publications/Willis_2016.pdf"> Willis:</a> Powerful predictions of biodiversity from ecological models and scaling laws.Proceedings of the National Academy of Sciences of the United States of America. doi/10.1073/pnas.1609635113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016_Reply.pdf">pdf)</a>
+Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America. doi/10.1073/pnas.1609635113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016_Reply.pdf">pdf</a>; a reply to <a href="http://www.indiana.edu/~microbes/publications/Willis_2016.pdf">Willis</a>)
 </p>
 
 <!--- pub entry --->
