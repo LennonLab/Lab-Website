@@ -19,9 +19,19 @@ p {
 
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
+
 <!--- pub entry --->
 <p> 
-Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. PeerJ Preprints 5:e2727v1 <a href="https://doi.org/10.7287/peerj.preprints.2727v1">doi: http://dx.doi.org/10.1101/065128 </a>
+<u>Lennon JT</u>, Placella SA, Muscarella ME (2017) Relic DNA contributes minimally to estimates of microbial diversity. bioRxiv  <a href="http://biorxiv.org/content/early/2017/04/26/131284"> doi: https://doi.org/10.1101/131284  </a>
+</p>
+
+<!--- pub entry --->
+<p>Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (In Review) Evoltionary determinants of genome-wide nucleotide composition
+</p>
+
+<!--- pub entry --->
+<p> 
+Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
 </p>
 
 <!--- pub entry --->
@@ -70,7 +80,7 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (2016) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ. doi: 10.1038/ismej.2016.141 (<a href="http://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
+LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (2017) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ 11: 337–348 (<a href="http://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -80,7 +90,7 @@ Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2016) Multi-scale eco
 
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America. doi/10.1073/pnas.1609635113 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016_Reply.pdf">pdf</a>; a reply to <a href="http://www.indiana.edu/~microbes/publications/Willis_2016.pdf">Willis</a>)
+Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecological models and scaling laws. Proceedings of the National Academy of Sciences of the United States of America 113: E5097 (<a href="http://www.indiana.edu/~microbes/publications/Locey_Lennon_2016_Reply.pdf">pdf</a>; a reply to <a href="http://www.indiana.edu/~microbes/publications/Willis_2016.pdf">Willis</a>)
 </p>
 
 <!--- pub entry --->
@@ -95,7 +105,7 @@ Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversit
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (2016) Microbial contributions to subterranean methane sinks. Geobiology DOI: 10.1111/gbi.12214 (<a href="http://www.indiana.edu/~microbes/publications/Lennon_etal_2016_VN_early.pdf">pdf</a>)
+<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (2016) Microbial contributions to subterranean methane sinks. Geobiology 15: 254-258.  (<a href="http://www.indiana.edu/~microbes/publications/Lennon_etal_2016_VN_early.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
