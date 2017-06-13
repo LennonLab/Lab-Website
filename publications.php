@@ -26,12 +26,22 @@ p {
 </p>
 
 <!--- pub entry --->
-<p>Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (In Review) Evoltionary determinants of genome-wide nucleotide composition
+<p> 
+Shoemaker WR, <u>Lennon JT</u> (In review) Evolution with a seed bank: the population genetic consequences of microbial dormancy
+</p>
+
+<!--- pub entry --->
+<p>
+Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (In Review) Evolutionary determinants of genome-wide nucleotide composition
 </p>
 
 <!--- pub entry --->
 <p> 
 Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
+</p>
+
+<!--- pub entry --->
+<p>Locey KJ, Lennon JT (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3
 </p>
 
 <!--- pub entry --->
@@ -57,13 +67,16 @@ Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances diseas
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
-
 <p>
 Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of microbial biodiversity. Nature Ecology and Evolution 1:0107 (<a href="http://www.indiana.edu/~microbes/publications/Shoemaker_etal_2017.pdf">pdf</a>, <a href="http://www.indiana.edu/~microbes/publications/Shoemaker_etal_2017_Supplement.pdf">supplementary information</a>)
 </p>
 
 <!--- pub entry --->
+<p>
+Kuo V, Shoemaker WR, Muscarella ME, Lennon JT (In Press) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements
+</p>
 
+<!--- pub entry --->
 <p>
 Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial seed banks. Frontiers in Microbiology 7:2040 (<a href="http://www.indiana.edu/~microbes/publications/Locey_etal_2017.pdf">pdf)</a>
 </p>
@@ -81,6 +94,11 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 <!--- pub entry --->
 <p>
 LaSarre B, McCully AL, <u>Lennon JT</u>, Lehmkuhl, McKinlay JB (2017) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ 11: 337–348 (<a href="http://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
+</p>
+
+<!--- pub entry --->
+<p>
+Moger-Reischer RZ, Lennon JT (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="http://www.indiana.edu/~microbes/publications/Moger-Reicher_Lennon_2017.pdff">pdf)</a>
 </p>
 
 <!--- pub entry --->
