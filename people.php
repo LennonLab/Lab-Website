@@ -24,14 +24,14 @@ img {
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/JayHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/JayHead.jpg" />
 </div>
 
 <div id="right-side-research">
 <a id="Lennon"></a>
 <h5>Jay T. Lennon </h5>
 <p><b>Principal Investigator</b><br />
-<a href="http://www.indiana.edu/~microbes/images/people/CV_Lennon.pdf">view CV</a></p>
+<a href="https://www.indiana.edu/~microbes/images/people/CV_Lennon.pdf">view CV</a></p>
 <p>
 <b>Research interests:</b><br />
 Biodiversity, traits, dormancy, microbiology, resource variability, ecology and evolution.</p>
@@ -43,7 +43,7 @@ Biodiversity, traits, dormancy, microbiology, resource variability, ecology and 
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/KenHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/KenHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -62,13 +62,13 @@ Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy a
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/MeganBHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/MeganBHead.jpg" />
 </div>
 
 <div id="right-side-research">
 <a id="Behringer"></a>
 <h5>Megan Behringer </h5>
-<p><b>Postdoctoral Researcher (co-mentored with <a href="http://www.bio.indiana.edu/faculty/directory/profile.php?person=milynch">Michael Lynch</a>)</b><br />
+<p><b>Postdoctoral Researcher (co-mentored with <a href="https://biology.indiana.edu/about/faculty/lynch-michael.html">Michael Lynch</a>)</b><br />
 <p>
 <b>Research interests:</b><br />
 Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
@@ -77,7 +77,7 @@ Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/ShoemakerHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/ShoemakerHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -96,7 +96,7 @@ Microbial life-history traits, ecological-evolutionary interactions, and bioinfo
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/WisnoskiHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/WisnoskiHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -117,7 +117,7 @@ Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/KuoHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/KuoHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -133,30 +133,9 @@ Plant-microbe interactions, dormancy and seed banks, plant and microbial ecology
 
 <div style="clear: both;"><br /><br /></div>
 
-
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/WebsterHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Webster"></a>
-<h5>Kevin Webster </h5>
-<p><b>Ph.D. Student (primary advisor: <a href="http://geology.indiana.edu/schimmelmann/">Arndt Schimmelmann</a>)</b></p>
-<p>
-<b>Research interests:</b><br />
-Methane dynamics, speleology, biogeochemistry, geomicrobiology, astrobiology, the origin of life.
-</p>
-</div>
-
-
-
-<div style="clear: both;"><br /><br /></div>
-
-
-<!--- entry --->
-<div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/Moger-ReischerHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/Moger-ReischerHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -175,7 +154,7 @@ Microbe functional trait evolution, biological soil crusts, phylogenomics, plant
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/BrentHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/BrentHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -195,7 +174,7 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/EvgeniyaHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/EvgeniyaHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -213,7 +192,7 @@ Experimental microbial evolution.
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/CarrisonHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/CarrisonHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -226,44 +205,6 @@ Microbial evolution and dormancy.
 </p>
 </div>
 
-
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/MeadorHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Meador"></a>
-<h5>Catherine Meador </h5>
-<p><b>Undergraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-microbiology, bacteria interactions, and genetics.
-</p>
-</div>
-
-
-<div style="clear: both;"><br /><br /></div>
-
-
-<!--- entry --->
-<div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/people/BlaettnerHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Blaettner"></a>
-<h5>Bianca Blaettner </h5>
-<p><b>Undergraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-Microbial genetics.
-</p>
-</div>
-
-
 <div style="clear: both;"><br /><br /></div>
 
 
@@ -273,11 +214,11 @@ Microbial genetics.
 </div>
 <h5>Postdocs and Graduate Students </h5>
 <!--- entry --->
+<p><b>Kevin Webster</b>, Ph.D. student, Postdoc at University of Arizona</p>
+<!--- entry --->
 <p><b>Mario Muscarella</b>, Ph.D. student, Postdoc at University Illinois Champagin-Urbana</p>
-
 <!--- entry --->
 <p><b>Megan Larsen</b>, Ph.D. student, Postdoc at University Nebraska Lincoln</p>
-
 <!--- entry --->
 <p><b>Ariane Peralta</b>, Postdoctoral Researcher, Assistant Professor East Carolina University</p>
 <!--- entry --->
@@ -324,6 +265,10 @@ Microbial genetics.
 <h5>Undergraduate Researchers </h5>
 
 <!---entry--->
+<p><b>Bianca Blaettner</b>, Indiana University</p>
+<!---entry--->
+<p><b>Catherine Meador</b>, Indiana University</p>
+<!---entry--->
 <p><b>Peyton Thomas</b>, Transylvania University</p>
 <!---entry--->
 <p><b>Jaylen Beatty</b>, Transylvania University</p>
@@ -361,6 +306,7 @@ Microbial genetics.
 <p><b>Ben Phillips</b>, Michigan State University</p>
 <h5>High School Students </h5>
 <!--- entry --->
+<p><b>Nicole Nguyen</b>, Burris Laboratory School, Muncie, IN</p>
 <p><b>Samuel Iwu</b>, Indiana Math and Science Academy North, Indianapolis, IN</p>
 <p><b>Dakayla Calhoun</b>, Shortridge International Baccalaureate High School, Indianapolis, IN</p>
 <p><b>Dante Razzo</b>, Bloomington North High School, Bloomington, IN</p>

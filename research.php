@@ -17,7 +17,7 @@
     
     <!--- entry --->
     <div id="left-side">
-    <img src="http://www.indiana.edu/~microbes/images/research/spore.jpg" />
+    <img src="https://www.indiana.edu/~microbes/images/research/spore.jpg" />
     </div>
     
     <div id="right-side-research">
@@ -33,7 +33,7 @@
     
         <!--- entry --->
     <div id="left-side">
-    <img src="http://www.indiana.edu/~microbes/images/research/plaques.jpg" />
+    <img src="https://www.indiana.edu/~microbes/images/research/plaques.jpg" />
     </div>
     
     <div id="right-side-research">
@@ -49,7 +49,7 @@
     
     <!--- entry --->
     <div id="left-side">
-    <img src="http://www.indiana.edu/~microbes/images/research/KBS_soils_3.jpg" />
+    <img src="https://www.indiana.edu/~microbes/images/research/KBS_soils_3.jpg" />
     </div>
     
     <div id="right-side-research">
@@ -84,7 +84,7 @@ The last  decade has revolutionized the way we study microbial diversity. Howeve
 
     <!--- entry --->
     <div id="left-side">
-    <img src="http://www.indiana.edu/~microbes/images/research/KBS_soils_3.jpg" />
+    <img src="https://www.indiana.edu/~microbes/images/research/KBS_soils_3.jpg" />
     </div>
     
     <div id="right-side-research">

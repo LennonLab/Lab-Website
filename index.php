@@ -22,7 +22,7 @@ For additional information and news, visit the <a href="http://www.indiana.edu/~
 
 <h4 style="text-align:left;">Contact:</h4>
 <p>
-<a href="http://www.indiana.edu/~microbes/people.php/cfm#Lennon"> Jay T. Lennon</a>, <a href="http://www.bio.indiana.edu/">  Department of Biology</a>, <a href="http://www.iub.edu/">Indiana University</a>, 261 Jordan Hall, <a href="http://goo.gl/PIjsr5">1001 East 3rd Street</a>, <a href="http://bloomington.in.gov/">Bloomington, IN</a> 47405 USA, 812-856-0962 (office), 812-856-7235 (lab), <a href="mailto:lennonj@indiana.edu">lennonj@indiana.edu</a> 
+<a href="https://www.indiana.edu/~microbes/people.php/cfm#Lennon"> Jay T. Lennon</a>, <a href="http://www.bio.indiana.edu/">  Department of Biology</a>, <a href="http://www.iub.edu/">Indiana University</a>, 261 Jordan Hall, <a href="http://goo.gl/PIjsr5">1001 East 3rd Street</a>, <a href="http://bloomington.in.gov/">Bloomington, IN</a> 47405 USA, 812-856-0962 (office), 812-856-7235 (lab), <a href="mailto:lennonj@indiana.edu">lennonj@indiana.edu</a> 
 </p>
 
 </div>

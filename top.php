@@ -8,7 +8,7 @@
 
 <title>Lennon Lab</title>
 
-<link rel="stylesheet" href="http://www.indiana.edu/~microbes/lennon_jay.css" type="text/css" />
+<link rel="stylesheet" href="https://www.indiana.edu/~microbes/lennon_jay.css" type="text/css" />
 
  <style type="text/css">
 #Slideshow {
@@ -41,7 +41,7 @@
            </div>
            
         	 <div id="first_top_left_corner">
-            <img src="http://www.indiana.edu/~microbes/images/TLcorner.gif" style="border:none;"  alt="" width="99%"/>
+            <img src="https://www.indiana.edu/~microbes/images/TLcorner.gif" style="border:none;"  alt="" width="99%"/>
             </div>
             --->
            <div style="clear: both;"></div>
@@ -56,23 +56,23 @@
             </div>
             
             <div id="first_top_left_corner">
-            <img src="http://www.indiana.edu/~microbes/images/TLcorner.png" style="border:none;"  alt="" width="100%"/>
+            <img src="https://www.indiana.edu/~microbes/images/TLcorner.png" style="border:none;"  alt="" width="100%"/>
             </div>
             
             <div id="header_nav">
             	<div id="hnav">
             	<ul>
-                <li><a href="http://www.indiana.edu/~microbes/index.php">Home</a></li>
-                <li><a href="http://www.indiana.edu/~microbes/research.php">Research</a></li>
-                <li><a href="http://www.indiana.edu/~microbes/people.php">People</a></li>
+                <li><a href="https://www.indiana.edu/~microbes/index.php">Home</a></li>
+                <li><a href="https://www.indiana.edu/~microbes/research.php">Research</a></li>
+                <li><a href="https://www.indiana.edu/~microbes/people.php">People</a></li>
   
-                <li><a href="http://www.indiana.edu/~microbes/publications.php">Publications</a></li>
-                <li><a href="http://www.indiana.edu/~microbes/teaching.php">Teaching</a></li>
-                <li><a href="http://www.indiana.edu/~microbes/opportunities.php">Opportunities</a></li>
+                <li><a href="https://www.indiana.edu/~microbes/publications.php">Publications</a></li>
+                <li><a href="https://www.indiana.edu/~microbes/teaching.php">Teaching</a></li>
+                <li><a href="https://www.indiana.edu/~microbes/opportunities.php">Opportunities</a></li>
                 <li></li>
                 </ul>
                 </div>
-				<a href="http://www.indiana.edu/~microbes/index.php"><img src="http://www.indiana.edu/~microbes/images/banner.jpg" style="border:none;"  alt="" width="99%"/></a>                
+				<a href="https://www.indiana.edu/~microbes/index.php"><img src="https://www.indiana.edu/~microbes/images/banner.jpg" style="border:none;"  alt="" width="99%"/></a>                
             </div>
             
         	           
@@ -83,7 +83,7 @@
            <div style="clear: both;"></div>
            
            <div id="tl_corner">
-            <img src="http://www.indiana.edu/~microbes/images/TLcorner.png" style="border:none;"  alt="" width="100%"/>
+            <img src="https://www.indiana.edu/~microbes/images/TLcorner.png" style="border:none;"  alt="" width="100%"/>
             </div>
            
 			<div class="content">
