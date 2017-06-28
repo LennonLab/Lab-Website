@@ -83,7 +83,8 @@ Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
 <div id="right-side-research">
 <a id="Shoemaker"></a>
 <h5>Will Shoemaker </h5>
-<p><b>Ph.D. Student</b></p>
+<p><b>Ph.D. Student</b><br />
+<a href="https://wrshoemaker.github.io//">Personal website</a></p>
 <p>
 <b>Research interests:</b><br />
 Microbial life-history traits, ecological-evolutionary interactions, and bioinformatics.

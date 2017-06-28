@@ -27,7 +27,7 @@ p {
 
 <!--- pub entry --->
 <p> 
-Shoemaker WR, <u>Lennon JT</u> (In review) Evolution with a seed bank: the population genetic consequences of microbial dormancy
+Shoemaker WR, <u>Lennon JT</u> (2017) Evolution with a seed bank: the population genetic consequences of microbial dormancy. bioRxiv  <a href="http://biorxiv.org/content/early/2017/06/27/156356"> doi: https://doi.org/10.1101/156356  </a>
 </p>
 
 <!--- pub entry --->
@@ -37,7 +37,7 @@ Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Grego
 
 <!--- pub entry --->
 <p> 
-Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
+Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. PeerJ Preprints. 5:e2727v2 <a href="https://doi.org/10.7287/peerj.preprints.2727v2">doi.org/10.7287/peerj.preprints.2727v2 </a>
 </p>
 
 <!--- pub entry --->
@@ -70,7 +70,7 @@ Kuo V, Shoemaker WR, Muscarella ME, Lennon JT (In Press) Whole genome sequence o
 
 <!--- pub entry --->
 <p>
-Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (In Press) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology
+Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (In Press) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology <a href ="http://www.sciencedirect.com/science/article/pii/S0009254117303728">doi: 10.1016/j.chemgeo.2017.06.014 </a>
 </p>
 
 <!--- pub entry --->
