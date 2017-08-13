@@ -65,7 +65,7 @@ Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of micr
 
 <!--- pub entry --->
 <p>
-Kuo V, Shoemaker WR, Muscarella ME, Lennon JT (In Press) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements
+Kuo V, Shoemaker WR, Muscarella ME, Lennon JT (2017) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements 5:e00697-17 (<a href="https://www.indiana.edu/~microbes/publications/Kuo_etal_2017.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -90,12 +90,12 @@ Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Bosto
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Locey KJ (2017) Macroecology for microbiology. Environmental Microbiology. Environmental Microbiology Reports 9: 38-40 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_Locey_2017.pdf">pdf)</a>
+<u>Lennon JT</u>, Locey KJ (2017) Macroecology for microbiology. Environmental Microbiology Reports 9: 38-40 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_Locey_2017.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
 <p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ 11: 337–348 (<a href="https://www.indiana.edu/~microbes/publications/LaSarre_etal_EE.pdf">pdf)</a>
+LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ 11: 337–348 (<a href="https://www.indiana.edu/~microbes/publications/LaSarre_etal_2017.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -110,7 +110,7 @@ Moger-Reischer RZ, Lennon JT (2017) Book Review. The human superorganism: how th
 
 <!--- pub entry --->
 <p>
-Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2016) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis doi 10.1007/s13199-016-0469-9 (<a href="https://www.indiana.edu/~microbes/publications/Skelton_etal_2016.pdf">pdf) </a>
+Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2016) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis 72: 159-170 (<a href="https://www.indiana.edu/~microbes/publications/Skelton_etal_2017.pdf">pdf) </a>
 </p>
 
 <!--- pub entry --->
