@@ -145,13 +145,29 @@ Plant-microbe interactions, dormancy and seed banks, plant and microbial ecology
 <p><b>Ph.D. Student</b></p>
 <p>
 <b>Research interests:</b><br />
-Microbe functional trait evolution, biological soil crusts, phylogenomics, plant-microbe interactions.
+Microbial population genetics, epigenetics, aeging and longevity.
 </p>
 </div>
 
+<div style="clear: both;"><br /><br /></div>
 
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/MuellerHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Mueller"></a>
+<h5>Emmi Mueller </h5>
+<p><b>Ph.D. Student</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial ecology, resilience and resistance, and molecular genetics.
+</p>
+</div>
 
 <div style="clear: both;"><br /><br /></div>
+
 
 <!--- entry --->
 <div id="left-side">
@@ -265,6 +281,12 @@ Microbial evolution and dormancy.
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b>SydneyEllen Gooding</b>, Transylvania University</p>
+<!---entry--->
+<p><b>Mary Wallace</b>, Transylvania University</p>
+<!---entry--->
+<p><b>Benjamin Fleet</b>, Indiana University</p>
 <!---entry--->
 <p><b>Bianca Blaettner</b>, Indiana University</p>
 <!---entry--->
