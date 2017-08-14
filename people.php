@@ -55,10 +55,25 @@ Biodiversity, traits, dormancy, microbiology, resource variability, ecology and 
 <b>Research interests:</b><br />
 Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy and seed banks, ecological theory and modeling. </p>
 </div>
-
-
-
 <div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/DanielHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Schwartz"></a>
+<h5>Daniel Schwartz </h5>
+<p><b>Postdoctoral Researcher</b><br />
+<p>
+<b>Research interests:</b><br />
+Experimental evolution, phage-host coevolution and coexistence, 
+evolution within communities
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
 
 <!--- entry --->
 <div id="left-side">
@@ -90,9 +105,6 @@ Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
 Microbial life-history traits, ecological-evolutionary interactions, and bioinformatics.
 </p>
 </div>
-
-
-
 <div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
@@ -110,9 +122,6 @@ Microbial life-history traits, ecological-evolutionary interactions, and bioinfo
 Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
 </p>
 </div>
-
-
-
 <div style="clear: both;"><br /><br /></div>
 
 
