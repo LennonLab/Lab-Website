@@ -125,7 +125,7 @@ Locey KJ, <u>Lennon JT</u> (2016) Powerful predictions of biodiversity from ecol
 
 <!--- pub entry --->
 <p>
-Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.SI.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Pedros-Alio_Manrubia_2016.pdf">PNAS Commentary</a>, <a href="https://f1000.com/prime/726327633">F1000 Recommendation</a>)
+Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversity. Proceedings of the National Academy of Sciences of the United States of America 113: 5970-5975 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2016.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2016_SI.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Pedros-Alio_Manrubia_2016.pdf">PNAS Commentary</a>, <a href="https://f1000.com/prime/726327633">F1000 Recommendation</a>)
 </p>
 
 <!--- pub entry --->
