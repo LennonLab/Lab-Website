@@ -192,9 +192,6 @@ Microbial ecology, resilience and resistance, and molecular genetics.
 Microbiology, molecular genetics, resuscitation promoting factors.
 </p>
 </div>
-
-
-
 <div style="clear: both;"><br /><br /></div>
 
 
@@ -210,6 +207,23 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 <p>
 <b>Research interests:</b><br />
 Experimental microbial evolution.
+</p>
+</div>
+
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/KenzieHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Kenzie"></a>
+<h5>Kenzie Givens </h5>
+<p><b>Research Technicican</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial evolution, molecular genetics, fermentation, dormancy.
 </p>
 </div>
 

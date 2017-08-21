@@ -42,12 +42,18 @@ Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. P
 
 <!--- pub entry --->
 <p>
-Locey KJ, Lennon JT (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
+Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
 </p>
 
 <!--- pub entry --->
 <p> 
 Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
+</p>
+
+
+<!--- pub entry --->
+<p> 
+Schimmelmann A, Streil T, <u>Lennon JT</u> (In Review) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air  
 </p>
 
 <!--- pub entry --->
