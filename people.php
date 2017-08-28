@@ -229,19 +229,18 @@ Microbial evolution, molecular genetics, fermentation, dormancy.
 
 <div style="clear: both;"><br /><br /></div>
 
-
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/CarrisonHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/JessHead.jpg" />
 </div>
 
 <div id="right-side-research">
-<a id="Carrison"></a>
-<h5>Mollie Carrison </h5>
-<p><b>Undergraduate Researcher</b></p>
+<a id="Zellinger"></a>
+<h5>Jessica Zellinger </h5>
+<p><b>Undegraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
-Microbial evolution and dormancy.
+Genome evolution, bioinformatics, microbial evolution.
 </p>
 </div>
 
@@ -304,6 +303,8 @@ Microbial evolution and dormancy.
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b>Mollie Carrison</b>, Indiana University</p>
 <!---entry--->
 <p><b>SydneyEllen Gooding</b>, Transylvania University</p>
 <!---entry--->
