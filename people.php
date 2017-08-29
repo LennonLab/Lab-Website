@@ -243,8 +243,25 @@ Microbial evolution, molecular genetics, fermentation, dormancy.
 Genome evolution, bioinformatics, microbial evolution.
 </p>
 </div>
-
 <div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/CariHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Rice"></a>
+<h5>Cari Rice</h5>
+<p><b>Undegraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial evolution, molecular genetics, catalysis of alcohols in fuel cells, synthesis of core-shell nanoparticles
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+
 
 
 <!--- entry --->
