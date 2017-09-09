@@ -22,6 +22,11 @@ p {
 
 <!--- pub entry --->
 <p> 
+Larsen ML, Whilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
+</p>
+
+<!--- pub entry --->
+<p> 
 <u>Lennon JT</u>, Placella SA, Muscarella ME (2017) Relic DNA contributes minimally to estimates of microbial diversity. bioRxiv  <a href="http://biorxiv.org/content/early/2017/04/26/131284"> doi: https://doi.org/10.1101/131284  </a>
 </p>
 
