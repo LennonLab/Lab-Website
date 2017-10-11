@@ -76,7 +76,7 @@ Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of micr
 
 <!--- pub entry --->
 <p>
-Kuo V, Shoemaker WR, Muscarella ME, Lennon JT (2017) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements 5:e00697-17 (<a href="https://www.indiana.edu/~microbes/publications/Kuo_etal_2017.pdf">pdf)</a>
+Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements 5:e00697-17 (<a href="https://www.indiana.edu/~microbes/publications/Kuo_etal_2017.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -114,10 +114,6 @@ LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism 
 <u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (2017) Microbial contributions to subterranean methane sinks. Geobiology 15: 254-258.  (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2017.pdf">pdf</a>)
 </p>
 
-<!--- pub entry --->
-<p>
-Moger-Reischer RZ, Lennon JT (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reicher_Lennon_2017.pdf">pdf)</a>
-</p>
 
 <!--- pub entry --->
 <p>
@@ -152,10 +148,6 @@ Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy
 <!--- pub entry --->
 <p>
 Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. Frontiers in Microbiology 7:853. doi: 10.3389/fmicb.2016.00853 (<a href="https://www.indiana.edu/~microbes/publications/Aanderud_etal_2016.pdf">pdf</a>) </p>
-
-<!--- pub entry --->
-<p>
-Wisnoski NI, <u>Lennon JT</u> (2016) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology 91: 98-99 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2016.pdf">pdf</a>) </p>
 
 <!--- pub entry --->
 <p><u>Lennon JT</u>, Denef VJ (2016) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC
@@ -438,6 +430,24 @@ Cottingham KL, Brown BL, <u>Lennon JT</u> (2001) Biodiversity may regulate the t
 <!--- pub entry --->
 <p>
 deNoyelles FJ, Wang SH, Meyer JO, Huggins DG, <u>Lennon JT</u>, Kolln WS, Randtke SJ (1999) Water quality issues in reservoirs: some considerations from a study of a large reservoir in Kansas. Proceedings of the 49th Annual Environmental Engineering Conference, University of Kansas, Lawrence. 
+</p>
+
+<p><b>Commentaries and Book Reviews:</b></p>
+
+<!--- pub entry --->
+<p>
+Lau JA, <u>Lennon JT</u>, Heath KD (2017) Trees harness the power ofmicrobes to survive
+climate change. Proceedings of the National Academy of Sciences of the United States of America (<a href="https://www.indiana.edu/~microbes/publications/Lau_etal_2017.pdf">pdf)</a>
+</p>
+
+<!--- pub entry --->
+<p>
+Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reicher_Lennon_2017.pdf">pdf)</a>
+</p>
+
+<!--- pub entry --->
+<p>
+Wisnoski NI, <u>Lennon JT</u> (2016) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology 91: 98-99 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2016.pdf">pdf</a>) 
 </p>
 
 <div align="center"><br />
