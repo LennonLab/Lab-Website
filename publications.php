@@ -32,16 +32,6 @@ Larsen ML, Whilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes m
 
 <!--- pub entry --->
 <p> 
-Shoemaker WR, <u>Lennon JT</u> (2017) Evolution with a seed bank: the population genetic consequences of microbial dormancy. bioRxiv  <a href="http://biorxiv.org/content/early/2017/06/27/156356"> doi: https://doi.org/10.1101/156356  </a>
-</p>
-
-<!--- pub entry --->
-<p>
-Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (In Review) Evolutionary determinants of genome-wide nucleotide composition
-</p>
-
-<!--- pub entry --->
-<p> 
 Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. PeerJ Preprints. 5:e2727v2 <a href="https://doi.org/10.7287/peerj.preprints.2727v2">doi.org/10.7287/peerj.preprints.2727v2 </a>
 </p>
 
@@ -55,7 +45,6 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
 </p>
 
-
 <!--- pub entry --->
 <p> 
 Schimmelmann A, Streil T, <u>Lennon JT</u> (In Review) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air  
@@ -63,11 +52,20 @@ Schimmelmann A, Streil T, <u>Lennon JT</u> (In Review) Radiolysis via radioactiv
 
 <!--- pub entry --->
 <p>
-Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> 
-</p>
+Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> </p>
 
 
 <p><b>Published or In Press:</b></p>
+
+<!--- pub entry --->
+<p> 
+Shoemaker WR, <u>Lennon JT</u> (2017) Evolution with a seed bank: the population genetic consequences of microbial dormancy. bioRxiv  <a href="http://biorxiv.org/content/early/2017/06/27/156356"> doi: https://doi.org/10.1101/156356 </a> Evolutionary Applications
+</p>
+
+<!--- pub entry --->
+<p>
+Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (In Press) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution.
+</p>
 
 <!--- pub entry --->
 <p>
@@ -81,12 +79,12 @@ Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequenc
 
 <!--- pub entry --->
 <p>
-Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (In Press) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology <a href ="http://www.sciencedirect.com/science/article/pii/S0009254117303728">doi: 10.1016/j.chemgeo.2017.06.014 </a>
+Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (2017) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology 466: 229-238 (<a href="https://www.indiana.edu/~microbes/publications/Nguyen-Thuy_etal_2017.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
 <p>
-Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (In Press) Patterns and drivers of fungal community depth stratification in Sphagnum peat. FEMS Microbiology Ecology
+Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (2017) Patterns and drivers of fungal community depth stratification in Sphagnum peat. FEMS Microbiology Ecology https://doi.org/10.1093/femsec/fix082
 </p> 
 
 <!--- pub entry --->
@@ -96,7 +94,7 @@ Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial see
 
 <!--- pub entry --->
 <p>
-Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (In Press) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies
+Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (2017) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies 79: 24-34 (<a href="https://www.indiana.edu/~microbes/publications/Webster_etal_2017.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -117,7 +115,7 @@ LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism 
 
 <!--- pub entry --->
 <p>
-Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2016) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis 72: 159-170 (<a href="https://www.indiana.edu/~microbes/publications/Skelton_etal_2017.pdf">pdf) </a>
+Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2017) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis 72: 159-170 (<a href="https://www.indiana.edu/~microbes/publications/Skelton_etal_2017.pdf">pdf) </a>
 </p>
 
 <!--- pub entry --->
