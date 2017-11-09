@@ -64,7 +64,7 @@ Shoemaker WR, <u>Lennon JT</u> (2017) Evolution with a seed bank: the population
 
 <!--- pub entry --->
 <p>
-Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (In Press) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution.
+Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (In Press) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution
 </p>
 
 <!--- pub entry --->
@@ -84,7 +84,7 @@ Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>
 
 <!--- pub entry --->
 <p>
-Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (2017) Patterns and drivers of fungal community depth stratification in Sphagnum peat. FEMS Microbiology Ecology https://doi.org/10.1093/femsec/fix082
+Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (2017) Patterns and drivers of fungal community depth stratification in Sphagnum peat. FEMS Microbiology Ecology 93: fix082 (<a href="https://www.indiana.edu/~microbes/publications/Lamit_etal_2017.pdf">pdf)</a>
 </p> 
 
 <!--- pub entry --->
