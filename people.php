@@ -74,6 +74,21 @@ evolution within communities
 </div>
 <div style="clear: both;"><br /><br /></div>
 
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/JordanHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Bird"></a>
+<h5>Jordan Bird </h5>
+<p><b>Postdoctoral Researcher(co-mentored with <a href="http://www.indiana.edu/~mckinlab/Home.html">Jake McKinlay</a>)</b><br />
+<p>
+<b>Research interests:</b><br />
+Microbial genomics, evolution, early earth history, phylogenetics, and dormancy and persistence in microbes
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="left-side">
@@ -83,7 +98,7 @@ evolution within communities
 <div id="right-side-research">
 <a id="Behringer"></a>
 <h5>Megan Behringer </h5>
-<p><b>Postdoctoral Researcher (co-mentored with <a href="https://biology.indiana.edu/about/faculty/lynch-michael.html">Michael Lynch</a>)</b><br />
+<p><b>Postdoctoral Researcher (co-mentored with <a href="https://biodesign.asu.edu/michael-lynch">Michael Lynch</a>)</b><br />
 <p>
 <b>Research interests:</b><br />
 Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
@@ -197,23 +212,6 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/EvgeniyaHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Evgeniya"></a>
-<h5>Evgeniya Polezhaeva </h5>
-<p><b>Research Technicican</b></p>
-<p>
-<b>Research interests:</b><br />
-Experimental microbial evolution.
-</p>
-</div>
-
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/KenzieHead.jpg" />
 </div>
 
@@ -261,9 +259,6 @@ Microbial evolution, molecular genetics, catalysis of alcohols in fuel cells, sy
 </div>
 <div style="clear: both;"><br /><br /></div>
 
-
-
-
 <!--- entry --->
 <div id="rightside-research">
 <h4>Former Lab Members </h4>
@@ -286,7 +281,7 @@ Microbial evolution, molecular genetics, catalysis of alcohols in fuel cells, sy
 <!--- entry --->
 <p><b>Zach Aanderud</b>, Postdoctoral Researcher, Associate Professor at Brigham Young University</p>
 <!--- entry --->
-<p><b>Evan Kane</b>, Postdoctoral Researcher, Assistant Professor Michighan Tech</p>
+<p><b>Evan Kane</b>, Postdoctoral Researcher, Associate Professor Michighan Tech</p>
 <!--- entry --->
 <p><b>Kali Bird</b>, Graduate Student, Founder of Hike New York</p>
 <h5>Visiting Scholars and Teachers</h5>
@@ -299,6 +294,8 @@ Microbial evolution, molecular genetics, catalysis of alcohols in fuel cells, sy
 <!--- entry --->
 <p><b>Sandy Erwin</b>, Teacher, Harper Creek High School</p>
 <h5>Research Technicians and Assistants </h5>
+<!--- entry --->
+<p><b>Evgeniya Polezhaeva</p>
 <!--- entry --->
 <p><b>Sophie Kranke</b>, Technician</p>
 <!--- entry --->
