@@ -27,7 +27,7 @@ Larsen ML, Whilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes m
 
 <!--- pub entry --->
 <p> 
-<u>Lennon JT</u>, Placella SA, Muscarella ME (2017) Relic DNA contributes minimally to estimates of microbial diversity. bioRxiv  <a href="http://biorxiv.org/content/early/2017/04/26/131284"> doi: https://doi.org/10.1101/131284  </a>
+<u>Lennon JT</u>, Placella SA, Muscarella ME (2017) How, when, and where relic DNA biases estimates of microbial diversity. bioRxiv  <a href="https://www.biorxiv.org/content/early/2017/12/18/131284"> doi: https://doi.org/10.1101/131284  </a>
 </p>
 
 <!--- pub entry --->
@@ -434,8 +434,8 @@ deNoyelles FJ, Wang SH, Meyer JO, Huggins DG, <u>Lennon JT</u>, Kolln WS, Randtk
 
 <!--- pub entry --->
 <p>
-Lau JA, <u>Lennon JT</u>, Heath KD (2017) Trees harness the power ofmicrobes to survive
-climate change. Proceedings of the National Academy of Sciences of the United States of America (<a href="https://www.indiana.edu/~microbes/publications/Lau_etal_2017.pdf">pdf)</a>
+Lau JA, <u>Lennon JT</u>, Heath KD (2017) Trees harness the power of microbes to survive
+climate change. Proceedings of the National Academy of Sciences of the United States of America (<a href="https://www.indiana.edu/~microbes/publications/Lau_etal_2017.pdf">pdf</a>; a Commentary on <a href="https://www.indiana.edu/~microbes/publications/Gehring_etal_2017.pdf"> Gehring et al. 2017</a>)
 </p>
 
 <!--- pub entry --->
