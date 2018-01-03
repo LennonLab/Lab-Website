@@ -27,7 +27,7 @@ Larsen ML, Whilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes m
 
 <!--- pub entry --->
 <p> 
-<u>Lennon JT</u>, Placella SA, Muscarella ME (2017) How, when, and where relic DNA biases estimates of microbial diversity. bioRxiv  <a href="https://www.biorxiv.org/content/early/2017/12/18/131284"> doi: https://doi.org/10.1101/131284  </a>
+<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2017) How, when, and where relic DNA biases estimates of microbial diversity. bioRxiv  <a href="https://www.biorxiv.org/content/early/2017/12/18/131284"> doi: https://doi.org/10.1101/131284  </a>
 </p>
 
 <!--- pub entry --->
@@ -42,7 +42,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 <p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology. bioRxiv Preprint <a href="http://biorxiv.org/content/early/2016/07/21/065128">doi: http://dx.doi.org/10.1101/065128 </a>
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology. bioRxiv Preprint <a href="https://www.biorxiv.org/content/early/2018/01/01/065128">doi: http://dx.doi.org/10.1101/065128 </a>
 </p>
 
 <!--- pub entry --->
@@ -52,20 +52,21 @@ Schimmelmann A, Streil T, <u>Lennon JT</u> (In Review) Radiolysis via radioactiv
 
 <!--- pub entry --->
 <p>
-Peralta AL, Sun Y, <u>Lennon JT</u> (In Revision) Crop diversity enhances disease suppressive potential in soils. bioRxiv Preprint <a href="http://dx.doi.org/10.1101/030528">doi:http://dx.doi.org/10.1101/030528 </a> </p>
+Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (In Revision) Crop diversity increases disease suppressive capacity of soil microbiomes. bioRxiv Preprint <a href="https://www.biorxiv.org/content/early/2018/01/03/030528">doi: https://doi.org/10.1101/030528  </a> </p>
 
 
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
 <p> 
-Shoemaker WR, <u>Lennon JT</u> (2017) Evolution with a seed bank: the population genetic consequences of microbial dormancy. bioRxiv  <a href="http://biorxiv.org/content/early/2017/06/27/156356"> doi: https://doi.org/10.1101/156356 </a> Evolutionary Applications
+Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population genetic consequences of microbial dormancy. Evolutionary Applications 11: 60–75 (<a href="https://www.indiana.edu/~microbes/publications/Shoemaker_Lennon_2018.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
 <p>
-Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (In Press) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution
+Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (2018) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution https://doi.org/10.1038/s41559-017-0425-y (<a href="https://www.indiana.edu/~microbes/publications/Long_etal_2018.pdf">pdf)</a>
 </p>
+
 
 <!--- pub entry --->
 <p>
