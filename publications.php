@@ -36,6 +36,16 @@ Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. P
 </p>
 
 <!--- pub entry --->
+<p> 
+<u>Lennon JT</u>, Locey KJ (In Review) How many microbial species are there on Earth?
+</p>
+
+<!--- pub entry --->
+<p> 
+Salazar A, <u>Lennon JT</u>, Dukes JS (In Review) Microbial activity improves predictability of soil respiration dynamics
+</p>
+
+<!--- pub entry --->
 <p>
 Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
 </p>
@@ -47,7 +57,7 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 
 <!--- pub entry --->
 <p> 
-Schimmelmann A, Streil T, <u>Lennon JT</u> (In Review) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air  
+Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Revision) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air
 </p>
 
 <!--- pub entry --->

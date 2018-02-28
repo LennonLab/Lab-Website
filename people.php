@@ -169,7 +169,7 @@ Plant-microbe interactions, dormancy and seed banks, plant and microbial ecology
 <p><b>Ph.D. Student</b></p>
 <p>
 <b>Research interests:</b><br />
-Microbial population genetics, epigenetics, aeging and longevity.
+Evolution of aging and longevity; evolutionary synthetic biology; molecular evolution.
 </p>
 </div>
 
@@ -245,16 +245,16 @@ Genome evolution, bioinformatics, microbial evolution.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/CariHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/AshleyHead.jpg" />
 </div>
 
 <div id="right-side-research">
 <a id="Rice"></a>
-<h5>Cari Rice</h5>
+<h5>Ashley Justice</h5>
 <p><b>Undegraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
-Microbial evolution, molecular genetics, catalysis of alcohols in fuel cells, synthesis of core-shell nanoparticles
+Microbiology and evolution.
 </p>
 </div>
 <div style="clear: both;"><br /><br /></div>
@@ -317,6 +317,8 @@ Microbial evolution, molecular genetics, catalysis of alcohols in fuel cells, sy
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b Cari Rice</b>, Indiana University</p>
 <!---entry--->
 <p><b>Mollie Carrison</b>, Indiana University</p>
 <!---entry--->
