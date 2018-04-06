@@ -82,7 +82,7 @@ evolution within communities
 <div id="right-side-research">
 <a id="Bird"></a>
 <h5>Jordan Bird </h5>
-<p><b>Postdoctoral Researcher(co-mentored with <a href="http://www.indiana.edu/~mckinlab/Home.html">Jake McKinlay</a>)</b><br />
+<p><b>Postdoctoral Researcher (co-mentored with <a href="http://www.indiana.edu/~mckinlab/Home.html">Jake McKinlay</a>)</b><br />
 <p>
 <b>Research interests:</b><br />
 Microbial genomics, evolution, early earth history, phylogenetics, and dormancy and persistence in microbes

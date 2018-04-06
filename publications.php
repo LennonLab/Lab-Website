@@ -22,6 +22,11 @@ p {
 
 <!--- pub entry --->
 <p> 
+Wisnoski, Leibold MA, <u>Lennon JT</u> (2018) Dormancy in metacommunities. OSF Preprint  <a href="https://osf.io/j485t/"> doi: 10.17605/OSF.IO/UJMZC  </a>
+</p>
+
+<!--- pub entry --->
+<p> 
 Larsen ML, Whilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
 </p>
 
