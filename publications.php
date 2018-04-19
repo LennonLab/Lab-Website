@@ -19,6 +19,9 @@ p {
 
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
+<!--- pub entry --->
+<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (In Review) Macroecology to unite all biodiversity great and small
+</p>
 
 <!--- pub entry --->
 <p> 
