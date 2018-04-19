@@ -265,11 +265,11 @@ Microbiology and evolution.
 </div>
 <h5>Postdocs and Graduate Students </h5>
 <!--- entry --->
-<p><b>Kevin Webster</b>, Ph.D. student, Postdoc at University of Arizona</p>
+<p><b>Kevin Webster</b>, Ph.D. student, Associate Research Scientist at Planetary Science Institute, Postdoc at University of Arizona</p>
 <!--- entry --->
 <p><b>Mario Muscarella</b>, Ph.D. student, Postdoc at University Illinois Champagin-Urbana</p>
 <!--- entry --->
-<p><b>Megan Larsen</b>, Ph.D. student, Postdoc at University Nebraska Lincoln</p>
+<p><b>Megan Larsen</b>, Ph.D. student, Postdoc at Wilfrid Laurier University</p>
 <!--- entry --->
 <p><b>Ariane Peralta</b>, Postdoctoral Researcher, Assistant Professor East Carolina University</p>
 <!--- entry --->
@@ -318,7 +318,9 @@ Microbiology and evolution.
 <h5>Undergraduate Researchers </h5>
 
 <!---entry--->
-<p><b Cari Rice</b>, Indiana University</p>
+<p><b>Derek Hocker</b>, Indiana University</p>
+<!---entry--->
+<p><b>Cari Rice</b>, Indiana University</p>
 <!---entry--->
 <p><b>Mollie Carrison</b>, Indiana University</p>
 <!---entry--->
