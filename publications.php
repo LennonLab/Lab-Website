@@ -68,12 +68,12 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Revision) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air
 </p>
 
-<!--- pub entry --->
-<p>
-Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (In Revision) Crop diversity increases disease suppressive capacity of soil microbiomes. bioRxiv Preprint <a href="https://www.biorxiv.org/content/early/2018/01/03/030528">doi: https://doi.org/10.1101/030528  </a> </p>
-
 
 <p><b>Published or In Press:</b></p>
+
+<!--- pub entry --->
+<p>
+Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (In Press) Crop diversity increases disease suppressive capacity of soil microbiomes. bioRxiv Preprint <a href="https://www.biorxiv.org/content/early/2018/01/03/030528">doi: https://doi.org/10.1101/030528 </a> Ecosphere</p>
 
 <!--- pub entry --->
 <p> 
