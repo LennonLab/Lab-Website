@@ -295,7 +295,7 @@ Microbiology and evolution.
 <p><b>Sandy Erwin</b>, Teacher, Harper Creek High School</p>
 <h5>Research Technicians and Assistants </h5>
 <!--- entry --->
-<p><b>Evgeniya Polezhaeva</p>
+<p><b>Evgeniya Polezhaeva</b>, Technician</p>
 <!--- entry --->
 <p><b>Sophie Kranke</b>, Technician</p>
 <!--- entry --->
