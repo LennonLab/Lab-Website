@@ -166,6 +166,8 @@ Plant-microbe interactions, dormancy and seed banks, plant and microbial ecology
 <div id="right-side-research">
 <a id="Moger-Reischer"></a>
 <h5>Roy Moger-Reischer </h5>
+<a href="https://rmogerr2.wixsite.com/endless-forms">Personal website</a></p>
+<p>
 <p><b>Ph.D. Student</b></p>
 <p>
 <b>Research interests:</b><br />
@@ -317,6 +319,8 @@ Microbiology and evolution.
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b>Max Zaret</b>, Indiana University</p>
 <!---entry--->
 <p><b>Derek Hocker</b>, Indiana University</p>
 <!---entry--->
