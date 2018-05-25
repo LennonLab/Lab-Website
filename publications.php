@@ -55,20 +55,19 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 <p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Revision) Understanding how microbiomes influence the systems they inhabit: insight from ecosystem ecology. bioRxiv Preprint <a href="https://www.biorxiv.org/content/early/2018/01/01/065128">doi: http://dx.doi.org/10.1101/065128 </a>
-</p>
-
-<!--- pub entry --->
-<p> 
 Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Revision) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air
 </p>
-
 
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
 <p> 
 <u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (In Press) How, when, and where relic DNA biases estimates of microbial diversity. bioRxiv  <a href="https://www.biorxiv.org/content/early/2017/12/18/131284"> doi: https://doi.org/10.1101/131284</a> mBio
+</p>
+
+<!--- pub entry --->
+<p> 
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Press) Understanding how microbiomes influence the systems they inhabit. bioRxiv Preprint <a href="https://www.biorxiv.org/content/early/2018/01/01/065128">doi: http://dx.doi.org/10.1101/065128 </a> Nature Microbiology
 </p>
 
 <!--- pub entry --->
