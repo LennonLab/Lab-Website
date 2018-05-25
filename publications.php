@@ -35,11 +35,6 @@ Larsen ML, Whilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes m
 
 <!--- pub entry --->
 <p> 
-<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2017) How, when, and where relic DNA biases estimates of microbial diversity. bioRxiv  <a href="https://www.biorxiv.org/content/early/2017/12/18/131284"> doi: https://doi.org/10.1101/131284  </a>
-</p>
-
-<!--- pub entry --->
-<p> 
 Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. PeerJ Preprints. 5:e2727v2 <a href="https://doi.org/10.7287/peerj.preprints.2727v2">doi.org/10.7287/peerj.preprints.2727v2 </a>
 </p>
 
@@ -72,8 +67,14 @@ Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Rev
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
+<p> 
+<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (In Press) How, when, and where relic DNA biases estimates of microbial diversity. bioRxiv  <a href="https://www.biorxiv.org/content/early/2017/12/18/131284"> doi: https://doi.org/10.1101/131284</a> mBio
+</p>
+
+<!--- pub entry --->
 <p>
-Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (In Press) Crop diversity increases disease suppressive capacity of soil microbiomes. bioRxiv Preprint <a href="https://www.biorxiv.org/content/early/2018/01/03/030528">doi: https://doi.org/10.1101/030528 </a> Ecosphere</p>
+Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (2018) Crop diversity increases disease suppressive capacity of soil microbiomes. Ecosphere 9: e02235 (<a href="https://www.indiana.edu/~microbes/publications/Peralta_etal_2018.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Peralta_etal_2018_Suppl.pdf">supplementary information</a>)
+</p>
 
 <!--- pub entry --->
 <p> 
