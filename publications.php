@@ -62,7 +62,7 @@ Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Rev
 
 <!--- pub entry --->
 <p> 
-<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (In Press) How, when, and where relic DNA biases estimates of microbial diversity. bioRxiv  <a href="https://www.biorxiv.org/content/early/2017/12/18/131284"> doi: https://doi.org/10.1101/131284</a> mBio
+<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2018.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
