@@ -23,6 +23,12 @@ p {
 <p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (In Review) Macroecology to unite all biodiversity great and small
 </p>
 
+
+<!--- pub entry --->
+<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2018) Resource diversity structures aquatic bacterial communities.  bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/08/08/387803"> doi: https://doi.org/10.1101/387803   </a>
+</p>
+
+
 <!--- pub entry --->
 <p> 
 Wisnoski, Leibold MA, <u>Lennon JT</u> (2018) Dormancy in metacommunities. OSF Preprint  <a href="https://osf.io/j485t/"> doi: 10.17605/OSF.IO/UJMZC  </a>
