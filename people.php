@@ -38,24 +38,8 @@ Biodiversity, traits, dormancy, microbiology, resource variability, ecology and 
 </div>
 
 
-
 <div style="clear: both;"><br /><br /></div>
 
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/KenHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Locey"></a>
-<h5>Ken Locey </h5>
-<p><b>Postdoctoral Researcher</b><br />
-<a href="http://kenlocey.weecology.org/">Personal website</a></p>
-<p>
-<b>Research interests:</b><br />
-Biodiversity, macroecology, microbial ecology, commonness and rarity, dormancy and seed banks, ecological theory and modeling. </p>
-</div>
-<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="left-side">
@@ -211,40 +195,6 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 </div>
 <div style="clear: both;"><br /><br /></div>
 
-
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/KenzieHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Kenzie"></a>
-<h5>Kenzie Givens </h5>
-<p><b>Research Technicican</b></p>
-<p>
-<b>Research interests:</b><br />
-Microbial evolution, molecular genetics, fermentation, dormancy.
-</p>
-</div>
-
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/JessHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Zellinger"></a>
-<h5>Jessica Zellinger </h5>
-<p><b>Undegraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-Genome evolution, bioinformatics, microbial evolution.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
 <!--- entry --->
 <div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/AshleyHead.jpg" />
@@ -267,6 +217,8 @@ Microbiology and evolution.
 </div>
 <h5>Postdocs and Graduate Students </h5>
 <!--- entry --->
+<p><b>Keny Locey</b>, Postdoctoral Researcher, Assistant Professor Diné College</p>
+<!--- entry --->
 <p><b>Kevin Webster</b>, Ph.D. student, Associate Research Scientist at Planetary Science Institute, Postdoc at University of Arizona</p>
 <!--- entry --->
 <p><b>Mario Muscarella</b>, Ph.D. student, Postdoc at University Illinois Champagin-Urbana</p>
@@ -286,6 +238,7 @@ Microbiology and evolution.
 <p><b>Evan Kane</b>, Postdoctoral Researcher, Associate Professor Michighan Tech</p>
 <!--- entry --->
 <p><b>Kali Bird</b>, Graduate Student, Founder of Hike New York</p>
+
 <h5>Visiting Scholars and Teachers</h5>
 <!--- entry --->
 <p><b>Melany Fisk</b>, Professor, Miami University</p>
@@ -296,6 +249,8 @@ Microbiology and evolution.
 <!--- entry --->
 <p><b>Sandy Erwin</b>, Teacher, Harper Creek High School</p>
 <h5>Research Technicians and Assistants </h5>
+<!--- entry --->
+<p><b>McKenzie Givens</b>, Technician</p>
 <!--- entry --->
 <p><b>Evgeniya Polezhaeva</b>, Technician</p>
 <!--- entry --->
@@ -319,6 +274,8 @@ Microbiology and evolution.
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b>Jessica Zellinger</b>, Indiana University</p>
 <!---entry--->
 <p><b>Max Zaret</b>, Indiana University</p>
 <!---entry--->
@@ -375,6 +332,7 @@ Microbiology and evolution.
 <p><b>Ben Phillips</b>, Michigan State University</p>
 <h5>High School Students </h5>
 <!--- entry --->
+<p><b>Ian Schowe</b>, East Noble High School, Kendallville, IN, IN</p>
 <p><b>Nicole Nguyen</b>, Burris Laboratory School, Muncie, IN</p>
 <p><b>Samuel Iwu</b>, Indiana Math and Science Academy North, Indianapolis, IN</p>
 <p><b>Dakayla Calhoun</b>, Shortridge International Baccalaureate High School, Indianapolis, IN</p>
