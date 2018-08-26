@@ -20,11 +20,6 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
-<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (In Review) Macroecology to unite all biodiversity great and small
-</p>
-
-
-<!--- pub entry --->
 <p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2018) Resource diversity structures aquatic bacterial communities.  bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/08/08/387803"> doi: https://doi.org/10.1101/387803   </a>
 </p>
 
@@ -67,13 +62,17 @@ Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Rev
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
+<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (In Press) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution.
+</p>
+
+<!--- pub entry --->
 <p> 
 <u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2018.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
 <p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Press) Understanding how microbiomes influence the systems they inhabit. bioRxiv Preprint <a href="https://www.biorxiv.org/content/early/2018/01/01/065128">doi: http://dx.doi.org/10.1101/065128 </a> Nature Microbiology
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Press) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2018.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
