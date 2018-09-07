@@ -46,6 +46,11 @@ Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. P
 
 <!--- pub entry --->
 <p> 
+Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (In Review) Diversity and composition of cave methanotrophic communities
+</p>
+
+<!--- pub entry --->
+<p> 
 Salazar A, <u>Lennon JT</u>, Dukes JS (In Review) Microbial activity improves predictability of soil respiration dynamics
 </p>
 
@@ -72,7 +77,7 @@ Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Rev
 
 <!--- pub entry --->
 <p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (In Press) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2018.pdf">pdf)</a>
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2018.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -118,7 +123,7 @@ Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial see
 
 <!--- pub entry --->
 <p>
-Webster KD, Rosales Lagarde L, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (2017) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies 79: 24-34 (<a href="https://www.indiana.edu/~microbes/publications/Webster_etal_2017.pdf">pdf)</a>
+Webster KD, Lagarde LR, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (2017) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies 79: 24-34 (<a href="https://www.indiana.edu/~microbes/publications/Webster_etal_2017.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
