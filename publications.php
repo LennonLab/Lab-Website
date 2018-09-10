@@ -23,7 +23,6 @@ p {
 <p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2018) Resource diversity structures aquatic bacterial communities.  bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/08/08/387803"> doi: https://doi.org/10.1101/387803   </a>
 </p>
 
-
 <!--- pub entry --->
 <p> 
 Wisnoski, Leibold MA, <u>Lennon JT</u> (2018) Dormancy in metacommunities. OSF Preprint  <a href="https://osf.io/j485t/"> doi: 10.17605/OSF.IO/UJMZC  </a>
@@ -41,13 +40,9 @@ Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. P
 
 <!--- pub entry --->
 <p> 
-<u>Lennon JT</u>, Locey KJ (In Review) How many microbial species are there on Earth?
+Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2018) Diversity and composition of cave methanotrophic communities bioRxiv  <a href="http://biorxiv.org/cgi/content/short/412213v1"> doi: https://doi.org/10.1101/412213   </a>
 </p>
 
-<!--- pub entry --->
-<p> 
-Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (In Review) Diversity and composition of cave methanotrophic communities
-</p>
 
 <!--- pub entry --->
 <p> 
@@ -67,7 +62,7 @@ Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Rev
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
-<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (In Press) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution.
+<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution. (<a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_InPress.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_Suppl.pdf">supplementary information</a>)
 </p>
 
 <!--- pub entry --->
@@ -77,7 +72,7 @@ Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (In Rev
 
 <!--- pub entry --->
 <p> 
-Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2018.pdf">pdf)</a>
+Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, Evans SE, Graham EB, Jones SE, <u>Lennon JT</u>, Nemergut D, Osborne B, Rocca JD, Schimel JS, Waldrop MS, Wallenstein MW (2018) Understanding how microbiomes influence the systems they inhabit. Nature Microbiology 3: 977–982 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2018.pdf">pdf</a>, <a href="https://naturemicrobiologycommunity.nature.com/users/122444-edward-hall/posts/38466-understanding-how-microbiomes-influence-the-systems-they-inhabit">Behind the Paper</a>)
 </p>
 
 <!--- pub entry --->
@@ -459,7 +454,12 @@ Cottingham KL, Brown BL, <u>Lennon JT</u> (2001) Biodiversity may regulate the t
 deNoyelles FJ, Wang SH, Meyer JO, Huggins DG, <u>Lennon JT</u>, Kolln WS, Randtke SJ (1999) Water quality issues in reservoirs: some considerations from a study of a large reservoir in Kansas. Proceedings of the 49th Annual Environmental Engineering Conference, University of Kansas, Lawrence. 
 </p>
 
-<p><b>Commentaries and Book Reviews:</b></p>
+<p><b>Commentaries, Magazine Articles, and Book Reviews:</b></p>
+
+<!--- pub entry --->
+<p> 
+<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the sky. Aeon (<a href="https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky">Link</a>)
+</p>
 
 <!--- pub entry --->
 <p>
