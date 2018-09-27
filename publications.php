@@ -20,7 +20,7 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
-<p> Muscarella ME, <u>Lennon JT</u> (2018) Trait-based approach to bacterial growth efficiency. bioRxiv <a href="https://www.biorxiv.org/content/early/2018/08/08/387803"> doi: https://doi.org/10.1101/387803   </a>
+<p> Muscarella ME, <u>Lennon JT</u> (2018) Trait-based approach to bacterial growth efficiency. bioRxiv <a href="https://www.biorxiv.org/content/early/2018/09/27/427161"> doi: https://doi.org/10.1101/427161   </a>
 </p>
 
 <!--- pub entry --->
