@@ -139,7 +139,6 @@ Plant-microbe interactions, dormancy and seed banks, plant and microbial ecology
 </p>
 </div>
 
-
 <div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
@@ -150,12 +149,11 @@ Plant-microbe interactions, dormancy and seed banks, plant and microbial ecology
 <div id="right-side-research">
 <a id="Moger-Reischer"></a>
 <h5>Roy Moger-Reischer </h5>
+<p><b>Ph.D. Student</b></p>
 <a href="https://rmogerr2.wixsite.com/endless-forms">Personal website</a></p>
 <p>
-<p><b>Ph.D. Student</b></p>
-<p>
 <b>Research interests:</b><br />
-Evolution of aging and longevity; evolutionary synthetic biology; molecular evolution.
+Evolution of aging and longevity; evolutionary synthetic biology; experimental evolution.
 </p>
 </div>
 
@@ -170,6 +168,7 @@ Evolution of aging and longevity; evolutionary synthetic biology; molecular evol
 <a id="Mueller"></a>
 <h5>Emmi Mueller </h5>
 <p><b>Ph.D. Student</b></p>
+<a href="https://emmiamueller.weebly.com/">Personal website</a></p>
 <p>
 <b>Research interests:</b><br />
 Microbial ecology, resilience and resistance, and molecular genetics.
@@ -201,12 +200,76 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 </div>
 
 <div id="right-side-research">
-<a id="Rice"></a>
+<a id="Justice"></a>
 <h5>Ashley Justice</h5>
 <p><b>Undegraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
 Microbiology and evolution.
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/SniderHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Snider"></a>
+<h5>Betsy Snider</h5>
+<p><b>Undegraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Genetics and microbiology.
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/McKenzieHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="McKenzi"></a>
+<h5>Kelsey McKenzie</h5>
+<p><b>Undegraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Cell biology and experimental evolution.
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/FrenchHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="French"></a>
+<h5>JD French</h5>
+<p><b>Undegraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Mutation and synthetic biology.
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/BoylanHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Boylan"></a>
+<h5>Danni Boylan</h5>
+<p><b>Undegraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbiology, evolution, cell and developmental biology.
 </p>
 </div>
 <div style="clear: both;"><br /><br /></div>
