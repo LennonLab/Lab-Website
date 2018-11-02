@@ -47,7 +47,6 @@ Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. P
 Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2018) Diversity and composition of cave methanotrophic communities. bioRxiv  <a href="http://biorxiv.org/cgi/content/short/412213v1"> doi: https://doi.org/10.1101/412213 </a>
 </p>
 
-
 <!--- pub entry --->
 <p> 
 Salazar A, <u>Lennon JT</u>, Dukes JS (2018) Microbial activity improves predictability of soil respiration dynamics. bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/10/03/434654"> doi: https://doi.org/10.1101/434654 </a>
@@ -58,23 +57,20 @@ Salazar A, <u>Lennon JT</u>, Dukes JS (2018) Microbial activity improves predict
 Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
 </p>
 
-
 <p><b>Published or In Press:</b></p>
 
 <!--- pub entry --->
-<p> 
-Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (2018) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air. EarthArXiv <a href="https://eartharxiv.org/ky9up/"> doi: https://doi.org/10.31223/osf.io/ky9up </a> In Press at PLOS ONE.
-</p>
-
-
-
-<!--- pub entry --->
-<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution. (<a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_InPress.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_Suppl.pdf">supplementary information)</a>
+<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 (<a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_Suppl.pdf">supplementary information)</a>
 </p>
 
 <!--- pub entry --->
 <p> 
 <u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2018.pdf">pdf)</a>
+</p>
+
+<!--- pub entry --->
+<p> 
+Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population genetic consequences of microbial dormancy. Evolutionary Applications 11: 60–75 (<a href="https://www.indiana.edu/~microbes/publications/Shoemaker_Lennon_2018.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -88,15 +84,14 @@ Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (2018) Crop diversity increases
 </p>
 
 <!--- pub entry --->
-<p> 
-Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population genetic consequences of microbial dormancy. Evolutionary Applications 11: 60–75 (<a href="https://www.indiana.edu/~microbes/publications/Shoemaker_Lennon_2018.pdf">pdf)</a>
-</p>
-
-<!--- pub entry --->
 <p>
 Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (2018) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution https://doi.org/10.1038/s41559-017-0425-y (<a href="https://www.indiana.edu/~microbes/publications/Long_etal_2018.pdf">pdf)</a>
 </p>
 
+<!--- pub entry --->
+<p> 
+Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (2018) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air. PLOS ONE 113: 020650 (<a href="https://www.indiana.edu/~microbes/publications/Schimmelmann_etal_2018.pdf">pdf)</a>
+</p>
 
 <!--- pub entry --->
 <p>
