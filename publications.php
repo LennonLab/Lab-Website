@@ -34,12 +34,7 @@ Wisnoski, Leibold MA, <u>Lennon JT</u> (2018) Dormancy in metacommunities. OSF P
 
 <!--- pub entry --->
 <p> 
-Larsen ML, Whilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
-</p>
-
-<!--- pub entry --->
-<p> 
-Locey KJ, <u>Lennon JT</u> (2017) A residence-time framework for biodiversity. PeerJ Preprints. 5:e2727v2 <a href="https://doi.org/10.7287/peerj.preprints.2727v2">doi.org/10.7287/peerj.preprints.2727v2 </a>
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
 </p>
 
 <!--- pub entry --->
@@ -57,7 +52,12 @@ Salazar A, <u>Lennon JT</u>, Dukes JS (2018) Microbial activity improves predict
 Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
 </p>
 
-<p><b>Published or In Press:</b></p>
+<p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
+
+<!--- pub entry --->
+<p> 
+Locey KJ, <u>Lennon JT</u> (In Press) A residence-time framework for biodiversity. The American Naturalist. 5:e2727v2 <a href="https://doi.org/10.7287/peerj.preprints.2727v2">doi.org/10.7287/peerj.preprints.2727v2 </a>
+</p>
 
 <!--- pub entry --->
 <p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 (<a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_Suppl.pdf">supplementary information)</a>
@@ -79,13 +79,18 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 </p>
 
 <!--- pub entry --->
+<p> 
+*<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the sky. Aeon (<a href="https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky">Link</a>)
+</p>
+
+<!--- pub entry --->
 <p>
 Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (2018) Crop diversity increases disease suppressive capacity of soil microbiomes. Ecosphere 9: e02235 (<a href="https://www.indiana.edu/~microbes/publications/Peralta_etal_2018.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Peralta_etal_2018_Suppl.pdf">supplementary information</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (2018) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution https://doi.org/10.1038/s41559-017-0425-y (<a href="https://www.indiana.edu/~microbes/publications/Long_etal_2018.pdf">pdf)</a>
+Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (2018) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution 2: 237-240 (<a href="https://www.indiana.edu/~microbes/publications/Long_etal_2018.pdf">pdf)</a>
 </p>
 
 <!--- pub entry --->
@@ -107,6 +112,13 @@ Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequenc
 <p>
 Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (2017) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology 466: 229-238 (<a href="https://www.indiana.edu/~microbes/publications/Nguyen-Thuy_etal_2017.pdf">pdf)</a>
 </p>
+
+<!--- pub entry --->
+<p>
+*Lau JA, <u>Lennon JT</u>, Heath KD (2017) Trees harness the power of microbes to survive
+climate change. Proceedings of the National Academy of Sciences of the United States of America 114: 11009-11011 (<a href="https://www.indiana.edu/~microbes/publications/Lau_etal_2017.pdf">pdf</a>; a Commentary on <a href="https://www.indiana.edu/~microbes/publications/Gehring_etal_2017.pdf"> Gehring et al. 2017</a>)
+</p>
+
 
 <!--- pub entry --->
 <p>
@@ -143,6 +155,12 @@ LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism 
 <p>
 Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2017) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis 72: 159-170 (<a href="https://www.indiana.edu/~microbes/publications/Skelton_etal_2017.pdf">pdf) </a>
 </p>
+
+<!--- pub entry --->
+<p>
+*Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reicher_Lennon_2017.pdf">pdf)</a>
+</p>
+
 
 <!--- pub entry --->
 <p>
@@ -190,6 +208,12 @@ Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotn
 <p>
 Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (2016) Phosphorus release from the drying and reflooding of diverse wetland sediments. DOI 10.1007/s10533-016-0250-4. Biogeochemistry (<a href="https://www.indiana.edu/~microbes/publications/Kinsman-Costello_etal_2016.pdf">pdf</a>)
 </p>
+
+<!--- pub entry --->
+<p>
+*Wisnoski NI, <u>Lennon JT</u> (2016) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology 91: 98-99 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2016.pdf">pdf</a>) 
+</p>
+
 
 <!--- pub entry --->
 <p>
@@ -433,6 +457,12 @@ Thum RA, <u>Lennon JT</u>, Connor J, Smagula AP (2005) A DNA fingerprinting appr
 
 <!--- pub entry --->
 <p>
+<u>Lennon JT</u> (2004) The energetic importance of terrestrial carbon in lake ecosystems. Dartmouth College 
+(USA), 169 pp. (<a href="https://www.indiana.edu/~microbes/publications/Lennon_2004_Thesis.pdf">pdf</a>)
+</p>
+
+<!--- pub entry --->
+<p>
 <u>Lennon JT</u>, Smith VH, Dzialowski AR (2003) Invasibility of plankton food webs along a trophic state gradient. Oikos 102: 191-203 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2003.pdf">pdf</a>)
 </p>
 
@@ -456,28 +486,12 @@ Cottingham KL, Brown BL, <u>Lennon JT</u> (2001) Biodiversity may regulate the t
 deNoyelles FJ, Wang SH, Meyer JO, Huggins DG, <u>Lennon JT</u>, Kolln WS, Randtke SJ (1999) Water quality issues in reservoirs: some considerations from a study of a large reservoir in Kansas. Proceedings of the 49th Annual Environmental Engineering Conference, University of Kansas, Lawrence. 
 </p>
 
-<p><b>Commentaries, Magazine Articles, and Book Reviews:</b></p>
-
-<!--- pub entry --->
-<p> 
-<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the sky. Aeon (<a href="https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky">Link</a>)
-</p>
-
 <!--- pub entry --->
 <p>
-Lau JA, <u>Lennon JT</u>, Heath KD (2017) Trees harness the power of microbes to survive
-climate change. Proceedings of the National Academy of Sciences of the United States of America (<a href="https://www.indiana.edu/~microbes/publications/Lau_etal_2017.pdf">pdf</a>; a Commentary on <a href="https://www.indiana.edu/~microbes/publications/Gehring_etal_2017.pdf"> Gehring et al. 2017</a>)
+<u>Lennon JT</u> (1999) Invasion success of the exotic Daphnia lumholtzi: species traits and community resistance. University of Kansas (USA) 77 pp. (<a href="https://www.indiana.edu/~microbes/publications/Lennon_1999.pdf">pdf</a>)
 </p>
 
-<!--- pub entry --->
-<p>
-Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reicher_Lennon_2017.pdf">pdf)</a>
-</p>
 
-<!--- pub entry --->
-<p>
-Wisnoski NI, <u>Lennon JT</u> (2016) Book Review. Principles of Microbial Diversity by James W. Brown. Quarterly Review of Biology 91: 98-99 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2016.pdf">pdf</a>) 
-</p>
 
 <div align="center"><br />
   <img src="https://www.indiana.edu/~microbes/images/syn_wells.jpg" /></div>

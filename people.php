@@ -126,23 +126,6 @@ Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/KuoHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Wisnoski"></a>
-<h5>Venus Kuo </h5>
-<p><b>Ph.D. Student</b><br />
-<p>
-<b>Research interests:</b><br />
-Plant-microbe interactions, dormancy and seed banks, plant and microbial ecology, soil feedback, microbial biodiversity. 
-</p>
-</div>
-
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/Moger-ReischerHead.jpg" />
 </div>
 
@@ -301,6 +284,8 @@ Microbiology, evolution, cell and developmental biology.
 <p><b>Evan Kane</b>, Postdoctoral Researcher, Associate Professor Michighan Tech</p>
 <!--- entry --->
 <p><b>Kali Bird</b>, Graduate Student, Founder of Hike New York</p>
+<!--- entry --->
+<p><b>Venus Kuo</b>, Graduate Student</p>
 
 <h5>Visiting Scholars and Teachers</h5>
 <!--- entry --->
