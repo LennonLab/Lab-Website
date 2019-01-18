@@ -185,7 +185,7 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 <div id="right-side-research">
 <a id="Justice"></a>
 <h5>Ashley Justice</h5>
-<p><b>Undegraduate Researcher</b></p>
+<p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
 Microbiology and evolution.
@@ -201,7 +201,7 @@ Microbiology and evolution.
 <div id="right-side-research">
 <a id="Snider"></a>
 <h5>Betsy Snider</h5>
-<p><b>Undegraduate Researcher</b></p>
+<p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
 Genetics and microbiology.
@@ -217,7 +217,7 @@ Genetics and microbiology.
 <div id="right-side-research">
 <a id="McKenzi"></a>
 <h5>Kelsey McKenzie</h5>
-<p><b>Undegraduate Researcher</b></p>
+<p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
 Cell biology and experimental evolution.
@@ -233,7 +233,7 @@ Cell biology and experimental evolution.
 <div id="right-side-research">
 <a id="French"></a>
 <h5>JD French</h5>
-<p><b>Undegraduate Researcher</b></p>
+<p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
 Mutation and synthetic biology.
@@ -249,7 +249,7 @@ Mutation and synthetic biology.
 <div id="right-side-research">
 <a id="Boylan"></a>
 <h5>Danni Boylan</h5>
-<p><b>Undegraduate Researcher</b></p>
+<p><b>Undergraduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
 Microbiology, evolution, cell and developmental biology.

@@ -85,7 +85,7 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 
 <!--- pub entry --->
 <p> 
-*<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the sky. Aeon (<a href="https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky">Link</a>)
+*<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the galaxy. Aeon (<a href="https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky">Link</a>)
 </p>
 
 <!--- pub entry --->
