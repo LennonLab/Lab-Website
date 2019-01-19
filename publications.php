@@ -39,7 +39,7 @@ Wisnoski, Leibold MA, <u>Lennon JT</u> (2018) Dormancy in metacommunities. OSF P
 
 <!--- pub entry --->
 <p> 
-Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometry shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
 </p>
 
 <!--- pub entry --->
@@ -386,7 +386,7 @@ Hall EK , Singer GA, Kainz MJ, <u>Lennon JT</u> (2010) Evidence for temperature 
 
 <!--- pub entry --->
 <p>
-Thum RA, <u>Lennon JT</u> (2010) Comparative ecological niche models predictive the invasive spread of variable-leaf milfoil (Myriophyllum heterophllum) and its potential impact on closely related native species. Biological Invasions 12: 133-143 (<a href="https://www.indiana.edu/~microbes/publications/Thum_Lennon_2010.pdf">pdf</a>) 
+Thum RA, <u>Lennon JT</u> (2010) Comparative ecological niche models predictive the invasive spread of variable-leaf milfoil (Myriophyllum heterophyllum) and its potential impact on closely related native species. Biological Invasions 12: 133-143 (<a href="https://www.indiana.edu/~microbes/publications/Thum_Lennon_2010.pdf">pdf</a>) 
 </p>
 
 

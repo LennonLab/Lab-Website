@@ -169,7 +169,7 @@ Microbial ecology, resilience and resistance, and molecular genetics.
 <div id="right-side-research">
 <a id="Lehmkuhl"></a>
 <h5>Brent Lehmkuhl </h5>
-<p><b>Research Technicican</b></p>
+<p><b>Research Technician</b></p>
 <p>
 <b>Research interests:</b><br />
 Microbiology, molecular genetics, resuscitation promoting factors.
@@ -263,7 +263,7 @@ Microbiology, evolution, cell and developmental biology.
 </div>
 <h5>Postdocs and Graduate Students </h5>
 <!--- entry --->
-<p><b>Keny Locey</b>, Postdoctoral Researcher, Assistant Professor Diné College</p>
+<p><b>Ken Locey</b>, Postdoctoral Researcher, Assistant Professor Diné College</p>
 <!--- entry --->
 <p><b>Kevin Webster</b>, Ph.D. student, Associate Research Scientist at Planetary Science Institute, Postdoc at University of Arizona</p>
 <!--- entry --->
@@ -281,7 +281,7 @@ Microbiology, evolution, cell and developmental biology.
 <!--- entry --->
 <p><b>Zach Aanderud</b>, Postdoctoral Researcher, Associate Professor at Brigham Young University</p>
 <!--- entry --->
-<p><b>Evan Kane</b>, Postdoctoral Researcher, Associate Professor Michighan Tech</p>
+<p><b>Evan Kane</b>, Postdoctoral Researcher, Associate Professor Michigan Tech</p>
 <!--- entry --->
 <p><b>Kali Bird</b>, Graduate Student, Founder of Hike New York</p>
 <!--- entry --->
@@ -299,6 +299,8 @@ Microbiology, evolution, cell and developmental biology.
 <h5>Research Technicians and Assistants </h5>
 <!--- entry --->
 <p><b>McKenzie Givens</b>, Technician</p>
+<!--- entry --->
+<p><b>Steve Reynolds</b>, Technician</p>
 <!--- entry --->
 <p><b>Evgeniya Polezhaeva</b>, Technician</p>
 <!--- entry --->
