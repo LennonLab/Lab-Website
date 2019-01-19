@@ -20,6 +20,11 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
+<p> Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction </a>
+</p>
+
+
+<!--- pub entry --->
 <p> Muscarella ME, <u>Lennon JT</u> (2018) Trait-based approach to bacterial growth efficiency. bioRxiv <a href="https://www.biorxiv.org/content/early/2018/09/27/427161"> doi: https://doi.org/10.1101/427161   </a>
 </p>
 
@@ -34,7 +39,7 @@ Wisnoski, Leibold MA, <u>Lennon JT</u> (2018) Dormancy in metacommunities. OSF P
 
 <!--- pub entry --->
 <p> 
-Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometery shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometry shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
 </p>
 
 <!--- pub entry --->
@@ -80,7 +85,7 @@ Hall EK, Bernhardt ES, Bier R, Bradford MA, Boot CM, Cotner JB, del Giorgio PA, 
 
 <!--- pub entry --->
 <p> 
-*<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the sky. Aeon (<a href="https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky">Link</a>)
+*<u>Lennon JT</u>, Locey KJ (2018) There are more microbial species on Earth than stars in the galaxy. Aeon (<a href="https://aeon.co/ideas/there-are-more-microbial-species-on-earth-than-stars-in-the-sky">Link</a>)
 </p>
 
 <!--- pub entry --->
@@ -381,7 +386,7 @@ Hall EK , Singer GA, Kainz MJ, <u>Lennon JT</u> (2010) Evidence for temperature 
 
 <!--- pub entry --->
 <p>
-Thum RA, <u>Lennon JT</u> (2010) Comparative ecological niche models predictive the invasive spread of variable-leaf milfoil (Myriophyllum heterophllum) and its potential impact on closely related native species. Biological Invasions 12: 133-143 (<a href="https://www.indiana.edu/~microbes/publications/Thum_Lennon_2010.pdf">pdf</a>) 
+Thum RA, <u>Lennon JT</u> (2010) Comparative ecological niche models predictive the invasive spread of variable-leaf milfoil (Myriophyllum heterophyllum) and its potential impact on closely related native species. Biological Invasions 12: 133-143 (<a href="https://www.indiana.edu/~microbes/publications/Thum_Lennon_2010.pdf">pdf</a>) 
 </p>
 
 

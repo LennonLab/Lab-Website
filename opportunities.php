@@ -19,7 +19,7 @@
         </h4>
 </div>
 <p>
-I am looking for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Prospectives may apply either to the <a href= "http://www.bio.indiana.edu/graduate/eeb/"> Evolution, Ecology, & Behavior Program</a>  or the <a href="http://www.bio.indiana.edu/graduate/micro/"> Microbiology Program</a>, both of which are in the <a href="http://www.bio.indiana.edu/">  Department of Biology</a>. The application deadline is December 1. Students are funded through research grants, teaching assistantships, and university fellowships. Prospectives should send an overview of their research interests,  CV, grades, and GRE scores (if available). 
+I am looking for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Prospectives may apply either to the <a href= "http://www.bio.indiana.edu/graduate/eeb/"> Evolution, Ecology, & Behavior Program</a>  or the <a href="http://www.bio.indiana.edu/graduate/micro/"> Microbiology Program</a>, both of which are in the <a href="http://www.bio.indiana.edu/">  Department of Biology</a>. The application deadline is December 1. Students are funded through research grants, teaching assistantships, and university fellowships. Prospectives should send an overview of their research interests along with a CV.
 </p>
 
 
@@ -31,8 +31,7 @@ I am looking for motivated graduate students interested in pursuing a Ph.D. in m
         </h4>
 </div>
 <p>
-I currently have funding for a postdoc in my lab. In addition, I have interdisciplinary grants submitted that would fund postdocs to work on topics related to the ecology and evolutionary biology of microbial communities. Please contact me if you are interested.
-</p>
+I am always interested in hearing from potential postdocs with interests that broadly align with questions being asked in our lab.  I often have interdisciplinary grants submitted that would fund postdocs to work on topics related to the ecology and evolutionary biology of microbial communities. </p>
 
 <div>
 	<h4 style="text-align:left;"
