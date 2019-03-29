@@ -39,11 +39,6 @@ Wisnoski, Leibold MA, <u>Lennon JT</u> (2018) Dormancy in metacommunities. OSF P
 
 <!--- pub entry --->
 <p> 
-Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2017) Nutrient stoichiometry shapes microbial coevolution. bioRxiv  <a href="http://www.biorxiv.org/content/early/2017/09/01/183657"> doi: https://doi.org/10.1101/183657  </a>
-</p>
-
-<!--- pub entry --->
-<p> 
 Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2018) Diversity and composition of cave methanotrophic communities. bioRxiv  <a href="http://biorxiv.org/cgi/content/short/412213v1"> doi: https://doi.org/10.1101/412213 </a>
 </p>
 
@@ -58,6 +53,11 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 </p>
 
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
+
+<!--- pub entry --->
+<p> 
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters (<a href="https://www.indiana.edu/~microbes/publications/Larsen_etal_2019(early).pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Larsen_etal_2019_Suppl.pdf">supplementary information)</a>
+</p>
 
 <!--- pub entry --->
 <p> 
