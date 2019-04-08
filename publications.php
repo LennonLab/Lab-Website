@@ -19,6 +19,10 @@ p {
 
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
+
+<p> Moger-Reischer RZ, <u>Lennon JT</u> (In Review) Microbial aging and longevity </a>
+</p>
+
 <!--- pub entry --->
 <p> Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction </a>
 </p>
@@ -32,10 +36,6 @@ p {
 <p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2018) Resource diversity structures aquatic bacterial communities.  bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/08/08/387803"> doi: https://doi.org/10.1101/387803   </a>
 </p>
 
-<!--- pub entry --->
-<p> 
-Wisnoski, Leibold MA, <u>Lennon JT</u> (2018) Dormancy in metacommunities. OSF Preprint  <a href="https://osf.io/j485t/"> doi: 10.17605/OSF.IO/UJMZC  </a>
-</p>
 
 <!--- pub entry --->
 <p> 
