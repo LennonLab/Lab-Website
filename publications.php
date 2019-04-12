@@ -24,18 +24,12 @@ p {
 </p>
 
 <!--- pub entry --->
-<p> Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction </a>
-</p>
-
-
-<!--- pub entry --->
-<p> Muscarella ME, <u>Lennon JT</u> (2018) Trait-based approach to bacterial growth efficiency. bioRxiv <a href="https://www.biorxiv.org/content/early/2018/09/27/427161"> doi: https://doi.org/10.1101/427161   </a>
+<p> Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction OSF Preprint <a href= "https://osf.io/snr49"> doi 10.31219/osf.io/snr49 </a>
 </p>
 
 <!--- pub entry --->
-<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2018) Resource diversity structures aquatic bacterial communities.  bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/08/08/387803"> doi: https://doi.org/10.1101/387803   </a>
+<p> Muscarella ME, <u>Lennon JT</u> (2018) Trait-based approach to bacterial growth efficiency. bioRxiv <a href="https://www.biorxiv.org/content/early/2018/09/27/427161"> doi: https://doi.org/10.1101/427161 </a>
 </p>
-
 
 <!--- pub entry --->
 <p> 
@@ -56,12 +50,21 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 <p> 
+Wisnoski, Leibold MA, <u>Lennon JT</u> (In Press) Dormancy in metacommunities. OSF Preprint  <a href="https://osf.io/j485t/"> doi: 10.17605/OSF.IO/UJMZC</a> The American Naturalist
+</p>
+
+<!--- pub entry --->
+<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (In Press) Resource diversity structures aquatic bacterial communities.  bioRxiv <a href="https://www.biorxiv.org/content/early/2018/08/08/387803"> doi: https://doi.org/10.1101/387803</a> ISMEJ 
+</p>
+
+<!--- pub entry --->
+<p> 
 Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters (<a href="https://www.indiana.edu/~microbes/publications/Larsen_etal_2019(early).pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Larsen_etal_2019_Suppl.pdf">supplementary information)</a>
 </p>
 
 <!--- pub entry --->
 <p> 
-Locey KJ, <u>Lennon JT</u> (In Press) A residence-time framework for biodiversity. The American Naturalist. 5:e2727v2 <a href="https://doi.org/10.7287/peerj.preprints.2727v2">doi.org/10.7287/peerj.preprints.2727v2 </a>
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. The American Naturalist. 5:e2727v2 <a href="https://doi.org/10.7287/peerj.preprints.2727v2">doi.org/10.7287/peerj.preprints.2727v2 </a>
 </p>
 
 <!--- pub entry --->
