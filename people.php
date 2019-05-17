@@ -60,22 +60,6 @@ evolution within communities
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/JordanHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Bird"></a>
-<h5>Jordan Bird </h5>
-<p><b>Postdoctoral Researcher (co-mentored with <a href="http://www.indiana.edu/~mckinlab/Home.html">Jake McKinlay</a>)</b><br />
-<p>
-<b>Research interests:</b><br />
-Microbial genomics, evolution, early earth history, phylogenetics, and dormancy and persistence in microbes
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/MeganBHead.jpg" />
 </div>
 
@@ -227,22 +211,6 @@ Cell biology and experimental evolution.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/FrenchHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="French"></a>
-<h5>JD French</h5>
-<p><b>Undergraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-Mutation and synthetic biology.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/BoylanHead.jpg" />
 </div>
 
@@ -262,6 +230,8 @@ Microbiology, evolution, cell and developmental biology.
 <h4>Former Lab Members </h4>
 </div>
 <h5>Postdocs and Graduate Students </h5>
+<!--- entry --->
+<p><b>Jordan Bird</b>, Postdoctoral Researcher, Postdoc US FDA National Center for Toxicological Research </p>
 <!--- entry --->
 <p><b>Ken Locey</b>, Postdoctoral Researcher, Assistant Professor Diné College</p>
 <!--- entry --->
@@ -324,6 +294,8 @@ Microbiology, evolution, cell and developmental biology.
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b>JD French</b>, Indiana University</p>
 <!---entry--->
 <p><b>Jessica Zellinger</b>, Indiana University</p>
 <!---entry--->
