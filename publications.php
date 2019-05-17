@@ -54,31 +54,31 @@ Wisnoski, Leibold MA, <u>Lennon JT</u> (In Press) Dormancy in metacommunities. O
 </p>
 
 <!--- pub entry --->
-<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (In Press) Resource diversity structures aquatic bacterial communities.  bioRxiv <a href="https://www.biorxiv.org/content/early/2018/08/08/387803"> doi: https://doi.org/10.1101/387803</a> ISMEJ 
+<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ https://doi.org/10.1038/s41396-019-0427-7 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2019.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
 <p> 
-Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters (<a href="https://www.indiana.edu/~microbes/publications/Larsen_etal_2019(early).pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Larsen_etal_2019_Suppl.pdf">supplementary information)</a>
+Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes microbial coevolution. Ecology Letters 22: 1009–1018 (<a href="https://www.indiana.edu/~microbes/publications/Larsen_etal_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Larsen_etal_2019_Suppl.pdf">supplementary information</a>)
 </p>
 
 <!--- pub entry --->
 <p> 
-Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. The American Naturalist. 5:e2727v2 <a href="https://doi.org/10.7287/peerj.preprints.2727v2">doi.org/10.7287/peerj.preprints.2727v2 </a>
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. The American Naturalist. 194: 000-000 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_code.zip">code</a>)
 </p>
 
 <!--- pub entry --->
-<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 (<a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_Suppl.pdf">supplementary information)</a>
-</p>
-
-<!--- pub entry --->
-<p> 
-<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2018.pdf">pdf)</a>
+<p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 (<a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_Suppl.pdf">supplementary information</a>)
 </p>
 
 <!--- pub entry --->
 <p> 
-Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population genetic consequences of microbial dormancy. Evolutionary Applications 11: 60–75 (<a href="https://www.indiana.edu/~microbes/publications/Shoemaker_Lennon_2018.pdf">pdf)</a>
+<u>Lennon JT</u>, Muscarella ME, Placella SA, Lehmkuhl BK (2018) How, when, and where relic DNA biases estimates of microbial diversity. mBio 9:e00637-18 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2018.pdf">pdf</a>)
+</p>
+
+<!--- pub entry --->
+<p> 
+Shoemaker WR, <u>Lennon JT</u> (2018) Evolution with a seed bank: the population genetic consequences of microbial dormancy. Evolutionary Applications 11: 60–75 (<a href="https://www.indiana.edu/~microbes/publications/Shoemaker_Lennon_2018.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
@@ -98,12 +98,12 @@ Peralta AL, Sun Y, McDaniel MD, <u>Lennon JT</u> (2018) Crop diversity increases
 
 <!--- pub entry --->
 <p>
-Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (2018) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution 2: 237-240 (<a href="https://www.indiana.edu/~microbes/publications/Long_etal_2018.pdf">pdf)</a>
+Long H, Sung W, Kucukyildirim S, Williams E, Miller S, Guo W, Patterson C, Gregory C, Strauss C, Stone C, Berne C, Kysela D, Shoemaker WR, Muscarella M, Luo H, <u>Lennon JT</u>, Brun YV, Lynch M (2018) Evolutionary determinants of genome-wide nucleotide composition. Nature Ecology and Evolution 2: 237-240 (<a href="https://www.indiana.edu/~microbes/publications/Long_etal_2018.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p> 
-Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (2018) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air. PLOS ONE 113: 020650 (<a href="https://www.indiana.edu/~microbes/publications/Schimmelmann_etal_2018.pdf">pdf)</a>
+Schimmelmann A, Streil T, Fernandez-Cortes A, Cuezva S, <u>Lennon JT</u> (2018) Radiolysis via radioactivity is not responsible for rapid methane oxidation in subterranean air. PLOS ONE 113: 020650 (<a href="https://www.indiana.edu/~microbes/publications/Schimmelmann_etal_2018.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
@@ -113,12 +113,12 @@ Shoemaker WR, Locey KJ, <u>Lennon JT</u> (2017) A macroecological theory of micr
 
 <!--- pub entry --->
 <p>
-Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements 5:e00697-17 (<a href="https://www.indiana.edu/~microbes/publications/Kuo_etal_2017.pdf">pdf)</a>
+Kuo V, Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2017) Whole genome sequence of the soil bacterium Micrococcus sp. KBS0714. Genome Announcements 5:e00697-17 (<a href="https://www.indiana.edu/~microbes/publications/Kuo_etal_2017.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (2017) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology 466: 229-238 (<a href="https://www.indiana.edu/~microbes/publications/Nguyen-Thuy_etal_2017.pdf">pdf)</a>
+Nguyễn-Thuỳ D, Schimmelmann A, Nguyễn-Văn H, Drobniak A, <u>Lennon JT</u>, Tạ PH, Nguyễn NTA (2017) Subterranean microbial oxidation of atmospheric methane in cavernous tropical karst. Chemical Geology 466: 229-238 (<a href="https://www.indiana.edu/~microbes/publications/Nguyen-Thuy_etal_2017.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
@@ -130,27 +130,27 @@ climate change. Proceedings of the National Academy of Sciences of the United St
 
 <!--- pub entry --->
 <p>
-Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (2017) Patterns and drivers of fungal community depth stratification in Sphagnum peat. FEMS Microbiology Ecology 93: fix082 (<a href="https://www.indiana.edu/~microbes/publications/Lamit_etal_2017.pdf">pdf)</a>
+Lamit LJ, Romanowicz JH, Potvin LR, Rivers A, Singh K, <u>Lennon JT</u>, Tringe S, Kane E, Lilleskov E (2017) Patterns and drivers of fungal community depth stratification in Sphagnum peat. FEMS Microbiology Ecology 93: fix082 (<a href="https://www.indiana.edu/~microbes/publications/Lamit_etal_2017.pdf">pdf</a>)
 </p> 
 
 <!--- pub entry --->
 <p>
-Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial seed banks. Frontiers in Microbiology 7:2040 (<a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2017.pdf">pdf)</a>
+Locey KJ, Fisk MC, <u>Lennon JT</u> (2017) Microscale insight into microbial seed banks. Frontiers in Microbiology 7:2040 (<a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2017.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-Webster KD, Lagarde LR, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (2017) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies 79: 24-34 (<a href="https://www.indiana.edu/~microbes/publications/Webster_etal_2017.pdf">pdf)</a>
+Webster KD, Lagarde LR, Sauer PE, Schimmelmann A, <u>Lennon JT</u>, Boston PJ (2017) Isotopic evidence for the migration of thermogenic methane in Cueva de Villa Luz cave, Tabasco, Mexico. Journal of Cave and Karst Studies 79: 24-34 (<a href="https://www.indiana.edu/~microbes/publications/Webster_etal_2017.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Locey KJ (2017) Macroecology for microbiology. Environmental Microbiology Reports 9: 38-40 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_Locey_2017.pdf">pdf)</a>
+<u>Lennon JT</u>, Locey KJ (2017) Macroecology for microbiology. Environmental Microbiology Reports 9: 38-40 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_Locey_2017.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ 11: 337–348 (<a href="https://www.indiana.edu/~microbes/publications/LaSarre_etal_2017.pdf">pdf)</a>
+LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism dynamics governed by dose-dependent toxicity and growth-independent production of a cross-fed nutrient. ISMEJ 11: 337–348 (<a href="https://www.indiana.edu/~microbes/publications/LaSarre_etal_2017.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
@@ -161,12 +161,12 @@ LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism 
 
 <!--- pub entry --->
 <p>
-Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2017) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis 72: 159-170 (<a href="https://www.indiana.edu/~microbes/publications/Skelton_etal_2017.pdf">pdf) </a>
+Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2017) Multi-scale ecological filters shape crayfish microbiome assembly. Symbiosis 72: 159-170 (<a href="https://www.indiana.edu/~microbes/publications/Skelton_etal_2017.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
 <p>
-*Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reicher_Lennon_2017.pdf">pdf)</a>
+*Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reicher_Lennon_2017.pdf">pdf</a>)
 </p>
 
 
@@ -197,20 +197,24 @@ Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy
 
 <!--- pub entry --->
 <p>
-Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. Frontiers in Microbiology 7:853. doi: 10.3389/fmicb.2016.00853 (<a href="https://www.indiana.edu/~microbes/publications/Aanderud_etal_2016.pdf">pdf</a>) </p>
+Aanderud ZT, Vert JC, Magnusson TW, <u>Lennon JT</u>, Breakwell DP, Harker AR (2016) Bacterial dormancy is more prevalent in freshwater than hypersaline lakes. Frontiers in Microbiology 7:853. doi: 10.3389/fmicb.2016.00853 (<a href="https://www.indiana.edu/~microbes/publications/Aanderud_etal_2016.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
 <p><u>Lennon JT</u>, Denef VJ (2016) Evolutionary ecology of microorganisms: from the tamed to the wild, p 4.1.2-1–4.1.2-12.  In Yates MV, Nakatsu C, Miller R, Pillai S (ed), Manual of Environmental Microbiology, 4th ed. ASM Press, Washington, DC
-  (<a href="https://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) </p>
+  (<a href="https://www.indiana.edu/~microbes/publications/Lennon_Denef_2015.pdf">pdf</a>) 
+  </p>
 
 <!--- pub entry --->
 <p>
-Wiggington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (2016) Re-examining the relationship between virus and microbial cell abundances in the global oceans. Nature Microbiology 1: article 15024
-(<a href="https://www.indiana.edu/~microbes/publications/Wiggington_etal_2016.pdf">pdf</a>, <a href="http://weitzgroup.github.io/Virus_Microbe_Abundance/">interactive dashboard</a>) </p>
+Wigington CH, Sonderegger DL, Brussard CPD, Buchan A, Finke JF, Fuhrman JA, <u>Lennon JT</u>, Middelboe M, Stock CA, Suttle CA, Wilson WH, Wommack EK, Wilhelm SW, Weitz JS  (2016) Re-examining the relationship between virus and microbial cell abundances in the global oceans. Nature Microbiology 1: article 15024
+(<a href="https://www.indiana.edu/~microbes/publications/Wiggington_etal_2016.pdf">pdf</a>, <a href="http://weitzgroup.github.io/Virus_Microbe_Abundance/">interactive dashboard</a>) 
+</p>
 
 <!--- pub entry --->
 <p>
-Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (2016) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems. Inland Waters 6: 1-10 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2016.pdf">pdf</a>) </p>
+Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotner JB (2016) Scaling relationships among drivers of aquatic respiration: from the smallest to the largest freshwater ecosystems. Inland Waters 6: 1-10 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2016.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
 <p>
@@ -225,7 +229,8 @@ Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (2016) Phosphorus 
 
 <!--- pub entry --->
 <p>
-Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (2015) Microbiomes in light of traits: a phylogenetic perspective. Science 350: aac9323 (<a href="https://www.indiana.edu/~microbes/publications/Martiny_etal_2015.pdf">pdf</a>) </p>
+Martiny JBH, Jones SE, <u>Lennon JT</u>, Martiny AC (2015) Microbiomes in light of traits: a phylogenetic perspective. Science 350: aac9323 (<a href="https://www.indiana.edu/~microbes/publications/Martiny_etal_2015.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
 <p>
@@ -233,33 +238,41 @@ Bier RL, Bernhardt ES, Boot CM, Graham EB, Hall EK, <u>Lennon JT</u>, Nemergut D
 </p>
 
 <!--- pub entry --->
-<p>Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2015) Genome sequence of the soil bacterium <em>Janthinobacterium</em> sp. KBS0711. Genome Announcements 3: e00689-15 (<a href="https://www.indiana.edu/~microbes/publications/Shoemaker_etal_2015.pdf">pdf</a>) </p>
+<p>Shoemaker WR, Muscarella ME, <u>Lennon JT</u> (2015) Genome sequence of the soil bacterium <em>Janthinobacterium</em> sp. KBS0711. Genome Announcements 3: e00689-15 (<a href="https://www.indiana.edu/~microbes/publications/Shoemaker_etal_2015.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
-<p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="https://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>) </p>
+<p>Treseder KK, <u>Lennon JT</u> (2015) Fungal traits that drive ecosystem dynamics. Microbiology and Molecular Biology Reviews 79: 243-262 (<a href="https://www.indiana.edu/~microbes/publications/Treseder_Lennon_2015.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
-<p>Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (2015) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems 18: 376-389 (<a href="https://www.indiana.edu/~microbes/publications/Solomon_etal_2015.pdf">pdf</a>) </p>
-
-<!--- pub entry --->
-<p>
-Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal 9: 1352-1364 (<a href="https://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>) </p>
-
-<!--- pub entry --->
-<p>
-Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. Frontiers in Microbiology 6:24 (<a href="https://www.indiana.edu/~microbes/publications/Aanderud_etal_2015.pdf">pdf</a>) </p>
+<p>Solomon CT, Jones SE, Weidel BC, Buffam I, Fork ML, Karlsson J, Larsen S, <u>Lennon JT</u>, Read JS, Sadro S, Saros JE (2015) Ecosystem consequences of changing inputs of terrestrial dissolved organic matter to lakes: current knowledge and future challenges. Ecosystems 18: 376-389 (<a href="https://www.indiana.edu/~microbes/publications/Solomon_etal_2015.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
 <p>
-Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology 96: 1550-1560 (<a href="https://www.indiana.edu/~microbes/publications/Jones_Lennon_2015.pdf">pdf</a>, <a href="http://www.esapubs.org/archive/ecol/E096/138/">supplementary material</a>, <a href = "https://www.indiana.edu/~microbes/publications/Jones_Lennon_2016_ESABulletin.pdf">ESA Bulletin Photo Gallery</a>) </p>
+Weitz JS, Stock CA, Wilhelm SW, Bourouiba L, Buchan A, Coleman ML, Follows MJ, Fuhrman JA, Jover LF, <u>Lennon JT</u>, Middelboe M, Sonderegger DL, Suttle CA, Taylor BP, Thingstad TF, Wilson WH, Wommack EK (2015) A multitrophic model to quantify the effects of marine viruses on microbial food webs and ecosystem processes. The ISME Journal 9: 1352-1364 (<a href="https://www.indiana.edu/~microbes/publications/Weitz_etal_2015.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
 <p>
-Rocca JD, Hall EK, <u>Lennon JT</u>, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (2015) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal 9: 1693-1699 (<a href="https://www.indiana.edu/~microbes/publications/Rocca_etal_2015.pdf">pdf</a>) </p>
+Aanderud ZT, Jones SE, Fierer N, <u>Lennon JT</u> (2015) Resuscitation of the rare biosphere contributes to pulses of ecosystem activity. Frontiers in Microbiology 6:24 (<a href="https://www.indiana.edu/~microbes/publications/Aanderud_etal_2015.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Bird KC, Larsen ML, Placella SA, <u>Lennon JT</u> (2014) Phosphorus resource heterogeneity in microbial food webs. Aquatic Microbial Ecology 73: 259-272 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2014.pdf">pdf</a>) </p>
+Jones SE, <u>Lennon JT</u> (2015) A test of the subsidy-stability hypothesis: effects of terrestrial carbon in aquatic ecosystems. Ecology 96: 1550-1560 (<a href="https://www.indiana.edu/~microbes/publications/Jones_Lennon_2015.pdf">pdf</a>, <a href="http://www.esapubs.org/archive/ecol/E096/138/">supplementary material</a>, <a href = "https://www.indiana.edu/~microbes/publications/Jones_Lennon_2016_ESABulletin.pdf">ESA Bulletin Photo Gallery</a>) 
+</p>
+
+<!--- pub entry --->
+<p>
+Rocca JD, Hall EK, <u>Lennon JT</u>, Evans SE, Waldrop MP, Cotner JB, Nemergut DR, Graham EB, Wallenstein MD (2015) Relationships between protein-encoding gene abundance and corresponding process are commonly assumed yet rarely observed. The ISME Journal 9: 1693-1699 (<a href="https://www.indiana.edu/~microbes/publications/Rocca_etal_2015.pdf">pdf</a>) 
+</p>
+
+<!--- pub entry --->
+<p>
+Muscarella ME, Bird KC, Larsen ML, Placella SA, <u>Lennon JT</u> (2014) Phosphorus resource heterogeneity in microbial food webs. Aquatic Microbial Ecology 73: 259-272 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2014.pdf">pdf</a>) 
+</p>
 
 <!--- pub entry --->
 <p>
@@ -279,7 +292,8 @@ terHorst CP, <u>Lennon JT</u>, Lau JA (2014) The relative importance of rapid ev
 <!--- pub entry --->
 <p>
 Dzialowski AR, Rzepecki M, Kostrzewska-Szlakowska I, <u>Lennon JT</u>, Kalinowska K, Palash A (2014) Are the abioitc and biotic characteristics of aquatic mesocosms representative of in situ conditions? Journal of Limnology 73: 603-612
-(<a href="https://www.indiana.edu/~microbes/publications/Dzialowski_etal_2014.pdf">pdf</a>)</p>
+(<a href="https://www.indiana.edu/~microbes/publications/Dzialowski_etal_2014.pdf">pdf</a>)
+</p>
 
 <!--- pub entry --->
 <p>
@@ -491,7 +505,7 @@ Cottingham KL, Brown BL, <u>Lennon JT</u> (2001) Biodiversity may regulate the t
 
 <!--- pub entry --->
 <p>
-deNoyelles FJ, Wang SH, Meyer JO, Huggins DG, <u>Lennon JT</u>, Kolln WS, Randtke SJ (1999) Water quality issues in reservoirs: some considerations from a study of a large reservoir in Kansas. Proceedings of the 49th Annual Environmental Engineering Conference, University of Kansas, Lawrence. 
+deNoyelles FJ, Wang SH, Meyer JO, Huggins DG, <u>Lennon JT</u>, Kolln WS, Randtke SJ (1999) Water quality issues in reservoirs: some considerations from a study of a large reservoir in Kansas. Proceedings of the 49th Annual Environmental Engineering Conference, University of Kansas, Lawrence (<a href="https://www.indiana.edu/~microbes/publications/deNoyelles_etal_1999.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
