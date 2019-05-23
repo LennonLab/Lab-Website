@@ -19,6 +19,9 @@ p {
 
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
+<p> <u>Lennon JT</u>, Locey KJ (In Review) More evidence for Earth's massive microbiome </a>
+</p>
+
 
 <p> Moger-Reischer RZ, <u>Lennon JT</u> (In Review) Microbial aging and longevity </a>
 </p>
@@ -37,11 +40,6 @@ Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>L
 </p>
 
 <!--- pub entry --->
-<p> 
-Salazar A, <u>Lennon JT</u>, Dukes JS (2018) Microbial activity improves predictability of soil respiration dynamics. bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/10/03/434654"> doi: https://doi.org/10.1101/434654 </a>
-</p>
-
-<!--- pub entry --->
 <p>
 Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
 </p>
@@ -50,7 +48,12 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 <p> 
-Wisnoski, Leibold MA, <u>Lennon JT</u> (In Press) Dormancy in metacommunities. OSF Preprint  <a href="https://osf.io/j485t/"> doi: 10.17605/OSF.IO/UJMZC</a> The American Naturalist
+Wisnoski, Leibold MA, <u>Lennon JT</u> (In Press) Dormancy in metacommunities. OSF Preprint  <a href="https://osf.io/j485t/"> doi: 10.17605/OSF.IO/UJMZC</a> American Naturalist
+</p>
+
+<!--- pub entry --->
+<p> 
+Salazar A, <u>Lennon JT</u>, Dukes JS (In Press) Microbial activity improves predictability of soil respiration dynamics. bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/10/03/434654"> doi: https://doi.org/10.1101/434654 </a> Biogeochemistry
 </p>
 
 <!--- pub entry --->
@@ -64,7 +67,7 @@ Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes mic
 
 <!--- pub entry --->
 <p> 
-Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. The American Naturalist. 194: 000-000 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_code.zip">code</a>)
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist. 194: 000-000 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_code.zip">code</a>)
 </p>
 
 <!--- pub entry --->
@@ -292,8 +295,7 @@ terHorst CP, <u>Lennon JT</u>, Lau JA (2014) The relative importance of rapid ev
 <!--- pub entry --->
 <p>
 Dzialowski AR, Rzepecki M, Kostrzewska-Szlakowska I, <u>Lennon JT</u>, Kalinowska K, Palash A (2014) Are the abioitc and biotic characteristics of aquatic mesocosms representative of in situ conditions? Journal of Limnology 73: 603-612
-(<a href="https://www.indiana.edu/~microbes/publications/Dzialowski_etal_2014.pdf">pdf</a>)
-</p>
+(<a href="https://www.indiana.edu/~microbes/publications/Dzialowski_etal_2014.pdf">pdf</a>)</p>
 
 <!--- pub entry --->
 <p>
