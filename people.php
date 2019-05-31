@@ -231,13 +231,13 @@ Microbiology, evolution, cell and developmental biology.
 </div>
 <h5>Postdocs and Graduate Students </h5>
 <!--- entry --->
-<p><b>Jordan Bird</b>, Postdoctoral Researcher, Postdoc US FDA National Center for Toxicological Research </p>
+<p><b>Jordan Bird</b>, Postdoctoral Researcher, Postdoc University of Arkansas for Medical Sciences</p>
 <!--- entry --->
-<p><b>Ken Locey</b>, Postdoctoral Researcher, Assistant Professor Diné College</p>
+<p><b>Ken Locey</b>, Postdoctoral Researcher, Associate Professor Diné College</p>
 <!--- entry --->
 <p><b>Kevin Webster</b>, Ph.D. student, Associate Research Scientist at Planetary Science Institute, Postdoc at University of Arizona</p>
 <!--- entry --->
-<p><b>Mario Muscarella</b>, Ph.D. student, Postdoc at University Illinois Champagin-Urbana</p>
+<p><b>Mario Muscarella</b>, Ph.D. student, Research Fellow Université du Québec à Montréal (UQAM) </p>
 <!--- entry --->
 <p><b>Megan Larsen</b>, Ph.D. student, Postdoc at Wilfrid Laurier University</p>
 <!--- entry --->
