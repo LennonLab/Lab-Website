@@ -19,15 +19,21 @@ p {
 
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
-<p> <u>Lennon JT</u>, Locey KJ (In Review) More evidence for Earth's massive microbiome </a>
-</p>
-
-
-<p> Moger-Reischer RZ, <u>Lennon JT</u> (In Review) Microbial aging and longevity </a>
+<!--- pub entry --->
+<p> <u>Lennon JT</u>, Locey KJ (In Review) More evidence for Earth's massive microbiome
 </p>
 
 <!--- pub entry --->
-<p> Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction OSF Preprint <a href= "https://osf.io/snr49"> doi 10.31219/osf.io/snr49 </a>
+<p> Moger-Reischer RZ, <u>Lennon JT</u> (In Review) Microbial aging and longevity
+</p>
+
+
+<!--- pub entry --->
+<p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction OSF Preprint <a href= "https://osf.io/snr49"> doi 10.31219/osf.io/snr49 </a>
+</p>
+
+<!--- pub entry --->
+<p> Culman SW, Peralta AL, DuPont ST, <u>Lennon JT</u>, Snapp SS (In Review) Perennial grain crop roots and nitrogen management shape soil food webs and soil carbon dynamics.
 </p>
 
 <!--- pub entry --->
@@ -53,7 +59,7 @@ Wisnoski, Leibold MA, <u>Lennon JT</u> (In Press) Dormancy in metacommunities. O
 
 <!--- pub entry --->
 <p> 
-Salazar A, <u>Lennon JT</u>, Dukes JS (In Press) Microbial activity improves predictability of soil respiration dynamics. bioRxiv  <a href="https://www.biorxiv.org/content/early/2018/10/03/434654"> doi: https://doi.org/10.1101/434654 </a> Biogeochemistry
+Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predictability of soil respiration dynamics. Biogeochemistry https://doi.org/10.1007/s10533-019-00574-5 (<a href="https://www.indiana.edu/~microbes/publications/Salazar_etal_2019.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
