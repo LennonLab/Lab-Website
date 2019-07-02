@@ -54,12 +54,11 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 <p> 
-Wisnoski, Leibold MA, <u>Lennon JT</u> (In Press) Dormancy in metacommunities. OSF Preprint  <a href="https://osf.io/j485t/"> doi: 10.17605/OSF.IO/UJMZC</a> American Naturalist
-</p>
+Wisnoski, Leibold MA, <u>Lennon JT</u> (2019) Dormancy in metacommunities. American Naturalist 194: 000-000 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019_Supplement.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisonski_etal_2019_Code.zip">code</a>)</p>
 
 <!--- pub entry --->
 <p> 
-Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predictability of soil respiration dynamics. Biogeochemistry https://doi.org/10.1007/s10533-019-00574-5 (<a href="https://www.indiana.edu/~microbes/publications/Salazar_etal_2019.pdf">pdf</a>) 
+Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predictability of soil respiration dynamics. Biogeochemistry 144: 103-116 (<a href="https://www.indiana.edu/~microbes/publications/Salazar_etal_2019.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
@@ -73,7 +72,7 @@ Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes mic
 
 <!--- pub entry --->
 <p> 
-Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist. 194: 000-000 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_code.zip">code</a>)
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist. 194: 000-000 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Loecy_Lennon_2019_code.zip">code</a>)
 </p>
 
 <!--- pub entry --->
