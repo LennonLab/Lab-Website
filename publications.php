@@ -20,16 +20,15 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
-<p> <u>Lennon JT</u>, Locey KJ (In Review) More evidence for Earth's massive microbiome
+<p> Locey KJ, Muscarella ME, Larsen ML, Bray SR, Jones SE, <u>Lennon JT</u> (2019) Dormancy dampens the microbial distance-decay relationship. bioRxiv <a href="https://www.biorxiv.org/content/10.1101/717546v1"> doi: https://doi.org/10.1101/717546 </a>
 </p>
 
 <!--- pub entry --->
-<p> Moger-Reischer RZ, <u>Lennon JT</u> (In Review) Microbial aging and longevity
+<p> <u>Lennon JT</u>, Locey KJ (In Revision) More evidence for Earth's massive microbiome
 </p>
 
-
 <!--- pub entry --->
-<p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction OSF Preprint <a href= "https://osf.io/snr49"> doi 10.31219/osf.io/snr49 </a>
+<p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction. OSF Preprint <a href= "https://osf.io/snr49"> doi 10.31219/osf.io/snr49 </a>
 </p>
 
 <!--- pub entry --->
@@ -51,6 +50,11 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 </p>
 
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
+
+
+<!--- pub entry --->
+<p> Moger-Reischer RZ, <u>Lennon JT</u> (In Press) Microbial aging and longevity. Nature Reviews Microbiology
+</p>
 
 <!--- pub entry --->
 <p> 
