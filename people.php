@@ -297,6 +297,8 @@ Microbiology, evolution, cell and developmental biology.
 <!---entry--->
 <p><b>JD French</b>, Indiana University</p>
 <!---entry--->
+<p><b>Benjamin Kelly</b>, Indiana University</p>
+<!---entry--->
 <p><b>Jessica Zellinger</b>, Indiana University</p>
 <!---entry--->
 <p><b>Max Zaret</b>, Indiana University</p>

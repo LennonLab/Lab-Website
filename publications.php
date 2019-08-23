@@ -32,10 +32,6 @@ p {
 </p>
 
 <!--- pub entry --->
-<p> Culman SW, Peralta AL, DuPont ST, <u>Lennon JT</u>, Snapp SS (In Review) Perennial grain crop roots and nitrogen management shape soil food webs and soil carbon dynamics.
-</p>
-
-<!--- pub entry --->
 <p> Muscarella ME, <u>Lennon JT</u> (2018) Trait-based approach to bacterial growth efficiency. bioRxiv <a href="https://www.biorxiv.org/content/early/2018/09/27/427161"> doi: https://doi.org/10.1101/427161 </a>
 </p>
 
@@ -58,7 +54,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 <p> 
-Wisnoski, Leibold MA, <u>Lennon JT</u> (2019) Dormancy in metacommunities. American Naturalist 194: 000-000 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019_Supplement.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisonski_etal_2019_Code.zip">code</a>)</p>
+Wisnoski, Leibold MA, <u>Lennon JT</u> (2019) Dormancy in metacommunities. American Naturalist 194: 131-151 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019_Supplement.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisonski_etal_2019_Code.zip">code</a>)</p>
 
 <!--- pub entry --->
 <p> 
@@ -66,7 +62,7 @@ Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predict
 </p>
 
 <!--- pub entry --->
-<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ https://doi.org/10.1038/s41396-019-0427-7 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2019.pdf">pdf</a>) 
+<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2019.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
@@ -76,8 +72,14 @@ Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes mic
 
 <!--- pub entry --->
 <p> 
-Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist. 194: 000-000 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Loecy_Lennon_2019_code.zip">code</a>)
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist. 194: 59-72 (<a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Loecy_Lennon_2019_code.zip">code</a>)
 </p>
+
+<!--- pub entry --->
+<p>
+Sprunger CD, Culman SW, Peralta AP, Tianna DuPon S, <u>Lennon JT</u>, Snapp SS (2019) Perennial grain crop roots and nitrogen management shape soil food webs and soil carbon dynamics. Soil Biology and Biochemistry 137: 107573 (<a href="https://www.indiana.edu/~microbes/publications/Sprunger_etal_2019.pdf">pdf</a>)
+</p>
+
 
 <!--- pub entry --->
 <p> Shade A, Dunn RR, Blowes SA, Keil P, Bohannan BMJ, M Hermann, K Küsel, <u>Lennon JT</u>, Sanders NJ, D Storch, J Chase (2018) Macroecology to unite all biodiversity great and small. Trends in Ecology and Evolution 33: 731-744 (<a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Shade_etal_2018_Suppl.pdf">supplementary information</a>)
@@ -230,7 +232,7 @@ Hall EK, Schoolmaster DR, Amado, AM, Stets, EG, <u>Lennon JT</u>, Domine L, Cotn
 
 <!--- pub entry --->
 <p>
-Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (2016) Phosphorus release from the drying and reflooding of diverse wetland sediments. DOI 10.1007/s10533-016-0250-4. Biogeochemistry (<a href="https://www.indiana.edu/~microbes/publications/Kinsman-Costello_etal_2016.pdf">pdf</a>)
+Kinsman-Costello LE, Hamilton SK, O'Brien J, <u>Lennon JT</u> (2016) Phosphorus release from the drying and reflooding of diverse wetland sediments. Biogeochemistry 130: 159-176 (<a href="https://www.indiana.edu/~microbes/publications/Kinsman-Costello_etal_2016.pdf">pdf</a>)
 </p>
 
 <!--- pub entry --->
@@ -390,7 +392,7 @@ Fierer N, <u>Lennon JT</u> (2011) The generation and maintenance of diversity in
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u> (2011) Replication, lies, and lesser-known truths regarding experimental design in environmental microbiology. Environmental Microbiology 6:1383-1386(<a href="https://www.indiana.edu/~microbes/publications/Lennon_2011.pdf">pdf</a>) 
+<u>Lennon JT</u> (2011) Replication, lies, and lesser-known truths regarding experimental design in environmental microbiology. Environmental Microbiology 6:1383-1386 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_2011.pdf">pdf</a>) 
 </p>
 
 
@@ -408,7 +410,7 @@ Jones SE, <u>Lennon JT</u> (2010) Dormancy contributes to the maintenance of mic
 
 <!--- pub entry --->
 <p>
-Hall EK , Singer GA, Kainz MJ, <u>Lennon JT</u> (2010) Evidence for temperature acclimation in bacteria: an empirical test of a hypothesized membrane-mediated trade-off. Functional Ecology 24: 898-908 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2010.pdf">pdf</a>)
+Hall EK, Singer GA, Kainz MJ, <u>Lennon JT</u> (2010) Evidence for temperature acclimation in bacteria: an empirical test of a hypothesized membrane-mediated trade-off. Functional Ecology 24: 898-908 (<a href="https://www.indiana.edu/~microbes/publications/Hall_etal_2010.pdf">pdf</a>)
 </p>
 
 
@@ -501,7 +503,7 @@ Thum RA, <u>Lennon JT</u>, Connor J, Smagula AP (2005) A DNA fingerprinting appr
 
 <!--- pub entry --->
 <p>
-Dzialowski AR, <u>Lennon JT</u>, O'Brien WJ, Smith VH (2003) Predator-induced phenotypic plasticity in the exotic cladoceran Daphnia lumholtzi. Freshwater Biology 48: 1593-1602 (<a href="https://www.indiana.edu/~microbes/publications/Dzialowski_etal_2003.pdf">pdf</a>) (<a href="https://www.indiana.edu/~microbes/publications/Dzialowski_etal_2003_Cover.pdf">cover</a>)
+Dzialowski AR, <u>Lennon JT</u>, O'Brien WJ, Smith VH (2003) Predator-induced phenotypic plasticity in the exotic cladoceran Daphnia lumholtzi. Freshwater Biology 48: 1593-1602 (<a href="https://www.indiana.edu/~microbes/publications/Dzialowski_etal_2003.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Dzialowski_etal_2003_Cover.pdf">cover</a>)
 </p>
 
 <!--- pub entry --->
