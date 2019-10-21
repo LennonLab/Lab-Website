@@ -20,6 +20,10 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
+<p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2019) Metabolic insight into bacterial community assembly across ecosystem boundaries. bioRxiv <a href="https://www.biorxiv.org/content/10.1101/758615v1"> doi: https://doi.org/10.1101/758615  </a>
+</p>
+
+<!--- pub entry --->
 <p> Locey KJ, Muscarella ME, Larsen ML, Bray SR, Jones SE, <u>Lennon JT</u> (2019) Dormancy dampens the microbial distance-decay relationship. bioRxiv <a href="https://www.biorxiv.org/content/10.1101/717546v1"> doi: https://doi.org/10.1101/717546 </a>
 </p>
 
@@ -29,6 +33,12 @@ p {
 
 <!--- pub entry --->
 <p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction. OSF Preprint <a href= "https://osf.io/snr49"> doi 10.31219/osf.io/snr49 </a>
+</p>
+
+Yin, Yidonga, MASTALERZ, Mariab, LENNON, Jay T.c, DROBNIAK, Agnieszkab, and SCHIMMELMANN, Arndta
+
+<!--- pub entry --->
+<p>  Yin Y, Masalerz M, <u>Lennon JT</u>, Drobniak A, Schimmelmann A (In Review) Characterization and microbial mitigation of fugitive methane emissions from oil and gas wells: Example from Indiana, USA.
 </p>
 
 <!--- pub entry --->
@@ -49,12 +59,13 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p> Moger-Reischer RZ, <u>Lennon JT</u> (In Press) Microbial aging and longevity. Nature Reviews Microbiology
+<p> Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf">supplementary information</a>)
 </p>
 
 <!--- pub entry --->
 <p> 
-Wisnoski, Leibold MA, <u>Lennon JT</u> (2019) Dormancy in metacommunities. American Naturalist 194: 131-151 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019_Supplement.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisonski_etal_2019_Code.zip">code</a>)</p>
+Wisnoski, Leibold MA, <u>Lennon JT</u> (2019) Dormancy in metacommunities. American Naturalist 194: 131-151 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2019_Supplement.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisonski_etal_2019_Code.zip">code</a>)
+</p>
 
 <!--- pub entry --->
 <p> 
