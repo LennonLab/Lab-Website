@@ -35,8 +35,6 @@ p {
 <p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction. OSF Preprint <a href= "https://osf.io/snr49"> doi 10.31219/osf.io/snr49 </a>
 </p>
 
-Yin, Yidonga, MASTALERZ, Mariab, LENNON, Jay T.c, DROBNIAK, Agnieszkab, and SCHIMMELMANN, Arndta
-
 <!--- pub entry --->
 <p>  Yin Y, Masalerz M, <u>Lennon JT</u>, Drobniak A, Schimmelmann A (In Review) Characterization and microbial mitigation of fugitive methane emissions from oil and gas wells: Example from Indiana, USA.
 </p>
@@ -59,7 +57,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p> Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf">supplementary information</a>)
+<p> Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_Cover_2019.pdf">Cover of Issue</a>)
 </p>
 
 <!--- pub entry --->
