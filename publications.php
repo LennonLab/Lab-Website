@@ -20,7 +20,7 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
-<p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2019) Metabolic insight into bacterial community assembly across ecosystem boundaries. bioRxiv <a href="https://www.biorxiv.org/content/10.1101/758615v1"> doi: https://doi.org/10.1101/758615  </a>
+<p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2019) Low costs of adaptation to dietary restriction. bioRxiv <a href="https://www.biorxiv.org/content/10.1101/2019.12.19.883058v1"> doi: https://doi.org/10.1101/2019.12.19.883058  </a>
 </p>
 
 <!--- pub entry --->
@@ -29,10 +29,6 @@ p {
 
 <!--- pub entry --->
 <p> <u>Lennon JT</u>, Locey KJ (In Revision) More evidence for Earth's massive microbiome
-</p>
-
-<!--- pub entry --->
-<p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (In Review) Microbial rescue effects: how microbiomes can save hosts from extinction. OSF Preprint <a href= "https://osf.io/snr49"> doi 10.31219/osf.io/snr49 </a>
 </p>
 
 <!--- pub entry --->
@@ -54,6 +50,18 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 </p>
 
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
+
+<!--- pub entry --->
+<p>Lennon JT (In Press Commentary at mBio) Microbial life underfoot. </p>
+
+<!--- pub entry --->
+<p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (In Press at Ecology) Metabolic insight into bacterial community assembly across ecosystem boundaries. bioRxiv <a href="https://www.biorxiv.org/content/10.1101/758615v1"> doi: https://doi.org/10.1101/758615  </a>
+</p>
+
+
+<!--- pub entry --->
+<p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (2019) Microbial rescue effects: how microbiomes can save hosts from extinction. Functional Ecology <a href= "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13493">  https://doi.org/10.1111/1365-2435.13493 </a>
+</p>
 
 
 <!--- pub entry --->
