@@ -65,7 +65,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p> Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf">supplementary information</a>)
+<p> Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_2019.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf">supplementary information</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_Lennon_Cover_2019.pdf">Cover of Issue</a>)
 </p>
 
 <!--- pub entry --->

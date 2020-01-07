@@ -161,21 +161,6 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 </div>
 <div style="clear: both;"><br /><br /></div>
 
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/AshleyHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Justice"></a>
-<h5>Ashley Justice</h5>
-<p><b>Undergraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-Microbiology and evolution.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="left-side">
@@ -295,7 +280,9 @@ Microbiology, evolution, cell and developmental biology.
 <h5>Undergraduate Researchers </h5>
 
 <!---entry--->
-<p><b>JD French</b>, Indiana University</p>
+<p><b>Ashley Justice</b>, Indiana University</p>
+<!---entry--->
+<p><b>John "JD" French</b>, Indiana University</p>
 <!---entry--->
 <p><b>Benjamin Kelly</b>, Indiana University</p>
 <!---entry--->
