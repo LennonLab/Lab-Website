@@ -233,7 +233,7 @@ Microbiology, evolution, cell and developmental biology.
 <!--- entry --->
 <p><b>Jordan Bird</b>, Postdoctoral Researcher, Postdoc University of Arkansas for Medical Sciences</p>
 <!--- entry --->
-<p><b>Ken Locey</b>, Postdoctoral Researcher, Associate Professor Diné College</p>
+<p><b>Ken Locey</b>, Postdoctoral Researcher, Data Analyst, Rush University Medical Center</p>
 <!--- entry --->
 <p><b>Kevin Webster</b>, Ph.D. student, Associate Research Scientist at Planetary Science Institute, Postdoc at University of Arizona</p>
 <!--- entry --->

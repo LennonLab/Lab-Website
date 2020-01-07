@@ -23,7 +23,8 @@
     <div id="right-side-research">
     <h5>Microbial seed banks </h5>
     <p>
-    In nature, most individuals live in unpredictable environments and experience conditions that are suboptimal for growth and reproduction. When faced with biotic or abiotic stress, many organisms hedge their bets by entering a reversible state of reduced metabolic activity, or dormancy. Transitions into dormancy create a "seed bank" that represents a reservoir of taxonomic, genetic, and functional biodiversity. We use simulation modeling and  molecular tools to better understand how dormancy and environmental cues structure microbial communities in natural, engineered, and host-associated ecosystems.
+In nature, environmental conditions are often suboptimal for growth and reproduction. Thus, organisms must be able to survive long periods of stress and resource limitation, rendering longevity a key life-history trait for many organisms, including microorganisms. One strategy highlighted in our lab’s research is dormancy, a reversible state of reduced metabolic activity. Dormancy leads to the accumulation of genetic, phenotypic, and taxonomic diversity stored in seed banks. We study the evolution and ecology of microbial dormancy, longevity, and the related phenomenon of aging. We use laboratory evolution experiments, simulation modeling, and molecular tools to better understand how these life-history traits structure microbial communities in natural, engineered, and host-associated ecosystems.
+
     </p>
     </div>
     
@@ -39,7 +40,7 @@
     <div id="right-side-research">
     <h5>Eco-evolutionary dynamics </h5>
     <p>
-    Microbes are critical components of ecosystem structure and function. However, ecosystem processes can be rapidly altered by the underlying evolutionary forces that structure microbial populations. The effects of such dynamics can be detected across biological scales, from molecules (e.g. nucleotide substitution rates) to ecosystem processes (e.g. predator-prey dynamics and resource utilization). In our laboratory, we use a combination of experimental manipulation and an "-omics" driven systems approach to study the eco-evolutionary feedbacks of starvation, stoichiometry, and seed banks on microbial populations and communities.
+Owing to their large population sizes and short generation times, microorganisms have the capacity to evolve on contemporary time scales. This high rate of population turnover can be exploited to examine evolutionary dynamics that would take thousands to millions of years to occur in plant and animal systems, allowing us to answer fundamental questions about the nature of evolution. In our lab, we examine how microorganisms evolve and adapt in an ecologically relevant context by replicating the environmental conditions microorganisms frequently encounter in nature. Through a combination modeling, experimental evolution, genomics, high-throughput trait and fitness measurements, we quantify the rate and direction of evolution and coevolution across a range of environments.  
     </p>
     </div>
     
@@ -55,7 +56,7 @@
     <div id="right-side-research">
     <h5>Microbial community ecology and biodiversity </h5>
     <p>
-The last  decade has revolutionized the way we study microbial diversity. However,  the mechanisms and processes by which microbial communities are  structured remain poorly resolved. We investigate microbial  community responses (e.g., community composition, biodiversity patterns, function, stability) along environmental gradients (e.g., resources, moisture, and  connectivity), to understand the importance of constraints, such as  ecosystem residence time, in structuring natural, managed, and  host-related microbial communities using lab- and field-based  experiments alongside ecological  theory, individual-based modeling, and macroecological analyses of  global-scale data sets. 
+Microorganisms exhibit remarkably high biodiversity at the global scale and are assembled into taxonomically diverse communities across a range of ecosystems. Our lab studies the processes and constraints that underlie patterns of diversity across space and time. We study how factors such as resources, habitat complexity, and residence time interact with ecological processes (e.g., dispersal and dormancy) to influence microbial community structure across space and time. Using observations and experiments from the laboratory and field, a variety of simulation modeling techniques, and macroecological syntheses of global-scale biodiversity data, we evaluate a broad range of theoretically motivated questions about the mechanisms that regulate microbial systems.
     </p>
     </div>
     
@@ -73,31 +74,16 @@ The last  decade has revolutionized the way we study microbial diversity. Howeve
     </div>
     
     <div id="right-side-research">
-    <h5>Ecosystem processes</h5>
+    <h5>Microbial Traits</h5>
     <p>
- Microorganisms regulate the flow of energy and materials in natural and managed ecosystems. For example, microbes alter the concentration and composition of resources (e.g., carbon) in ways that influence food webs and the physical environment (e.g., lakes, soils, caves). In our laboratory, we address questions related to ecosystem processes at scales from individual-level variation in physiology to ecosystem fluxes at the landscape. To address these issues, our work integrates molecular and biogeochemical techniques ranging from laboratory investigation and comparative surveys to whole-ecosystem manipulations.  
+ Traits refer to the physiological, morphological, and behavioral characteristics that influence the fitness or performance of individuals under a given set of environmental conditions. In microbial systems, the interplay of individual traits leads to the emergence of population-, community, and ecosystem-level phenomena. Our lab has explores important microbial traits including resource use, enzyme capacity, biofilm production, phage resistance, and stress tolerance. Although traits have historically been difficult to study for microbes, our lab investigates microbial traits using phylogenetic comparative methods, field sampling, wet lab experiments, and computational methods to understand how contemporary and deeply conserved traits evolve, shift along environmental gradients, structure communities, and influence ecosystem processes.
     </p>
     </div>
     
     
     <div style="clear: both;"><br /><br /></div>
 
-    <!--- entry --->
-    <div id="left-side">
-    <img src="https://www.indiana.edu/~microbes/images/research/KBS_soils_3.jpg" />
-    </div>
-    
-    <div id="right-side-research">
-    <h5>Microbial traits </h5>
-    <p>
-Traits refer to the physiological, morphological, and behavioral characteristics of individuals. Over the past decade, plant and animal ecologists have made major advances in understanding patterns of biodiversity by exploring functional traits. Although traits have historically been difficult to study for microbes, our lab has been using a combination of culture-dependent and culture-independent (e.g., sequencing and flow cytometry) approaches to understand how contemporary and deeply conserved traits evolve, shift along environmental gradients, structure communities, and influence ecosystem processes.  
-    </p>
-    </div>
-
-
-	<div style="clear: both;"><br /><br /></div>
-    
-
+  
 </div>
 
 
