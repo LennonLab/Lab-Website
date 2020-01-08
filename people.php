@@ -144,6 +144,23 @@ Microbial ecology, resilience and resistance, and molecular genetics.
 
 <div style="clear: both;"><br /><br /></div>
 
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/FordHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Fishman"></a>
+<h5>Ford Fishman </h5>
+<p><b>Ph.D. Student</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial community interactions, social immunity decisions, computational biology.
+</p>
+</div>
+
+<div style="clear: both;"><br /><br /></div>
+
 
 <!--- entry --->
 <div id="left-side">
@@ -220,7 +237,7 @@ Microbiology, evolution, cell and developmental biology.
 <!--- entry --->
 <p><b>Ken Locey</b>, Postdoctoral Researcher, Data Analyst, Rush University Medical Center</p>
 <!--- entry --->
-<p><b>Kevin Webster</b>, Ph.D. student, Associate Research Scientist at Planetary Science Institute, Postdoc at University of Arizona</p>
+<p><b>Kevin Webster</b>, Ph.D. student, Associate Research Scientist at Planetary Science Institute</p>
 <!--- entry --->
 <p><b>Mario Muscarella</b>, Ph.D. student, Research Fellow Université du Québec à Montréal (UQAM) </p>
 <!--- entry --->
@@ -228,7 +245,7 @@ Microbiology, evolution, cell and developmental biology.
 <!--- entry --->
 <p><b>Ariane Peralta</b>, Postdoctoral Researcher, Assistant Professor East Carolina University</p>
 <!--- entry --->
-<p><b>Sarah Placella</b>, Postdoctoral Researcher, Consultant at Sevident</p>
+<p><b>Sarah Placella</b>, Postdoctoral Researcher, CEO Root Applied Sciences</p>
 <!--- entry --->
 <p><b>Stuart Jones</b>, Postdoctoral Researcher, Associate Professor University of Notre Dame</p>
 <!--- entry --->
@@ -238,7 +255,7 @@ Microbiology, evolution, cell and developmental biology.
 <!--- entry --->
 <p><b>Evan Kane</b>, Postdoctoral Researcher, Associate Professor Michigan Tech</p>
 <!--- entry --->
-<p><b>Kali Bird</b>, Graduate Student, Founder of Hike New York</p>
+<p><b>Kali Bird</b>, Graduate Student, Associate Director Catksill Center for Conservation and Development</p>
 <!--- entry --->
 <p><b>Venus Kuo</b>, Graduate Student</p>
 
@@ -246,12 +263,14 @@ Microbiology, evolution, cell and developmental biology.
 <!--- entry --->
 <p><b>Melany Fisk</b>, Professor, Miami University</p>
 <!--- entry --->
-<p><b>Sarah Bray</b>, Associate Professor, Transylvania University</p>
+<p><b>Sarah Bray</b>, Professor, Transylvania University</p>
 <!--- entry --->
 <p><b>Marty Green</b>, Teacher, Plainwell Middle School</p>
 <!--- entry --->
 <p><b>Sandy Erwin</b>, Teacher, Harper Creek High School</p>
 <h5>Research Technicians and Assistants </h5>
+<!--- entry --->
+<p><b>Kyle Miller</b>, Technician</p>
 <!--- entry --->
 <p><b>McKenzie Givens</b>, Technician</p>
 <!--- entry --->
