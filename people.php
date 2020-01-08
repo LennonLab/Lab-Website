@@ -161,7 +161,22 @@ Microbial community interactions, social immunity decisions, computational biolo
 
 <div style="clear: both;"><br /><br /></div>
 
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/ChianJungHead.jpg" />
+</div>
 
+<div id="right-side-research">
+<a id="Chen"></a>
+<h5>Chian Jung Chen </h5>
+<p><b>Master's Student</b></p>
+<p>
+<b>Research interests:</b><br />
+Biotechnology, virus genetics, sporulation, evolution.
+</p>
+</div>
+
+<div style="clear: both;"><br /><br /></div>
 <!--- entry --->
 <div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/BrentHead.jpg" />
