@@ -161,6 +161,26 @@ Microbial community interactions, social immunity decisions, computational biolo
 
 <div style="clear: both;"><br /><br /></div>
 
+
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/WallHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Wall"></a>
+<h5>Patrick Wall </h5>
+<p><b>Ph.D. Student (co-advised with <a href="https://homes.luddy.indiana.edu/rocha/">Luis M. Rocha</a>)</b></p>
+<p>
+<b>Research interests:</b><br />
+Network science and microbial communication.
+</p>
+</div>
+
+<div style="clear: both;"><br /><br /></div>
+
+
 <!--- entry --->
 <div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/ChianJungHead.jpg" />
@@ -177,6 +197,7 @@ Biotechnology, virus genetics, sporulation, evolution.
 </div>
 
 <div style="clear: both;"><br /><br /></div>
+
 <!--- entry --->
 <div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/BrentHead.jpg" />
