@@ -30,17 +30,15 @@ p {
 
 
 <!--- pub entry --->
-<p>  Yin Y, Masalerz M, <u>Lennon JT</u>, Drobniak A, Schimmelmann A (In Review) Characterization and microbial mitigation of fugitive methane emissions from oil and gas wells: Example from Indiana, USA.
-</p>
-
-<!--- pub entry --->
 <p> Muscarella ME, <u>Lennon JT</u> (2018) Trait-based approach to bacterial growth efficiency. bioRxiv <a href="https://www.biorxiv.org/content/early/2018/09/27/427161"> doi: https://doi.org/10.1101/427161 </a>
 </p>
+
 
 <!--- pub entry --->
 <p> 
 Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2018) Diversity and composition of cave methanotrophic communities. bioRxiv  <a href="http://biorxiv.org/cgi/content/short/412213v1"> doi: https://doi.org/10.1101/412213 </a>
 </p>
+
 
 <!--- pub entry --->
 <p>
@@ -72,6 +70,11 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 <p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2020) Metabolic insight into bacterial community assembly across ecosystem boundaries. Ecology doi: 10.1002/ecy.2968 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2020_Supplement.pdf">supplementary information</a>)
+</p>
+
+<!--- pub entry --->
+<p>  Yin Y, Masalerz M, <u>Lennon JT</u>, Drobniak A, Schimmelmann A (2020) Characterization and microbial mitigation of fugitive methane emissions from oil and gas wells: Example from Indiana, USA. Applied Geochemistry 118: 104619 (<a href="https://www.indiana.edu/~microbes/publications/Yin_etal_2020.pdf">pdf</a>) 
+</p>
 </p>
 
 
