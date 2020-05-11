@@ -20,8 +20,14 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
-<p> Wisnoski NI, JT (2020) Microbial community assembly in a multi-layer dendritic metacommunity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.01.31.929562v1"> doi: https://doi.org/10.1101/2020.01.31.929562 </a>
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.01.31.929562v1"> doi: https://doi.org/10.1101/2020.01.31.929562 </a>
 </p>
+
+
+<!--- pub entry --->
+<p> Mobilian C, Wisnoski NI, <u>Lennon JT</u>, Abler M, Widney S, Craft CB (2020) Microbial community composition is affected by press, but not pulse, seawater intrusion. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.04.07.030791v1"> doi: https://doi.org/10.1101/2020.04.07.030791 </a>
+</p>
+
 
 <!--- pub entry --->
 <p>  Yin Y, Masalerz M, <u>Lennon JT</u>, Drobniak A, Schimmelmann A (In Review) Characterization and microbial mitigation of fugitive methane emissions from oil and gas wells: Example from Indiana, USA.
