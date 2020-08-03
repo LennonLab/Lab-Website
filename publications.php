@@ -20,6 +20,11 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 
 <!--- pub entry --->
+<p> Kuo V, Lehmkuhl BK <u>Lennon JT</u> (2020) Resuscitation of the microbial seed bank alters plant-soil interactions. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.06.02.130443v1"> doi: doi: https://doi.org/10.1101/2020.06.02.130443  </a>
+</p>
+	
+	
+<!--- pub entry --->
 <p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.01.31.929562v1"> doi: https://doi.org/10.1101/2020.01.31.929562 </a>
 </p>
 
@@ -43,7 +48,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
 
 <!--- pub entry --->
-<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. doi: 10.1111/1462-2920.15120 (<a href="Muscarella_etal_2020.pdf">pdf</a>) 
+<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. doi: 10.1111/1462-2920.15120 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2020.pdf">pdf</a>) 
 </p>
 	
 <!--- pub entry --->
@@ -62,7 +67,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p>Lennon JT (2020) Microbial life underfoot. mBio 11:e03201-19 (<a href="Lennon_2020.pdf">pdf</a>) 
+<p><u>Lennon JT</u> (2020) Microbial life underfoot. mBio 11:e03201-19 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_2020.pdf">pdf</a>) 
 </p>
 
 
