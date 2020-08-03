@@ -58,7 +58,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <!--- pub entry --->
 <p> Locey KJ, Muscarella ME, Larsen ML, Bray SR, Jones SE, <u>Lennon JT</u> (2020) Dormancy dampens the microbial distance-decay relationship. Philosophical Transactions of the Royal Society B. 375: 20190243 (<a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2020_Supplement.pdf">supplementary information</a>)
-</p>
+</p> 
 
 
 <!--- pub entry --->
