@@ -30,11 +30,6 @@ p {
 
 
 <!--- pub entry --->
-<p> Muscarella ME, <u>Lennon JT</u> (2018) Trait-based approach to bacterial growth efficiency. bioRxiv <a href="https://www.biorxiv.org/content/early/2018/09/27/427161"> doi: https://doi.org/10.1101/427161 </a>
-</p>
-
-
-<!--- pub entry --->
 <p> 
 Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2018) Diversity and composition of cave methanotrophic communities. bioRxiv  <a href="http://biorxiv.org/cgi/content/short/412213v1"> doi: https://doi.org/10.1101/412213 </a>
 </p>
@@ -47,7 +42,10 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
 
-
+<!--- pub entry --->
+<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. doi: 10.1111/1462-2920.15120 (<a href="Muscarella_etal_2020.pdf">pdf</a>) 
+</p>
+	
 <!--- pub entry --->
 <p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Leters. (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020_Supplement.pdf">supplementary information</a>)
 </p>

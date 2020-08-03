@@ -60,56 +60,6 @@ evolution within communities
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/MeganBHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Behringer"></a>
-<h5>Megan Behringer </h5>
-<p><b>Postdoctoral Researcher (co-mentored with <a href="https://biodesign.asu.edu/michael-lynch">Michael Lynch</a>)</b><br />
-<p>
-<b>Research interests:</b><br />
-Genome Evolution, Experimental Evolution, Mutation, Bioinformatics. </p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/ShoemakerHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Shoemaker"></a>
-<h5>Will Shoemaker </h5>
-<p><b>Ph.D. Student</b><br />
-<a href="https://wrshoemaker.github.io//">Personal website</a></p>
-<p>
-<b>Research interests:</b><br />
-Microbial life-history traits, ecological-evolutionary interactions, and bioinformatics.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/WisnoskiHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Wisnoski"></a>
-<h5>Nathan Wisnoski </h5>
-<p><b>Ph.D. Student</b><br />
-<a href="http://nwisnoski.github.io/">Personal website</a></p>
-<p>
-<b>Research interests:</b><br />
-Hyporheic microbial ecology, dormancy, dispersal, and metacommunities.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
-
-<!--- entry --->
-<div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/Moger-ReischerHead.jpg" />
 </div>
 
@@ -162,7 +112,6 @@ Microbial community interactions, social immunity decisions, computational biolo
 <div style="clear: both;"><br /><br /></div>
 
 
-
 <!--- entry --->
 <div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/WallHead.jpg" />
@@ -180,23 +129,6 @@ Network science and microbial communication.
 
 <div style="clear: both;"><br /><br /></div>
 
-
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/ChianJungHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Chen"></a>
-<h5>Chian Jung Chen </h5>
-<p><b>Master's Student</b></p>
-<p>
-<b>Research interests:</b><br />
-Biotechnology, virus genetics, sporulation, evolution.
-</p>
-</div>
-
-<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="left-side">
@@ -233,22 +165,6 @@ Genetics and microbiology.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/McKenzieHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="McKenzi"></a>
-<h5>Kelsey McKenzie</h5>
-<p><b>Undergraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-Cell biology and experimental evolution.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
-<!--- entry --->
-<div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/BoylanHead.jpg" />
 </div>
 
@@ -268,18 +184,29 @@ Microbiology, evolution, cell and developmental biology.
 <h4>Former Lab Members </h4>
 </div>
 <h5>Postdocs and Graduate Students </h5>
+
+<!--- entry --->
+<p><b>Megan Behringer</b>, Postdoctoral Researcher, Asssistant Professor Vanderbilt University</p>
+<!--- entry --->
+<p><b>Nathan Wisnoski</b>, Ph.D. student, Postdoc University of Wyoming</p>
+<!--- entry --->
+<p><b>Will Shoemaker</b>, Ph.D. student, Postdoc University of California Los Angeles</p>
+<!--- entry --->
+<p><b>Chian-Jun Chen</b>, Graduate Student, Bioetchnologists</p>
 <!--- entry --->
 <p><b>Jordan Bird</b>, Postdoctoral Researcher, Postdoc University of Arkansas for Medical Sciences</p>
 <!--- entry --->
 <p><b>Ken Locey</b>, Postdoctoral Researcher, Data Analyst, Rush University Medical Center</p>
 <!--- entry --->
-<p><b>Kevin Webster</b>, Ph.D. student, Associate Research Scientist at Planetary Science Institute</p>
+<p><b>Venus Kuo</b>, Graduate Student, Data Scientist</p>
 <!--- entry --->
-<p><b>Mario Muscarella</b>, Ph.D. student, Research Fellow Université du Québec à Montréal (UQAM) </p>
+<p><b>Kevin Webster</b>, Ph.D. student, Assistant Professor Diné College </p>
 <!--- entry --->
-<p><b>Megan Larsen</b>, Ph.D. student, Postdoc at Wilfrid Laurier University</p>
+<p><b>Mario Muscarella</b>, Ph.D. student, Assistant Professor University of Alaska Fairbanks</p>
 <!--- entry --->
-<p><b>Ariane Peralta</b>, Postdoctoral Researcher, Assistant Professor East Carolina University</p>
+<p><b>Megan Larsen</b>, Ph.D. student, Data scientist Phylagen</p>
+<!--- entry --->
+<p><b>Ariane Peralta</b>, Postdoctoral Researcher, Associate Professor East Carolina University</p>
 <!--- entry --->
 <p><b>Sarah Placella</b>, Postdoctoral Researcher, CEO Root Applied Sciences</p>
 <!--- entry --->
@@ -292,8 +219,7 @@ Microbiology, evolution, cell and developmental biology.
 <p><b>Evan Kane</b>, Postdoctoral Researcher, Associate Professor Michigan Tech</p>
 <!--- entry --->
 <p><b>Kali Bird</b>, Graduate Student, Associate Director Catksill Center for Conservation and Development</p>
-<!--- entry --->
-<p><b>Venus Kuo</b>, Graduate Student</p>
+
 
 <h5>Visiting Scholars and Teachers</h5>
 <!--- entry --->
@@ -334,6 +260,8 @@ Microbiology, evolution, cell and developmental biology.
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b>Kelsey McKenzie</b>, Indiana University</p>
 <!---entry--->
 <p><b>Ashley Justice</b>, Indiana University</p>
 <!---entry--->
