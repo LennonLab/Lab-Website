@@ -34,7 +34,7 @@ img {
 <a href="https://www.indiana.edu/~microbes/images/people/CV_Lennon.pdf">view CV</a></p>
 <p>
 <b>Research interests:</b><br />
-Biodiversity, traits, dormancy, microbiology, resource variability, ecology and evolution.</p>
+Ecology and evolution of microbial systems.</p>
 </div>
 
 
@@ -149,6 +149,22 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 
 <!--- entry --->
 <div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/LongHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Lehmkuhl"></a>
+<h5>Emily Long </h5>
+<p><b>Research Technician</b></p>
+<p>
+<b>Research interests:</b><br />
+Resistance strategies, pathogen-specific intervention, host-phage evolution.
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/SniderHead.jpg" />
 </div>
 
@@ -260,6 +276,8 @@ Microbiology, evolution, cell and developmental biology.
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b>Walker, Katarina </b>, Indiana University</p>
 <!---entry--->
 <p><b>Kelsey McKenzie</b>, Indiana University</p>
 <!---entry--->

@@ -28,6 +28,17 @@ p {
 <p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.01.31.929562v1"> doi: https://doi.org/10.1101/2020.01.31.929562 </a>
 </p>
 
+	
+<!--- pub entry --->
+<p> Shoemaker WR, <u>Lennon JT</u> (2020) Quantifying parallel evolution. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.05.13.070953v1"> doi: https://doi.org/10.1101/2020.05.13.070953 
+</a>
+</p>
+	
+	
+<!--- pub entry --->
+<p> Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kolka RK, Kane ES, Lilleskov EA (In Review) Depth-dependent responses of peatland microbial communities to plant functional group manipulation and experimental drought </a>
+</p>	
+
 
 <!--- pub entry --->
 <p> Mobilian C, Wisnoski NI, <u>Lennon JT</u>, Abler M, Widney S, Craft CB (2020) Microbial community composition is affected by press, but not pulse, seawater intrusion. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.04.07.030791v1"> doi: https://doi.org/10.1101/2020.04.07.030791 </a>
@@ -48,21 +59,22 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
 
 <!--- pub entry --->
-<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. doi: 10.1111/1462-2920.15120 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2020.pdf">pdf</a>) 
+<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. 22: 3494–3504 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2020.pdf">pdf</a>) 
 </p>
 	
+
 <!--- pub entry --->
-<p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Leters. (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020_Supplement.pdf">supplementary information</a>)
+<p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Leters. 16:20200008 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020_Supplement.pdf">supplementary information</a>)
 </p>
 
 
 <!--- pub entry --->
-<p> Locey KJ, Muscarella ME, Larsen ML, Bray SR, Jones SE, <u>Lennon JT</u> (2020) Dormancy dampens the microbial distance-decay relationship. Philosophical Transactions of the Royal Society B. 375: 20190243 (<a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2020_Supplement.pdf">supplementary information</a>)
-</p>
+<p> Locey KJ, Muscarella ME, Larsen ML, Bray SR, Jones SE, <u>Lennon JT</u> (2020) Dormancy dampens the microbial distance-decay relationship. Philosophical Transactions of the Royal Society B. 375:20190243 (<a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2020_Supplement.pdf">supplementary information</a>)
+</p> 
 
 
 <!--- pub entry --->
-<p> <u>Lennon JT</u>, Locey KJ (2020) More evidence for Earth's massive microbiome. Biology Direct (<a href="https://www.indiana.edu/~microbes/publications/Lennon_Locey_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Lennon_Locey_2020_Supplement.pdf">supplementary information</a>)
+<p> <u>Lennon JT</u>, Locey KJ (2020) More evidence for Earth's massive microbiome. Biology Direct. 15:5 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_Locey_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Lennon_Locey_2020_Supplement.pdf">supplementary information</a>)
 </p>
 
 
@@ -72,12 +84,12 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2020) Metabolic insight into bacterial community assembly across ecosystem boundaries. Ecology doi: 10.1002/ecy.2968 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2020_Supplement.pdf">supplementary information</a>)
+<p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2020) Metabolic insight into bacterial community assembly across ecosystem boundaries. Ecology. 101:e02968 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Wisnoski_etal_2020_Supplement.pdf">supplementary information</a>)
 </p>
+
 
 <!--- pub entry --->
 <p>  Yin Y, Masalerz M, <u>Lennon JT</u>, Drobniak A, Schimmelmann A (2020) Characterization and microbial mitigation of fugitive methane emissions from oil and gas wells: Example from Indiana, USA. Applied Geochemistry 118: 104619 (<a href="https://www.indiana.edu/~microbes/publications/Yin_etal_2020.pdf">pdf</a>) 
-</p>
 </p>
 
 
