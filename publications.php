@@ -18,16 +18,16 @@ p {
 <br />
 
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
+	
+<!--- pub entry --->
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Stabilizing role of seed banks and the maintenance of bacterial diversity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.10.05.327387v11"> doi: https://doi.org/10.1101/2020.10.05.327387 </a> Oecologia
+</p>	
+	
 
 <!--- pub entry --->
 <p> Kuo V, Lehmkuhl BK <u>Lennon JT</u> (2020) Resuscitation of the microbial seed bank alters plant-soil interactions. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.06.02.130443v1"> doi: doi: https://doi.org/10.1101/2020.06.02.130443  </a>
-</p>
+</p> 
 	
-	
-<!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.01.31.929562v1"> doi: https://doi.org/10.1101/2020.01.31.929562 </a>
-</p>
-
 	
 <!--- pub entry --->
 <p> Shoemaker WR, <u>Lennon JT</u> (2020) Quantifying parallel evolution. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.05.13.070953v1"> doi: https://doi.org/10.1101/2020.05.13.070953 
@@ -38,11 +38,6 @@ p {
 <!--- pub entry --->
 <p> Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kolka RK, Kane ES, Lilleskov EA (In Review) Depth-dependent responses of peatland microbial communities to plant functional group manipulation and experimental drought </a>
 </p>	
-
-
-<!--- pub entry --->
-<p> Mobilian C, Wisnoski NI, <u>Lennon JT</u>, Abler M, Widney S, Craft CB (2020) Microbial community composition is affected by press, but not pulse, seawater intrusion. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.04.07.030791v1"> doi: https://doi.org/10.1101/2020.04.07.030791 </a>
-</p>
 
 
 <!--- pub entry --->
@@ -57,6 +52,15 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 </p>
 
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
+
+<!--- pub entry --->
+<p> Wisnoski NI, <u>Lennon JT</u> (In Press) Microbial community assembly in a multi-layer dendritic metacommunity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.01.31.929562v1"> doi: https://doi.org/10.1101/2020.01.31.929562 </a> Oecologia
+</p>
+
+<!--- pub entry --->
+<p> Mobilian C, Wisnoski NI, <u>Lennon JT</u>, Abler M, Widney S, Craft CB (In Press) Microbial community composition is affected by press, but not pulse, seawater intrusion. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.04.07.030791v1"> doi: https://doi.org/10.1101/2020.04.07.030791 </a> Limnology and Oceangraphy Letters
+</p>
+
 
 <!--- pub entry --->
 <p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. 22: 3494–3504 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2020.pdf">pdf</a>) 
@@ -94,7 +98,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (2019) Microbial rescue effects: how microbiomes can save hosts from extinction. Functional Ecology https://doi.org/10.1111/1365-2435.13493 (<a href="https://www.indiana.edu/~microbes/publications/Mueller_etal_2019.pdf">pdf</a>) 
+<p>  Mueller EA, Wisnoski NI, Peralta AL, <u>Lennon JT</u> (2019) Microbial rescue effects: how microbiomes can save hosts from extinction. Functional Ecology 34:2055–2064 (<a href="https://www.indiana.edu/~microbes/publications/Mueller_etal_2019.pdf">pdf</a>) 
 </p>
 
 
