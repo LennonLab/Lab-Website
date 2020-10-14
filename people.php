@@ -195,6 +195,24 @@ Microbiology, evolution, cell and developmental biology.
 </div>
 <div style="clear: both;"><br /><br /></div>
 
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/JulijantoHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Julijanto"></a>
+<h5>Bryan Julijanto</h5>
+<p><b>Undergraduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Virology, microbiology, and cell biology.
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+
 <!--- entry --->
 <div id="rightside-research">
 <h4>Former Lab Members </h4>
