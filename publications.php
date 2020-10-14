@@ -20,7 +20,7 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 	
 <!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (2020) Stabilizing role of seed banks and the maintenance of bacterial diversity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.10.05.327387v11"> doi: https://doi.org/10.1101/2020.10.05.327387 </a> Oecologia
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Stabilizing role of seed banks and the maintenance of bacterial diversity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.10.05.327387v11"> doi: https://doi.org/10.1101/2020.10.05.327387 </a>
 </p>	
 	
 
@@ -54,7 +54,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
 
 <!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (In Press) Microbial community assembly in a multi-layer dendritic metacommunity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.01.31.929562v1"> doi: https://doi.org/10.1101/2020.01.31.929562 </a> Oecologia
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. Oecologia (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2020.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
