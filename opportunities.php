@@ -32,9 +32,10 @@ Getting hands-on lab experience as an undergraduate is a great way to determine 
 </div>
 
 <p>
-Opportunities are available for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Prospective students may apply either to the Prospectives may apply either to the <a href= "https://biology.indiana.edu/graduate/evolution-ecology-behavior/index.html"> Evolution, Ecology, & Behavior Program</a>  or the <a href="https://biology.indiana.edu/graduate/microbiology/index.html"> Microbiology Program</a>, both of which are in the <a href="https://biology.indiana.edu/">  Department of Biology</a>. The application deadline is December 1. Students are funded through research grants, teaching assistantships, and university fellowships. Prospectives should send an overview of their research interests along with a CV.
+Opportunities are available for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Prospective students may apply either to the Prospectives may apply either to the <a href="https://biology.indiana.edu/graduate/evolution-ecology-behavior/index.html"> Evolution, Ecology, & Behavior Program</a>  or the <a href="https://biology.indiana.edu/graduate/microbiology/index.html">Microbiology Program</a>, both of which are in the <a href="https://biology.indiana.edu/">Department of Biology</a>. The application deadline is December 1. Students are funded through research grants, teaching assistantships, and university fellowships. Prospectives should send an overview of their research interests along with a CV.
 </p>
 
+<a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2020.pdf">pdf</a>
 
 <div>
 	<h4 style="text-align:left;"
@@ -59,9 +60,10 @@ Potential postdocs with interests that broadly align with questions being asked 
 </div>
 
 <p>
-Science is most successful when ideas and knowledge from a variety of perspectives and experiences are openly and respectfully exchanged. Together, our team works to cultivate a safe environment where everyone is treated with respect regardless of race, ethnicity, religion, gender identification, sexual orientation, age, disability status, or economic background. Members of under-represented groups are especially encouraged to contact us about opportunities in the lab. Indiana University does not discriminate and is a equal opportunity and affirmative action employer <a href= "https://policies.iu.edu/files/policy-pdfs/ua-01-equal-opportunity-affirmative-action.pdf"> link</a>
+Science is most successful when ideas and knowledge from a variety of perspectives and experiences are openly and respectfully exchanged. Together, our team works to cultivate a safe environment where everyone is treated with respect regardless of race, ethnicity, religion, gender identification, sexual orientation, age, disability status, or economic background. Members of under-represented groups are especially encouraged to contact us about opportunities in the lab. Indiana University does not discriminate and is a equal opportunity and affirmative action employer <a href="https://policies.iu.edu/files/policy-pdfs/ua-01-equal-opportunity-affirmative-action.pdf"> see here</a>
 <p>
 
+	
 <div>
 
 	<h4 style="text-align:left;"
