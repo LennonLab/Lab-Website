@@ -57,6 +57,23 @@ evolution within communities
 </p>
 </div>
 <div style="clear: both;"><br /><br /></div>
+	
+
+	<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/McMullenHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Schwartz"></a>
+<h5>John McMullen </h5>
+<p><b>Postdoctoral Researcher</b><br />
+<p>
+<b>Research interests:</b><br />
+Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecology
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="left-side">
@@ -163,21 +180,6 @@ Resistance strategies, pathogen-specific intervention, host-phage evolution.
 </div>
 <div style="clear: both;"><br /><br /></div>
 
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/SniderHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Snider"></a>
-<h5>Betsy Snider</h5>
-<p><b>Undergraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-Genetics and microbiology.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="left-side">
@@ -295,7 +297,9 @@ Virology, microbiology, and cell biology.
 <h5>Undergraduate Researchers </h5>
 
 <!---entry--->
-<p><b>Walker, Katarina </b>, Indiana University</p>
+<p><b>Elizabeth ("Betsy") Snider</b>, Indiana University</p>
+<!---entry--->
+<p><b>Katarina Walker</b>, Indiana University</p>
 <!---entry--->
 <p><b>Kelsey McKenzie</b>, Indiana University</p>
 <!---entry--->

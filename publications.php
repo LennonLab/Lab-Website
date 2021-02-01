@@ -20,9 +20,20 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 	
 <!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (2020) Stabilizing role of seed banks and the maintenance of bacterial diversity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.10.05.327387v11"> doi: https://doi.org/10.1101/2020.10.05.327387 </a>
-</p>	
+
+<p> Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.01.25.428163v1"> doi: https://doi.org/10.1101/2021.01.25.428163</a>
+</p>
 	
+	
+<!--- pub entry --->	
+<p> <u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2020) Principles of seed banks: complexity emerging from dormancy. arXiv <a href= "https://arxiv.org/abs/2012.00072"> arXiv:2012.00072 </a>
+</p>		
+				
+	
+<!--- pub entry --->
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Stabilizing role of seed banks and the maintenance of bacterial diversity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.10.05.327387v1"> doi: https://doi.org/10.1101/2020.10.05.327387 </a>
+</p>	
+
 
 <!--- pub entry --->
 <p> Kuo V, Lehmkuhl BK <u>Lennon JT</u> (2020) Resuscitation of the microbial seed bank alters plant-soil interactions. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.06.02.130443v1"> doi: doi: https://doi.org/10.1101/2020.06.02.130443  </a>
@@ -36,7 +47,7 @@ p {
 	
 	
 <!--- pub entry --->
-<p> Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kolka RK, Kane ES, Lilleskov EA (In Review) Depth-dependent responses of peatland microbial communities to plant functional group manipulation and experimental drought </a>
+<p> Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kolka RK, Kane ES, Lilleskov EA (In Review) Peatland microbial community responses to plant functional group and drought are depth-dependent </a>
 </p>	
 
 
@@ -54,21 +65,21 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
 
 <!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. Oecologia (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2020.pdf">pdf</a>) 
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. Oecologia https://doi.org/10.1007/s00442-020-04767-w (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2020.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
-<p> Mobilian C, Wisnoski NI, <u>Lennon JT</u>, Abler M, Widney S, Craft CB (In Press) Microbial community composition is affected by press, but not pulse, seawater intrusion. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.04.07.030791v1"> doi: https://doi.org/10.1101/2020.04.07.030791 </a> Limnology and Oceangraphy Letters
+<p> Mobilian C, Wisnoski NI, <u>Lennon JT</u>, Abler M, Widney S, Craft CB (2020) Differential effects of press vs. pulse seawater intrusion on microbial communities of a tidal freshwater marsh. Limnology and Oceanography Letters doi: 10.1002/lol2.10171 (<a href= "https://www.indiana.edu/~microbes/publications/Mobilian_etal_2020.pdf">pdf</a>)
 </p>
 
 
 <!--- pub entry --->
-<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. 22: 3494–3504 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2020.pdf">pdf</a>) 
+<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. 22: 3494–3504 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_Supplement_2020.pdf">supplementary information</a>) 
 </p>
 	
 
 <!--- pub entry --->
-<p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Leters. 16:20200008 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020_Supplement.pdf">supplementary information</a>)
+<p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Letters. 16:20200008 (<a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Moger-Reischer_etal_2020_Supplement.pdf">supplementary information</a>)
 </p>
 
 
@@ -120,7 +131,7 @@ Salazar A, <u>Lennon JT</u>, Dukes JS (2019) Microbial activity improves predict
 
 
 <!--- pub entry --->
-<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2019.pdf">pdf</a>) 
+<p> Muscarella ME, Boot CM, Broeckling CD, <u>Lennon JT</u> (2019) Resource diversity structures aquatic bacterial communities. ISMEJ 13: 2183–2195 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2019.pdf">pdf</a>,  <a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_Supplement_2019.pdf">supplementary information</a>) 
 </p>
 
 
@@ -246,7 +257,7 @@ LaSarre B, McCully AL, <u>Lennon JT</u>, McKinlay JB (2017) Microbial mutualism 
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (2017) Microbial contributions to subterranean methane sinks. Geobiology 15: 254-258.  (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2017.pdf">pdf</a>)
+<u>Lennon JT</u>, Nguyễn Thùy D, Phạm Ðức N, Drobniak A, Tạ PH, Phạm NÐ, Streil T, Webster KD, Schimmelmann A (2017) Microbial contributions to subterranean methane sinks. Geobiology 15: 254-258  (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2017.pdf">pdf</a>)
 </p>
 
 
@@ -288,8 +299,9 @@ Locey KJ, <u>Lennon JT</u> (2016) Scaling laws predict global microbial diversit
 
 <!--- pub entry --->
 <p>
-Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. Ecology 97: 2034-2043 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2016.pdf">pdf</a>) 
+Muscarella ME, Jones SE, <u>Lennon JT</u> (2016) Species sorting along a subsidy gradient alters community stability. Ecology 97: 2034-2043 (<a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_2016.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Muscarella_etal_Supplement_2016.pdf">supplementary information</a>) 
 </p>
+
 
 
 <!--- pub entry --->
