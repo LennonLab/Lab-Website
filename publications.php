@@ -19,6 +19,13 @@ p {
 
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 	
+
+	
+<!--- pub entry --->
+
+<p> Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2021) Molecular evolutionary dynamics of energy limited microorganisms. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.02.08.430186v1"> doi: https://doi.org/10.1101/2021.02.08.430186</a>
+</p>	
+	
 <!--- pub entry --->
 
 <p> Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.01.25.428163v1"> doi: https://doi.org/10.1101/2021.01.25.428163</a>
@@ -31,7 +38,7 @@ p {
 				
 	
 <!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (2020) Stabilizing role of seed banks and the maintenance of bacterial diversity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.10.05.327387v1"> doi: https://doi.org/10.1101/2020.10.05.327387 </a>
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Stabilizing role of seed banks and the maintenance of bacterial diversity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.10.05.327387v2"> doi: https://doi.org/10.1101/2020.10.05.327387 </a>
 </p>	
 
 
@@ -65,7 +72,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
 
 <!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. Oecologia https://doi.org/10.1007/s00442-020-04767-w (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2020.pdf">pdf</a>) 
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. Oecologia. 195: 13–24 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2020.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
