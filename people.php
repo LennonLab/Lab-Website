@@ -59,7 +59,7 @@ evolution within communities
 <div style="clear: both;"><br /><br /></div>
 	
 
-	<!--- entry --->
+<!--- entry --->
 <div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/McMullenHead.jpg" />
 </div>
@@ -74,6 +74,24 @@ Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecolo
 </p>
 </div>
 <div style="clear: both;"><br /><br /></div>
+	
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/KarakogHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Karakog"></a>
+<h5>Canan Karakoç</h5>
+<p><b>Postdoctoral Researcher</b><br />
+<p>
+<b>Research interests:</b><br />
+Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+	
 
 <!--- entry --->
 <div id="left-side">
