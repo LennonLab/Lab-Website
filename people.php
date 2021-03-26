@@ -167,6 +167,23 @@ Network science and microbial communication.
 
 <!--- entry --->
 <div id="left-side">
+<img src="https://www.indiana.edu/~microbes/images/people/XiaotianHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Lehmkuhl"></a>
+<h5>Xiaotian Zhou </h5>
+<p><b>Visiting Ph.D. Student (Hohai University, Chinese Scholarship Council) </b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial macroecology, species abundance distribution, ecohydrology.
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+
+<!--- entry --->
+<div id="left-side">
 <img src="https://www.indiana.edu/~microbes/images/people/BrentHead.jpg" />
 </div>
 
