@@ -20,43 +20,27 @@ p {
 <p><b>In Review, In Revision, and/or Preprints:</b></p>
 	
 
-	
 <!--- pub entry --->
-
-<p> Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2021) Molecular evolutionary dynamics of energy limited microorganisms. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.02.08.430186v1"> doi: https://doi.org/10.1101/2021.02.08.430186</a>
-</p>	
+<p> Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt D, Lynch M, <u>Lennon JT</u> (2021) Evolution of a minimal cell. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.06.30.450565v1?rss=1"> doi: https://doi.org/10.1101/2021.06.30.450565</a>
+</p>
+	
 	
 <!--- pub entry --->
 
 <p> Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.01.25.428163v1"> doi: https://doi.org/10.1101/2021.01.25.428163</a>
 </p>
-	
-	
-<!--- pub entry --->	
-<p> <u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2020) Principles of seed banks: complexity emerging from dormancy. arXiv <a href= "https://arxiv.org/abs/2012.00072"> arXiv:2012.00072 </a>
-</p>		
 				
 	
 <!--- pub entry --->
 <p> Wisnoski NI, <u>Lennon JT</u> (2020) Stabilizing role of seed banks and the maintenance of bacterial diversity. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.10.05.327387v2"> doi: https://doi.org/10.1101/2020.10.05.327387 </a>
 </p>	
 
-
-<!--- pub entry --->
-<p> Kuo V, Lehmkuhl BK <u>Lennon JT</u> (2020) Resuscitation of the microbial seed bank alters plant-soil interactions. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.06.02.130443v1"> doi: doi: https://doi.org/10.1101/2020.06.02.130443  </a>
-</p> 
-	
 	
 <!--- pub entry --->
-<p> Shoemaker WR, <u>Lennon JT</u> (2020) Quantifying parallel evolution. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.05.13.070953v1"> doi: https://doi.org/10.1101/2020.05.13.070953 
+<p> Shoemaker WR, <u>Lennon JT</u> (2020) Predicting parallelism and quantifying divergence in experimental evolution. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.05.13.070953v2"> doi: https://doi.org/10.1101/2020.05.13.070953 
 </a>
 </p>
 	
-	
-<!--- pub entry --->
-<p> Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kolka RK, Kane ES, Lilleskov EA (In Review) Peatland microbial community responses to plant functional group and drought are depth-dependent </a>
-</p>	
-
 
 <!--- pub entry --->
 <p> 
@@ -70,6 +54,29 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 </p>
 
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
+
+	
+<!--- pub entry --->	
+<p> <u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2022) Principles of seed banks: complexity emerging from dormancy. arXiv <a href= "https://arxiv.org/abs/2012.00072"> arXiv:2012.00072</a>. In Press at Nature Communications.
+</p>		
+	
+	
+<!--- pub entry --->
+<p> Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2021) Molecular evolutionary dynamics of energy limited microorganisms. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.02.08.430186v1"> doi: https://doi.org/10.1101/2021.02.08.430186</a>. In Press at Molecular Biology and Evolution.
+</p>	
+
+
+<!--- pub entry --->
+<p> Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kolka RK, Kane ES, Lilleskov EA (In Press) Peatland microbial community responses to plant functional group and drought are depth-dependent. Molecular Ecology </a> 
+</p>	
+
+	
+	
+	
+<!--- pub entry --->
+<p> Kuo V, Lehmkuhl BK <u>Lennon JT</u> (2021) Resuscitation of the microbial seed bank alters plant-soil interactions. Molecular Ecology. 30: 2905–2914 (<a href="https://www.indiana.edu/~microbes/publications/Kuo_etal_2020.pdf">pdf</a>, <a href="https://www.indiana.edu/~microbes/publications/Kuo_etal_2021_Suppl.pdf">supplementary information</a>) 
+</p>
+	
 
 <!--- pub entry --->
 <p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. Oecologia. 195: 13–24 (<a href="https://www.indiana.edu/~microbes/publications/Wisnoski_Lennon_2020.pdf">pdf</a>) 
@@ -474,7 +481,7 @@ Lau JA, <u>Lennon JT</u> (2012) Rapid responses of soil microorganisms improve p
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Aanderud ZA, Lehmkuhl BK, Schoolmaster DR (2012) Mapping the niche space of soil microorganisms using taxonomy and traits. Ecology 93: 1867-1879 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2012.pdf">pdf</a>, <a href="http://esapubs.org/archive/ecol/E093/165/default.htm">supplementary material</a>, <a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2012_ESABull.pdf">ESA Bulletin Photo Gallery</a>)
+<u>Lennon JT</u>, Aanderud ZA, Lehmkuhl BK, Schoolmaster DR (2012) Mapping the niche space of soil microorganisms using taxonomy and traits. Ecology 93: 1867-1879 (<a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2012.pdf">pdf</a>, <a href="https://esapubs.org/archive/ecol/E093/165/">supplementary material</a>, <a href="https://www.indiana.edu/~microbes/publications/Lennon_etal_2012_ESABull.pdf">ESA Bulletin Photo Gallery</a>)
 </p>
 
 
