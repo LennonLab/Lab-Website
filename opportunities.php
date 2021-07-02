@@ -35,8 +35,6 @@ Getting hands-on lab experience as an undergraduate is a great way to determine 
 Opportunities are available for motivated graduate students interested in pursuing a Ph.D. in microbial ecology and evolution. Prospective students may apply either to the Prospectives may apply either to the <a href="https://biology.indiana.edu/graduate/evolution-ecology-behavior/index.html"> Evolution, Ecology, & Behavior Program</a>  or the <a href="https://biology.indiana.edu/graduate/microbiology/index.html">Microbiology Program</a>, both of which are in the <a href="https://biology.indiana.edu/">Department of Biology</a>. The application deadline is December 1. Students are funded through research grants, teaching assistantships, and university fellowships. Prospectives should send an overview of their research interests along with a CV.
 </p>
 
-<a href="https://www.indiana.edu/~microbes/publications/Locey_etal_2020.pdf">pdf</a>
-
 <div>
 	<h4 style="text-align:left;"
     	<pre> 

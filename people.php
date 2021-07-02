@@ -65,7 +65,7 @@ evolution within communities
 </div>
 
 <div id="right-side-research">
-<a id="Schwartz"></a>
+<a id="McMullen"></a>
 <h5>John McMullen </h5>
 <p><b>Postdoctoral Researcher</b><br />
 <p>
@@ -82,7 +82,7 @@ Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecolo
 </div>
 
 <div id="right-side-research">
-<a id="Karakog"></a>
+<a id="Karakoc"></a>
 <h5>Canan Karakoç</h5>
 <p><b>Postdoctoral Researcher</b><br />
 <p>
@@ -171,7 +171,7 @@ Network science and microbial communication.
 </div>
 
 <div id="right-side-research">
-<a id="Lehmkuhl"></a>
+<a id="Zhou"></a>
 <h5>Xiaotian Zhou </h5>
 <p><b>Visiting Ph.D. Student (Hohai University, Chinese Scholarship Council) </b></p>
 <p>
@@ -205,7 +205,7 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 </div>
 
 <div id="right-side-research">
-<a id="Lehmkuhl"></a>
+<a id="Long"></a>
 <h5>Emily Long </h5>
 <p><b>Research Technician</b></p>
 <p>
@@ -218,37 +218,19 @@ Resistance strategies, pathogen-specific intervention, host-phage evolution.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/BoylanHead.jpg" />
+<img src="https://www.indiana.edu/~microbes/images/people/HillHead.jpg" />
 </div>
 
 <div id="right-side-research">
-<a id="Boylan"></a>
-<h5>Danni Boylan</h5>
-<p><b>Undergraduate Researcher</b></p>
+<a id="Long"></a>
+<h5>Caleb Hill </h5>
+<p><b>Undergaduate Researcher</b></p>
 <p>
 <b>Research interests:</b><br />
-Microbiology, evolution, cell and developmental biology.
+Ecology and evolution of microbial communities, synthetic biology.
 </p>
 </div>
 <div style="clear: both;"><br /><br /></div>
-
-
-<!--- entry --->
-<div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/JulijantoHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Julijanto"></a>
-<h5>Bryan Julijanto</h5>
-<p><b>Undergraduate Researcher</b></p>
-<p>
-<b>Research interests:</b><br />
-Virology, microbiology, and cell biology.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
 
 <!--- entry --->
 <div id="rightside-research">
@@ -331,6 +313,10 @@ Virology, microbiology, and cell biology.
 
 <h5>Undergraduate Researchers </h5>
 
+<!---entry--->
+<p><b>Danni Boylan</b>, Indiana University</p>
+<!---entry--->
+<p><b>Bryan Julijanto</b>, Indiana University</p>
 <!---entry--->
 <p><b>Elizabeth ("Betsy") Snider</b>, Indiana University</p>
 <!---entry--->
