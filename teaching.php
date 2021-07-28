@@ -35,7 +35,7 @@ In this graduate-level course we focus on theory, patterns, metrics, and tools u
 <div style="clear: both;"><br /><br /></div>
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/teaching/microbiomes.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/teaching/microbiomes.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -51,14 +51,14 @@ In this graduate-level class, we focus on the microbiomes of different hosts (hu
 
 <!--- entry --->
 <div id="left-side">
-<img src="http://www.indiana.edu/~microbes/images/teaching/colormicro.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/teaching/colormicro.jpg" />
 </div>
 
 <div id="right-side-research">
 <h5>Microbial Ecology  </h5>
 <p><b>BIOL L472 </b></p>
 <p>
-In this <a href="http://www.indiana.edu/~microbes/teaching/L472_Advert.pdf">upper-level course</a>, we cover fundamental concepts of ecology & evolutionary biology as they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary literature, students engage in biodiversity projects that result in oral presentations and a contribution to <a href="https://microbewiki.kenyon.edu/index.php/MicrobeWiki">MicrobeWiki</a>, a open resource on microbes and microbiology. Course offered in spring semesters. See course <a href="http://www.indiana.edu/~microbes/teaching/L472_Syllabus.pdf">syllabus</a> and <a href="http://www.indiana.edu/~microbes/teaching/L472_Schedule.pdf">schedule</a>.
+In this <a href="https://microbes.sitehost.iu.edu/teaching/L472_Advert.pdf">upper-level course</a>, we cover fundamental concepts of ecology & evolutionary biology as they pertain to to microbial systems. In addition to lectures and discussion of papers from the primary literature, students engage in biodiversity projects that result in oral presentations and a contribution to <a href="https://microbewiki.kenyon.edu/index.php/MicrobeWiki">MicrobeWiki</a>, a open resource on microbes and microbiology. Course offered in spring semesters. See course <a href="https://microbes.sitehost.iu.edu/teaching/L472_Syllabus.pdf">syllabus</a> and <a href="https://microbes.sitehost.iu.edu/teaching/L472_Schedule.pdf">schedule</a>.
 </p>
 </div>
 
