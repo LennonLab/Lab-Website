@@ -24,14 +24,14 @@ img {
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/JayHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/JayHead.jpg" />
 </div>
 
 <div id="right-side-research">
 <a id="Lennon"></a>
 <h5>Jay T. Lennon </h5>
 <p><b>Principal Investigator</b><br />
-<a href="https://www.indiana.edu/~microbes/images/people/CV_Lennon.pdf">view CV</a></p>
+<a href="https://microbes.sitehost.iu.edu/images/people/CV_Lennon.pdf">view CV</a></p>
 <p>
 <b>Research interests:</b><br />
 Ecology and evolution of microbial systems.</p>
@@ -43,7 +43,7 @@ Ecology and evolution of microbial systems.</p>
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/DanielHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/DanielHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -61,7 +61,7 @@ evolution within communities
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/McMullenHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/McMullenHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -78,7 +78,7 @@ Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecolo
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/KarakogHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/KarakogHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -95,7 +95,7 @@ Species interactions and coexistence; eco-evolutionary dynamics; experimental ev
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/Moger-ReischerHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/Moger-ReischerHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -113,7 +113,7 @@ Evolution of aging and longevity; evolutionary synthetic biology; experimental e
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/MuellerHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/MuellerHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -131,7 +131,7 @@ Microbial ecology, resilience and resistance, and molecular genetics.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/FordHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/FordHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -149,7 +149,7 @@ Microbial community interactions, social immunity decisions, computational biolo
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/WallHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/WallHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -167,7 +167,7 @@ Network science and microbial communication.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/XiaotianHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/XiaotianHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -184,7 +184,7 @@ Microbial macroecology, species abundance distribution, ecohydrology.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/BrentHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/BrentHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -201,7 +201,7 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/LongHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/LongHead.jpg" />
 </div>
 
 <div id="right-side-research">
@@ -218,7 +218,7 @@ Resistance strategies, pathogen-specific intervention, host-phage evolution.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://www.indiana.edu/~microbes/images/people/HillHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/HillHead.jpg" />
 </div>
 
 <div id="right-side-research">

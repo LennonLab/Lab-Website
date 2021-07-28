@@ -17,7 +17,7 @@
     
     <!--- entry --->
     <div id="left-side">
-    <img src="https://www.indiana.edu/~microbes/images/research/spore.jpg" />
+    <img src="https://microbes.sitehost.iu.edu/images/research/spore.jpg" />
     </div>
     
     <div id="right-side-research">
@@ -34,7 +34,7 @@ In nature, environmental conditions are often suboptimal for growth and reproduc
     
         <!--- entry --->
     <div id="left-side">
-    <img src="https://www.indiana.edu/~microbes/images/research/plaques.jpg" />
+    <img src="https://microbes.sitehost.iu.edu/images/research/plaques.jpg" />
     </div>
     
     <div id="right-side-research">
@@ -50,7 +50,7 @@ Owing to their large population sizes and short generation times, microorganisms
     
     <!--- entry --->
     <div id="left-side">
-    <img src="https://www.indiana.edu/~microbes/images/research/KBS_soils_3.jpg" />
+    <img src="https://microbes.sitehost.iu.edu/images/research/KBS_soils_3.jpg" />
     </div>
     
     <div id="right-side-research">
