@@ -201,23 +201,6 @@ Microbiology, molecular genetics, resuscitation promoting factors.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://microbes.sitehost.iu.edu/images/people/LongHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Long"></a>
-<h5>Emily Long </h5>
-<p><b>Research Technician</b></p>
-<p>
-<b>Research interests:</b><br />
-Resistance strategies, pathogen-specific intervention, host-phage evolution.
-</p>
-</div>
-<div style="clear: both;"><br /><br /></div>
-
-
-<!--- entry --->
-<div id="left-side">
 <img src="https://microbes.sitehost.iu.edu/images/people/HillHead.jpg" />
 </div>
 
@@ -239,15 +222,15 @@ Ecology and evolution of microbial communities, synthetic biology.
 <h5>Postdocs and Graduate Students </h5>
 
 <!--- entry --->
-<p><b>Megan Behringer</b>, Postdoctoral Researcher, Asssistant Professor Vanderbilt University</p>
-<!--- entry --->
-<p><b>Nathan Wisnoski</b>, Ph.D. student, Postdoc University of Wyoming</p>
-<!--- entry --->
 <p><b>Will Shoemaker</b>, Ph.D. student, Postdoc University of California Los Angeles</p>
 <!--- entry --->
-<p><b>Chian-Jun Chen</b>, Graduate Student, Bioetchnologists</p>
+<p><b>Nathan Wisnoski</b>, Ph.D. student, Assistant Professor, Mississippi State University</p>
 <!--- entry --->
-<p><b>Jordan Bird</b>, Postdoctoral Researcher, Postdoc University of Arkansas for Medical Sciences</p>
+<p><b>Megan Behringer</b>, Postdoctoral Researcher, Asssistant Professor Vanderbilt University</p>
+<!--- entry --->
+<p><b>Chian-Jun Chen</b>, Graduate Student, Bioetchnologist</p>
+<!--- entry --->
+<p><b>Jordan Bird</b>, Postdoctoral Researcher, Bioinformatician, University of Arkansas for Medical Sciences</p>
 <!--- entry --->
 <p><b>Ken Locey</b>, Postdoctoral Researcher, Data Analyst, Rush University Medical Center</p>
 <!--- entry --->
@@ -263,11 +246,11 @@ Ecology and evolution of microbial communities, synthetic biology.
 <!--- entry --->
 <p><b>Sarah Placella</b>, Postdoctoral Researcher, CEO Root Applied Sciences</p>
 <!--- entry --->
-<p><b>Stuart Jones</b>, Postdoctoral Researcher, Associate Professor University of Notre Dame</p>
+<p><b>Stuart Jones</b>, Postdoctoral Researcher, Professor University of Notre Dame</p>
 <!--- entry --->
-<p><b>Ed Hall</b>, Postdoctoral Researcher, Assistant Professor Colorado State University</p>
+<p><b>Ed Hall</b>, Postdoctoral Researcher, Associate Professor Colorado State University</p>
 <!--- entry --->
-<p><b>Zach Aanderud</b>, Postdoctoral Researcher, Associate Professor at Brigham Young University</p>
+<p><b>Zach Aanderud</b>, Postdoctoral Researcher, Professor at Brigham Young University</p>
 <!--- entry --->
 <p><b>Evan Kane</b>, Postdoctoral Researcher, Associate Professor Michigan Tech</p>
 <!--- entry --->
@@ -284,6 +267,8 @@ Ecology and evolution of microbial communities, synthetic biology.
 <!--- entry --->
 <p><b>Sandy Erwin</b>, Teacher, Harper Creek High School</p>
 <h5>Research Technicians and Assistants </h5>
+<!--- entry --->
+<p><b>Emily Long</b>, Technician</p>
 <!--- entry --->
 <p><b>Kyle Miller</b>, Technician</p>
 <!--- entry --->
