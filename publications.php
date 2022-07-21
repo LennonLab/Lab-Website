@@ -21,59 +21,80 @@ p {
 	
 
 <!--- pub entry --->
+<p> Bolin LG, <u>Lennon JT</u>, Lau JA (2021) Traits of soil bacteria predict plant responses to soil moisture. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.11.12.468384v1"> doi: https://doi.org/10.1101/2022.04.08.487329</a>
+</p>
+	
+	<!--- pub entry --->
 <p> Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lynch M, <u>Lennon JT</u> (2021) Evolution of a minimal cell. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.06.30.450565v3"> doi: https://doi.org/10.1101/2021.06.30.450565</a>
 </p>
-
-<!--- pub entry --->
-<p> Shoemaker WR, <u>Lennon JT</u> (2020) Predicting parallelism and quantifying divergence in experimental evolution. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2020.05.13.070953v2"> doi: https://doi.org/10.1101/2020.05.13.070953 
-</a>
-</p>
 	
 	
-<!--- pub entry --->
-<p> Hu A, Choi M, Tanentzap AJ, Liu J, Jang KS, <u>Lennon JT</u>, Liu Y, Soininen J, Lu X, Zhang Y, Shen J, Wang J (2021) Quantifying microbial associations of dissolved organic matter under global change. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.08.12.456177v1"> doi: https://doi.org/10.1101/2020.05.13.070953 </a>
-</p>
-	
-<!--- pub entry --->
-<p> Krause SMB, Bertilsson S, Grossart HP, Bodelier PLE, van Bodegom P, <u>Lennon JT</u>, Philippot L, Le Roux X (2021) Microbial trait-based approaches for agroecosystems. OSF Preprints <a href="https://osf.io/tw56v/"> doi: 10.31219/osf.io/tw56v </a>
-</p>
-	
-<!--- pub entry --->
-<p> 
-Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2018) Diversity and composition of cave methanotrophic communities. bioRxiv  <a href="http://biorxiv.org/cgi/content/short/412213v1"> doi: https://doi.org/10.1101/412213 </a>
+<!--- pub entry --->		
+<p> Irvine R, Houser M, Marquart-Pyatt ST, Bolin L, Browning EG, Dott G, Evans SE, Howard M, Lau J, <u>Lennon JT</u> (In Review) Soil health through farmers’ eyes: Toward a better understanding of how farmers view, value, and manage for healthier soils.
 </p>
 
-
-<!--- pub entry --->
-<p>
-Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
-</p>
 
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
 
+
+<!--- pub entry --->
+<p> 
+Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2022) Diversity and composition of cave methanotrophic communities. bioRxiv  <a href="http://biorxiv.org/cgi/content/short/412213v1"> doi: https://doi.org/10.1101/412213 </a> Microbiology Spectrum
+</p>	
+	
+<!--- pub entry --->
+<p> Schwartz DA, Lekmkuhl BK, <u>Lennon JT</u> (2023) Phage-encoded sigma factors alter bacterial dormancy. mSphere (<a href="https://microbes.sitehost.iu.edu/publications/Schwartz_etal_2022.pdf">pdf</a>)
+</p>	
+
+	
+<!--- pub entry --->
+<p> Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2022) Seed banks alter the molecular evolutionary dynamics of <i>Bacillus subtilis</i>. Genetics. 221: iyac071 (<a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2022.pdf">pdf</a>)
+</p>	
+	
+
+<!--- pub entry --->
+<p> Hu A, Choi M, Tanentzap AJ, Liu J, Jang KS, <u>Lennon JT</u>, Liu Y, Soininen J, Lu X, Zhang Y, Shen J, Wang J (2021) Ecological networks of dissolved organic matter and microorganisms under global change. Nature Communications 13: 3699 (<a href="https://microbes.sitehost.iu.edu/publications/Hu_etal_2022a.pdf">pdf</a>)
+</p>	
+	
 	
 <!--- pub entry --->	
-
-<p> Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. Proceedings of the National Academy of Sciences of the United States of America. 118: e2101691118 (<a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2021b.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2021b_Suppl.pdf">supplementary information</a>) 
+<p> Hu A, Jang KS, Meng F, Stegen J, Tanentzap AJ, Choi M, <u>Lennon JT</u>, Soinenen J, Wang J (2022) Microbial and environmental processes shape the link between organic matter functional traits and composition. Enviromnetal Science and Technology 56: 10504−10516 (<a href="https://microbes.sitehost.iu.edu/publications/Hu_etal_2022b.pdf">pdf</a>)
+</p>	
+	
+	
+<!--- pub entry --->
+<p> Krause SMB, Bertilsson S, Grossart HP, Bodelier PLE, van Bodegom P, <u>Lennon JT</u>, Philippot L, Le Roux X (2021) Microbial trait-based approaches for agroecosystems. OSF Preprints <a href="https://osf.io/tw56v/"> doi: 10.31219/osf.io/tw56v </a> Advances in Agronomy (<a href="https://microbes.sitehost.iu.edu/publications/Krause_etal_2022.pdf">pdf</a>)
 </p>
 
+	
+<!--- pub entry --->
+<p> Shoemaker WR, <u>Lennon JT</u> (2022) Predicting parallelism and quantifying divergence in experimental evolution. mSphere 7: e00672-21 (<a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_Lennon_2022.pdf">pdf</a>)
+</p>	
+	
+	
 <!--- pub entry --->	
-<p> <u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2021) Principles of seed banks: complexity emerging from dormancy. Nature Communications 2: 4807 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2021.pdf">pdf</a>) 
+
+<p> Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, <u>Lennon JT</u> (2021) Microbial population dynamics and evolutionary outcomes under extreme energy-limitation. Proceedings of the National Academy of Sciences of the United States of America. 118: e2101691118 (<a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2021b.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Rillig_etal_2021.pdf">PNAS Commentary</a>, <a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2021b_Suppl.pdf">supplementary information</a>) 
+</p>
+
+	
+<!--- pub entry --->	
+<p> <u>Lennon JT</u>, den Hollander F, Wilke-Berenguer M, Blath J (2021) Principles of seed banks: complexity emerging from dormancy. Nature Communications 2: 4807 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2021a.pdf">pdf</a>) 
 </p>	
 	
 	
 <!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (2021) Stabilizing role of seed banks and the maintenance of bacterial diversity. Ecology Letters. DOI: 10.1111/ele.13853 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_Lennon_2021.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_Lennon_2021_Suppl.pdf">supplementary information</a>) 
+<p> Wisnoski NI, <u>Lennon JT</u> (2021) Stabilising role of seed banks and the maintenance of bacterial diversity. Ecology Letters 24: 2328–2338 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_Lennon_2021.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_Lennon_2021_Suppl.pdf">supplementary information</a>) 
 </p>	
 	
 	
 <!--- pub entry --->
-<p> Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2021) Molecular evolutionary dynamics of energy limited microorganisms. Molecular Biology and Evolution 38: msab195 (<a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2021a.pdf">pdf</a>) 
+<p> Shoemaker WR, Polezhaeva E, Givens KB, <u>Lennon JT</u> (2021) Molecular evolutionary dynamics of energy limited microorganisms. Molecular Biology and Evolution 38: msab195 (<a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2021a.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Shoemaker_etal_2021a_Suppl.zip">supplementary information</a>) 
 </p>	
 
 
 <!--- pub entry --->
-<p> Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kolka RK, Kane ES, Lilleskov EA (In Press) Peatland microbial community responses to plant functional group and drought are depth-dependent. Molecular Ecology </a> 
+<p> Lamit LJ, Romanowicz KJ, Potvin LR, <u>Lennon JT</u>, Tringe SG, Chimner RA, Kolka RK, Kane ES, Lilleskov EA (2021) Peatland microbial community responses to plant functional group and drought are depth-dependent. Molecular Ecology 30: 5119–5136 (<a href="https://microbes.sitehost.iu.edu/publications/Lamit_etal_2021.pdf">pdf</a>)</a> 
 </p>	
 
 	
@@ -81,9 +102,13 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 <p> Kuo V, Lehmkuhl BK <u>Lennon JT</u> (2021) Resuscitation of the microbial seed bank alters plant-soil interactions. Molecular Ecology. 30: 2905–2914 (<a href="https://microbes.sitehost.iu.edu/publications/Kuo_etal_2021.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Kuo_etal_2021_Suppl.pdf">supplementary information</a>) 
 </p>
 	
+<!--- pub entry --->
+<p> <u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2021) Gut bioreactor and method for making the same. United States Patten Application. Pub. No. US 2021/0332314 A1 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2021b.pdf">pdf</a>) 
+</p>
+
 
 <!--- pub entry --->
-<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. Oecologia. 195: 13–24 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_Lennon_2020.pdf">pdf</a>) 
+<p> Wisnoski NI, <u>Lennon JT</u> (2020) Microbial community assembly in a multi-layer dendritic metacommunity. Oecologia 195: 13–24 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_Lennon_2020.pdf">pdf</a>) 
 </p>
 
 <!--- pub entry --->
@@ -92,12 +117,12 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology. 22: 3494–3504 (<a href="https://microbes.sitehost.iu.edu/publications/Muscarella_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Muscarella_etal_Supplement_2020.pdf">supplementary information</a>) 
+<p> Muscarella ME, <u>Lennon JT</u> (2020) Trait-based approach to bacterial growth efficiency. Environmental Microbiology 22: 3494–3504 (<a href="https://microbes.sitehost.iu.edu/publications/Muscarella_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Muscarella_etal_Supplement_2020.pdf">supplementary information</a>) 
 </p>
 	
 
 <!--- pub entry --->
-<p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Letters. 16:20200008 (<a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_etal_2020_Supplement.pdf">supplementary information</a>)
+<p>Moger-Reischer RZ, Snider EZ, McKenzie KL, <u>Lennon JT</u> (2020) Low costs of adaptation to dietary restriction. Biology Letters 16:20200008 (<a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_etal_2020_Supplement.pdf">supplementary information</a>)
 </p>
 
 
@@ -107,7 +132,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p> <u>Lennon JT</u>, Locey KJ (2020) More evidence for Earth's massive microbiome. Biology Direct. 15: 5 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_Locey_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Lennon_Locey_2020_Supplement.pdf">supplementary information</a>)
+<p> <u>Lennon JT</u>, Locey KJ (2020) More evidence for Earth's massive microbiome. Biology Direct 15: 5 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_Locey_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Lennon_Locey_2020_Supplement.pdf">supplementary information</a>)
 </p>
 
 
@@ -117,7 +142,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2020) Metabolic insight into bacterial community assembly across ecosystem boundaries. Ecology. 101: e02968 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_etal_2020_Supplement.pdf">supplementary information</a>)
+<p> Wisnoski NI, Mucarella ME, Larsen ML, Peralta AP, <u>Lennon JT</u> (2020) Metabolic insight into bacterial community assembly across ecosystem boundaries. Ecology 101: e02968 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_etal_2020.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_etal_2020_Supplement.pdf">supplementary information</a>)
 </p>
 
 
@@ -132,7 +157,7 @@ Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emerg
 
 
 <!--- pub entry --->
-<p> Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology. 17: 79-690 (<a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_2019.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf">supplementary information</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_Cover_2019.pdf">Cover of Issue</a>)
+<p> Moger-Reischer RZ, <u>Lennon JT</u> (2019) Microbial aging and longevity. Nature Reviews Microbiology 17: 79-690 (<a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_2019.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_Supplementary_2019.pdf">supplementary information</a>, <a href="https://microbes.sitehost.iu.edu/publications/Moger-Reischer_Lennon_Cover_2019.pdf">Cover of Issue</a>)
 </p>
 
 
@@ -161,7 +186,7 @@ Larsen ML, Wilhelm SW, <u>Lennon JT</u> (2019) Nutrient stoichiometry shapes mic
 
 <!--- pub entry --->
 <p> 
-Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist. 194: 59-72 (<a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information</a>, <a href="https://microbes.sitehost.iu.edu/publications/Loecy_Lennon_2019_code.zip">code</a>)
+Locey KJ, <u>Lennon JT</u> (2019) A residence-time framework for biodiversity. American Naturalist 194: 59-72 (<a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2019.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Locey_Lennon_2019_Suppl.pdf">supplementary information</a>, <a href="https://microbes.sitehost.iu.edu/publications/Loecy_Lennon_2019_code.zip">code</a>)
 </p>
 
 
@@ -290,6 +315,10 @@ Skelton J, Geyer KM, <u>Lennon JT</u>, Creed RP, Brown BL (2017) Multi-scale eco
 *Moger-Reischer RZ, <u>Lennon JT</u> (2017) Book Review. The human superorganism: how the microbiome is revolutionizing the pursuit of a healthy life by Rodney Dietert. Quarterly Review of Biology 92: 203 (<a href="https://microbes.sitehost.iu.edu/publications/Moger-Reicher_Lennon_2017.pdf">pdf</a>)
 </p>
 
+<!--- pub entry --->
+<p>
+*Locey KJ, <u>Lennon JT</u> (2017) A modeling platform for the simultaneous emergence of ecological patterns. PeerJ Preprints. 5:e1469v3 <a href ="https://doi.org/10.7287/peerj.preprints.1469v3">doi: https://doi.org/10.7287/peerj.preprints.1469v3 </a>
+</p>
 
 <!--- pub entry --->
 <p>
@@ -526,7 +555,7 @@ Fierer N, <u>Lennon JT</u> (2011) The generation and maintenance of diversity in
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Jones SE (2011) Microbial seed banks: ecological and evolutionary implications of dormancy. Nature Reviews Microbiology 9:119-130 (<a href="http://www.indiana.edu/~microbes/publications/Lennon_Jones_2011.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Lennon_Jones_2011_Suppl.pdf">supplementary material</a>) 
+<u>Lennon JT</u>, Jones SE (2011) Microbial seed banks: ecological and evolutionary implications of dormancy. Nature Reviews Microbiology 9:119-130 (<a href="https://microbes.sitehost.iu.edu/publications//Lennon_Jones_2011.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Lennon_Jones_2011_Suppl.pdf">supplementary material</a>) 
 </p>
 
 
@@ -556,7 +585,7 @@ Hall EK, Singer GA, Kainz MJ, <u>Lennon JT</u> (2010) Evidence for temperature a
 
 <!--- pub entry --->
 <p>
-Thum RA, <u>Lennon JT</u> (2010) Comparative ecological niche models predictive the invasive spread of variable-leaf milfoil (Myriophyllum heterophyllum) and its potential impact on closely related native species. Biological Invasions 12: 133-143 (<a href="https://microbes.sitehost.iu.edu/publications/Thum_Lennon_2010.pdf">pdf</a>) 
+Thum RA, <u>Lennon JT</u> (2010) Comparative ecological niche models predictive the invasive spread of variable-leaf milfoil (<i>Myriophyllum heterophyllum</i>) and its potential impact on closely related native species. Biological Invasions 12: 133-143 (<a href="https://microbes.sitehost.iu.edu/publications/Thum_Lennon_2010.pdf">pdf</a>) 
 </p>
 
 
@@ -655,7 +684,7 @@ Thum RA, <u>Lennon JT</u>, Connor J, Smagula AP (2005) A DNA fingerprinting appr
 
 <!--- pub entry --->
 <p>
-Dzialowski AR, <u>Lennon JT</u>, O'Brien WJ, Smith VH (2003) Predator-induced phenotypic plasticity in the exotic cladoceran Daphnia lumholtzi. Freshwater Biology 48: 1593-1602 (<a href="https://microbes.sitehost.iu.edu/publications/Dzialowski_etal_2003.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Dzialowski_etal_2003_Cover.pdf">cover</a>)
+Dzialowski AR, <u>Lennon JT</u>, O'Brien WJ, Smith VH (2003) Predator-induced phenotypic plasticity in the exotic cladoceran <i>Daphnia lumholtzi</i>. Freshwater Biology 48: 1593-1602 (<a href="https://microbes.sitehost.iu.edu/publications/Dzialowski_etal_2003.pdf">pdf</a>, <a href="https://microbes.sitehost.iu.edu/publications/Dzialowski_etal_2003_Cover.pdf">cover</a>)
 </p>
 
 
@@ -667,7 +696,7 @@ Cottingham KL, Brown BL, <u>Lennon JT</u> (2001) Biodiversity may regulate the t
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u>, Smith VH, Williams K (2001) Influence of temperature on exotic Daphnia lumholtzi and implications for invasion success. Journal of Plankton Research 23: 425-434 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2001.pdf">pdf</a>)
+<u>Lennon JT</u>, Smith VH, Williams K (2001) Influence of temperature on exotic <i>Daphnia lumholtzi</i> and implications for invasion success. Journal of Plankton Research 23: 425-434 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2001.pdf">pdf</a>)
 </p>
 
 
@@ -679,7 +708,7 @@ deNoyelles FJ, Wang SH, Meyer JO, Huggins DG, <u>Lennon JT</u>, Kolln WS, Randtk
 
 <!--- pub entry --->
 <p>
-<u>Lennon JT</u> (1999) Invasion success of the exotic Daphnia lumholtzi: species traits and community resistance. University of Kansas (USA) 77 pp. (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_1999.pdf">pdf</a>)
+<u>Lennon JT</u> (1999) Invasion success of the exotic <i>Daphnia lumholtzi</i>: species traits and community resistance. University of Kansas (USA) 77 pp. (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_1999.pdf">pdf</a>)
 </p>
 
 

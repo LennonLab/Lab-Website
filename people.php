@@ -30,9 +30,9 @@ img {
 <div id="right-side-research">
 <a id="Lennon"></a>
 <h5>Jay T. Lennon </h5>
-<p><b>Principal Investigator</b><br />
+<p><b>Principal Investigator</b></p>
 <a href="https://microbes.sitehost.iu.edu/images/people/CV_Lennon.pdf">view CV</a></p>
-<p>
+<p>	
 <b>Research interests:</b><br />
 Ecology and evolution of microbial systems.</p>
 </div>
@@ -84,32 +84,15 @@ Among-microbe interactions in microbiomes, nutritional symbioses, chemical ecolo
 <div id="right-side-research">
 <a id="Karakoc"></a>
 <h5>Canan Karakoç</h5>
-<p><b>Postdoctoral Researcher</b><br />
+<p><b>Postdoctoral Researcher</b></p>
+<a href="https://canankarakoc.netlify.app/">Personal website</a></p>
 <p>
 <b>Research interests:</b><br />
 Species interactions and coexistence; eco-evolutionary dynamics; experimental evolution; energy limitation and evolution of dormancy
 </p>
 </div>
 <div style="clear: both;"><br /><br /></div>
-	
 
-<!--- entry --->
-<div id="left-side">
-<img src="https://microbes.sitehost.iu.edu/images/people/Moger-ReischerHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Moger-Reischer"></a>
-<h5>Roy Moger-Reischer </h5>
-<p><b>Ph.D. Student</b></p>
-<a href="https://rmogerr2.wixsite.com/endless-forms">Personal website</a></p>
-<p>
-<b>Research interests:</b><br />
-Evolution of aging and longevity; evolutionary synthetic biology; experimental evolution.
-</p>
-</div>
-
-<div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
 <div id="left-side">
@@ -131,31 +114,13 @@ Microbial ecology, resilience and resistance, and molecular genetics.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://microbes.sitehost.iu.edu/images/people/FordHead.jpg" />
-</div>
-
-<div id="right-side-research">
-<a id="Fishman"></a>
-<h5>Ford Fishman </h5>
-<p><b>Ph.D. Student</b></p>
-<p>
-<b>Research interests:</b><br />
-Microbial community interactions, social immunity decisions, computational biology.
-</p>
-</div>
-
-<div style="clear: both;"><br /><br /></div>
-
-
-<!--- entry --->
-<div id="left-side">
 <img src="https://microbes.sitehost.iu.edu/images/people/WallHead.jpg" />
 </div>
 
 <div id="right-side-research">
 <a id="Wall"></a>
 <h5>Patrick Wall </h5>
-<p><b>Ph.D. Student (co-advised with <a href="https://homes.luddy.indiana.edu/rocha/">Luis M. Rocha</a>)</b></p>
+<p><b>Ph.D. Student (co-advised with <a href="https://cgi.luddy.indiana.edu/~filiradi/">Filippo Radicchi</a>)</b></p>
 <p>
 <b>Research interests:</b><br />
 Network science and microbial communication.
@@ -167,18 +132,19 @@ Network science and microbial communication.
 
 <!--- entry --->
 <div id="left-side">
-<img src="https://microbes.sitehost.iu.edu/images/people/XiaotianHead.jpg" />
+<img src="https://microbes.sitehost.iu.edu/images/people/OBrienHead.jpg" />
 </div>
 
 <div id="right-side-research">
-<a id="Zhou"></a>
-<h5>Xiaotian Zhou </h5>
-<p><b>Visiting Ph.D. Student (Hohai University, Chinese Scholarship Council) </b></p>
+<a id="O'Brien"></a>
+<h5>Joy O'Brien </h5>
+<p><b>Ph.D. Student</b></p>
 <p>
 <b>Research interests:</b><br />
-Microbial macroecology, species abundance distribution, ecohydrology.
+Microbial dormancy, permafrost soils, and global change in the Arctic. 
 </p>
 </div>
+
 <div style="clear: both;"><br /><br /></div>
 
 
@@ -216,13 +182,35 @@ Ecology and evolution of microbial communities, synthetic biology.
 <div style="clear: both;"><br /><br /></div>
 
 <!--- entry --->
+<div id="left-side">
+<img src="https://microbes.sitehost.iu.edu/images/people/ÇakarHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Long"></a>
+<h5>Melih Çakar</h5>
+<p><b>Visiting Researcher (Middle East Technical University) </b></p>
+<p>
+<b>Research interests:</b><br />
+Division of labor in microbial populations.
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+
+
+<!--- entry --->
 <div id="rightside-research">
 <h4>Former Lab Members </h4>
 </div>
 <h5>Postdocs and Graduate Students </h5>
 
 <!--- entry --->
-<p><b>Will Shoemaker</b>, Ph.D. student, Postdoc University of California Los Angeles</p>
+<p><b>Ford Fishman</b>, Master's student, Data Analysis Specialist at Brandeis University</p>
+<!--- entry --->
+<p><b>Roy Moger-Reischer</b>, Ph.D. student, Fermentation Scientist at SIMULATE</p>
+<!--- entry --->
+<p><b>Will Shoemaker</b>, Ph.D. student, Postdoc Abdus Salam International Centre for Theoretical Physics</p>
 <!--- entry --->
 <p><b>Nathan Wisnoski</b>, Ph.D. student, Assistant Professor, Mississippi State University</p>
 <!--- entry --->
@@ -234,7 +222,7 @@ Ecology and evolution of microbial communities, synthetic biology.
 <!--- entry --->
 <p><b>Ken Locey</b>, Postdoctoral Researcher, Data Analyst, Rush University Medical Center</p>
 <!--- entry --->
-<p><b>Venus Kuo</b>, Graduate Student, Data Scientist</p>
+<p><b>Venus Kuo</b>, Master's Student, Data Scientist</p>
 <!--- entry --->
 <p><b>Kevin Webster</b>, Ph.D. student, Assistant Professor Diné College </p>
 <!--- entry --->
@@ -287,6 +275,8 @@ Ecology and evolution of microbial communities, synthetic biology.
 <p><b>Brent Nowinski</b>, Technician</p>
 <!--- entry --->
 <p><b>Megan Lowenberg</b>, Technician</p>
+<!--- entry --->
+<p><b>Lewis Wooster</b>, Technician</p>
 <!--- entry --->
 <p><b>Rob Morrison</b>, Technician</p>
 <!--- entry --->
