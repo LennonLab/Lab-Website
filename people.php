@@ -147,6 +147,23 @@ Microbial dormancy, permafrost soils, and global change in the Arctic.
 
 <div style="clear: both;"><br /><br /></div>
 
+<!--- entry --->
+<div id="left-side">
+<img src="https://microbes.sitehost.iu.edu/images/people/JasmineHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="O'Brien"></a>
+<h5>Jasmine Ahmed </h5>
+<p><b>Masters in Biotechnology</b></p>
+<p>
+<b>Research interests:</b><br />
+Sporulation and environmental change
+</p>
+</div>
+
+<div style="clear: both;"><br /><br /></div>
+
 
 <!--- entry --->
 <div id="left-side">
@@ -197,6 +214,37 @@ Division of labor in microbial populations.
 </div>
 <div style="clear: both;"><br /><br /></div>
 
+<!--- entry --->
+<div id="left-side">
+<img src="https://microbes.sitehost.iu.edu/images/people/ChauhanHead.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Long"></a>
+<h5>Rishma Cjauhan </h5>
+<p><b>Undergaduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbial ecology and evolution
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
+
+<!--- entry --->
+<div id="left-side">
+<img src="https://microbes.sitehost.iu.edu/images/people/Jaziri_Head.jpg" />
+</div>
+
+<div id="right-side-research">
+<a id="Long"></a>
+<h5>Rayan Jaziri </h5>
+<p><b>Undergaduate Researcher</b></p>
+<p>
+<b>Research interests:</b><br />
+Microbiology
+</p>
+</div>
+<div style="clear: both;"><br /><br /></div>
 
 
 <!--- entry --->

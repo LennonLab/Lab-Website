@@ -21,29 +21,51 @@ p {
 	
 
 <!--- pub entry --->
-<p> Bolin LG, <u>Lennon JT</u>, Lau JA (2021) Traits of soil bacteria predict plant responses to soil moisture. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.11.12.468384v1"> doi: https://doi.org/10.1101/2022.04.08.487329</a>
+<p> Fishman FJ, <u>Lennon JT</u> (2022) Macroevolutionary constraints on global microbial diversity. bioRxiv <a href = "https://www.biorxiv.org/content/10.1101/2022.06.04.494835v1"> doi: https://doi.org/10.1101/2022.06.04.494835/ </a>
 </p>
 	
-	<!--- pub entry --->
+<!--- pub entry --->
+<p> Măgălie A, Schwartz DA, <u>Lennon JT</u>, Weitz JS (2022) Optimal dormancy strategies in fluctuating environments given delays in phenotypic switching. bioRxiv <a href = "https://www.biorxiv.org/content/10.1101/2022.10.25.513531v1"> doi: https://doi.org/10.1101/2022.10.25.513531/ </a>
+</p>
+	
+	
+<!--- pub entry --->
 <p> Moger-Reischer RZ, Glass JI, Wise KS, Sun L, Bittencourt DMC, Lynch M, <u>Lennon JT</u> (2021) Evolution of a minimal cell. bioRxiv <a href= "https://www.biorxiv.org/content/10.1101/2021.06.30.450565v3"> doi: https://doi.org/10.1101/2021.06.30.450565</a>
 </p>
 	
+<!--- pub entry --->
+<p>Hu A, Jang K-S, Tanentzap AJ, Zhao W, <u>Lennon JT</u>, Liu J, Li M, Stegen JC, Choi M, Lu Y, Feng X, Wang J (In Review) Thermal responses of dissolved organic matter under global change.</p>
 	
-<!--- pub entry --->		
-<p> Irvine R, Houser M, Marquart-Pyatt ST, Bolin L, Browning EG, Dott G, Evans SE, Howard M, Lau J, <u>Lennon JT</u> (In Review) Soil health through farmers’ eyes: Toward a better understanding of how farmers view, value, and manage for healthier soils.
-</p>
+<!--- pub entry --->
+<p>Wu W, Hsieh C, Logares R, <u>Lennon JT</u>, Liu H (In Revision) Selection exceeds homogenizing dispersal in shaping highly connected bacterial communities along strong environmental gradients.</p>	
 
+<!--- pub entry --->
+<p> <u>Lennon JT</u>, Frost SDW, Nguyen NK, Peralta AL, Place AR, Treseder KK (In Review) Microbiology and climate change: a transdisciplinary imperative.</p>
 
 <p><b>Published or In Press: </b> (* = non-peer-reviewed)</p>
 
-
-<!--- pub entry --->
-<p> 
-Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2022) Diversity and composition of cave methanotrophic communities. bioRxiv  <a href="http://biorxiv.org/cgi/content/short/412213v1"> doi: https://doi.org/10.1101/412213 </a> Microbiology Spectrum
-</p>	
 	
 <!--- pub entry --->
-<p> Schwartz DA, Lekmkuhl BK, <u>Lennon JT</u> (2023) Phage-encoded sigma factors alter bacterial dormancy. mSphere (<a href="https://microbes.sitehost.iu.edu/publications/Schwartz_etal_2022.pdf">pdf</a>)
+<p> McMullen JG, <u>Lennon JT</u> (2022) Mark-recapture of microorganisms. Environmental Microbiology. https://doi.org/10.1111/1462-2920.16267 (<a href="https://microbes.sitehost.iu.edu/publications/McMullen_Lennon_2022.pdf">pdf</a>)
+</p> 
+
+<!--- pub entry --->
+<p> Wisnoski NI, <u>Lennon JT</u>, Lau JA (2022) Scaling up and down: movement ecology for microorganisms. Trends in Microbiology  https://doi.org/10.1016/j.tim.2022.09.016 (<a href="https://microbes.sitehost.iu.edu/publications/Wisnoski_Lennon_2022.pdf">pdf</a>)
+</p>		
+	
+<!--- pub entry --->
+<p> Bolin LG, <u>Lennon JT</u>, Lau JA (2022) Traits of soil bacteria predict plant responses to soil moisture. Ecology https://doi.org/10.1002/ecy.3893 (<a href="https://microbes.sitehost.iu.edu/publications/Bolin_etal_2022.pdf">pdf</a>)
+</p>
+	
+	
+<!--- pub entry --->
+<p> 
+Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>Lennon JT</u> (2022) Diversity and composition of cave methanotrophic communities. Microbiology Spectrum doi.org/10.1128/spectrum.01566-21 (<a href="https://microbes.sitehost.iu.edu/publications/Webster_etal_2022.pdf">pdf</a>)
+</p>	
+	
+	
+<!--- pub entry --->
+<p> Schwartz DA, Lekmkuhl BK, <u>Lennon JT</u> (2022) Phage-encoded sigma factors alter bacterial dormancy. mSphere e00927-22 (<a href="https://microbes.sitehost.iu.edu/publications/Schwartz_etal_2022.pdf">pdf</a>)
 </p>	
 
 	
@@ -53,7 +75,7 @@ Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>L
 	
 
 <!--- pub entry --->
-<p> Hu A, Choi M, Tanentzap AJ, Liu J, Jang KS, <u>Lennon JT</u>, Liu Y, Soininen J, Lu X, Zhang Y, Shen J, Wang J (2021) Ecological networks of dissolved organic matter and microorganisms under global change. Nature Communications 13: 3699 (<a href="https://microbes.sitehost.iu.edu/publications/Hu_etal_2022a.pdf">pdf</a>)
+<p> Hu A, Choi M, Tanentzap AJ, Liu J, Jang KS, <u>Lennon JT</u>, Liu Y, Soininen J, Lu X, Zhang Y, Shen J, Wang J (2022) Ecological networks of dissolved organic matter and microorganisms under global change. Nature Communications 13: 3699 (<a href="https://microbes.sitehost.iu.edu/publications/Hu_etal_2022a.pdf">pdf</a>)
 </p>	
 	
 	
@@ -62,8 +84,12 @@ Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>L
 </p>	
 	
 	
+<!--- pub entry --->		
+<p> Irvine R, Houser M, Marquart-Pyatt ST, Bolin L, Browning EG, Dott G, Evans SE, Howard M, Lau J, <u>Lennon JT</u> (2022) Soil health through farmers’ eyes: Toward a better understanding of how farmers view, value, and manage for healthier soils. In Press. Journal of Soil and Water Conservation.
+</p>	
+	
 <!--- pub entry --->
-<p> Krause SMB, Bertilsson S, Grossart HP, Bodelier PLE, van Bodegom P, <u>Lennon JT</u>, Philippot L, Le Roux X (2021) Microbial trait-based approaches for agroecosystems. OSF Preprints <a href="https://osf.io/tw56v/"> doi: 10.31219/osf.io/tw56v </a> Advances in Agronomy (<a href="https://microbes.sitehost.iu.edu/publications/Krause_etal_2022.pdf">pdf</a>)
+<p> Krause SMB, Bertilsson S, Grossart HP, Bodelier PLE, van Bodegom P, <u>Lennon JT</u>, Philippot L, Le Roux X (2022) Microbial trait-based approaches for agroecosystems. Advances in Agronomy 175: 260-299 (<a href="https://microbes.sitehost.iu.edu/publications/Krause_etal_2022.pdf">pdf</a>)
 </p>
 
 	
@@ -103,7 +129,7 @@ Webster KD, Schimmelmann A, Drobniak A, Mastalerz M, Lagarde LR, Boston PJ, <u>L
 </p>
 	
 <!--- pub entry --->
-<p> <u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2021) Gut bioreactor and method for making the same. United States Patten Application. Pub. No. US 2021/0332314 A1 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2021b.pdf">pdf</a>) 
+<p> <u>Lennon JT</u>, van der Elst LA, Mueller EA, Gumennik A (2021) Gut bioreactor and method for making the same. United States Pattent Application. Pub. No. US 2021/0332314 A1 (<a href="https://microbes.sitehost.iu.edu/publications/Lennon_etal_2021b.pdf">pdf</a>) 
 </p>
 
 
